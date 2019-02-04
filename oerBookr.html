@@ -9,46 +9,54 @@
 		<div class="container main-pg">
             <header>
                 <nav>
-                    <a href="#">Write a Review</a>
-                    <a href="#">Teacher Meetups</a>
-                    <a href="#">Log In</a>
-                    <a href="#">Sign Up</a>
+                    <div class="leftNav">
+                        <a href="#">Write a Review</a>
+                        <a href="#">Teacher Meetups</a>
+                    </div>
+                    <div class="rightNav">
+                        <a href="#">Log In</a>
+                        <a href="#">Sign Up</a>
+                    </div>
                 </nav>
 
-                <img class="logo-img" src="./images/oer_bookr.png">
-                <img class="bookshelves" src="./images/media/stanislav-kondratiev-671841-unsplash.jpg">
+                <img class="logo-img" src="./images/oer-bookr-backglow.png">
+                <!--The background image for the header is imported in the header.less file.-->
 
-                <div class="search-bar">
-                    <img class="magnifying-glass" src ="">
-                </div>
+                <input type="text" id="search-bar" placeholder="Enter your search here...">
             </header>
 
-
-            <!-- top oer books-->
-            <!-- use flexbox-->
-            <section class="top-oer-books">
-                <h2>Top OER Books</h2>
-
-            </section>
-
-
-            <!-- new oer books-->
-            <section class="new-oer-books">
-                <h2>New Oer Books</h2>
-
-            </section>
-
-
-            <!-- Recent Reviews-->
-            <section class="recent-reviews">
-                    <h2>Recent Reviews</h2>
-    
-            </section>
-
-
-            <section class="Browse Books by Category">
+            <section class="main-content">
+                <!-- top oer books-->
+                <!-- use flexbox-->
+                <div class="content top-oer-books">
                     <h2>Top OER Books</h2>
-    
+                    <div class="top-book">1</div>
+                    <div class="top-book">2</div>
+                    <div class="top-book">3</div>
+                    <div class="top-book">4</div>
+                </div>
+
+
+                <!-- new oer books-->
+                <div class="content new-oer-books">
+                    <h2>New Oer Books</h2>
+                    <div class="new-book">1</div>
+                    <div class="new-book">2</div>
+                    <div class="new-book">3</div>
+                    <div class="new-book">4</div>
+                </div>
+
+
+                <!-- Recent Reviews-->
+                <div class="recent-reviews">
+                        <h2>Recent Reviews</h2>
+        
+                </div>
+
+
+                <div class="Browse Books by Category">
+                        <h2>Top OER Books</h2>
+                </div>
             </section>
         </div>
 	</body>
