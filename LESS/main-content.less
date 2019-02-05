@@ -83,36 +83,37 @@
             .category {
                 width: 30%;
                 margin: 4px 1%;
-                border: 1px solid black;
-                background-color: white;
+                padding: 4%;
+                border-radius: 10px;
+                background-color: lightgray;
 
                 h3 {
-                    font-size: 1.2rem;
+                    font-size: 1.8rem;
                 }
 
                 img {
                     width: 100%;
+                    padding: 0;
                 }
             }
         }
     }
 
-    // @media @desktop {
-    //     .book-categories {
-    //         display: flex;
-    //         flex-flow: row wrap;
-    //         margin: 10px 0;
+    @media @desktop {
+        .browse-categories {
 
-    //         .category {
-    //             width: 30%;
-    //             margin: 4px 1%;
-    //             border: 1px solid black;
-    //             background-color: white;
+            .book-categories {
+                justify-content: space-evenly;
 
-    //             h3 {
-    //                 font-size: 1.2rem;
-    //             }
-    //         }
-    //     }
-    // }
+                .category {
+                    width: 22%;
+                    margin: 12px 0;
+
+                    h3 {
+                        font-size: 2rem;
+                    }
+                }
+            }
+        }
+    }
 }
