@@ -17,9 +17,9 @@
             width: 100%;
 
             .review {
-                width: 35%;
+                width: 70%;
                 // padding: 10px 5%;
-                margin: 10px 5%;
+                margin: 10px 15%;
                 border: 2px solid black;
                 border-radius: 10px;
 
@@ -32,9 +32,76 @@
                     border-bottom: 1px solid black;
                 }
             }
-        
         }
-        
+    }
+
+    .top-oer-books {
+        .review:nth-child(3), .review:nth-child(4) {
+            display: none;
+        }
+    }
+
+    .recent-reviews {
+        .review:nth-child(2), .review:nth-child(3) {
+            display: none;
+        }
+    }
+
+    .new-oer-books {
+        .review:nth-child(3), .review:nth-child(4) {
+            display: none;
+        }
+    }
+
+    @media @tablet {
+        .subject {
+            padding-top: 50px;
+            display: flex;
+            flex-flow: column nowrap;
+            background-color: #ccbbaa;
+    
+            .content {
+                display:flex;
+                flex-flow: row wrap;
+                justify-content: center;
+                width: 100%;
+    
+                .review {
+                    width: 35%;
+                    // padding: 10px 5%;
+                    margin: 10px 5%;
+                    border: 2px solid black;
+                    border-radius: 10px;
+    
+                    p {
+                        font-size: 0.9rem;
+                        background-color: white;
+                    }
+    
+                    img {
+                        border-bottom: 1px solid black;
+                    }
+                }
+            }
+        }
+
+        .top-oer-books {
+            .review:nth-child(3), .review:nth-child(4) {
+                display: block;
+            }
+        }
+    
+        .recent-reviews {
+            .review:nth-child(2), .review:nth-child(3) {
+                display: block;
+            }
+        }
+    
+        .new-oer-books {
+            .review:nth-child(3), .review:nth-child(4) {
+                display: block;
+            }
+        }
     }
 
     @media @desktop {
@@ -59,6 +126,24 @@
                 }
             }
         }
+
+        .top-oer-books {
+            .review:nth-child(3), .review:nth-child(4) {
+                display: block;
+            }
+        }
+    
+        .recent-reviews {
+            .review:nth-child(2), .review:nth-child(3) {
+                display: block;
+            }
+        }
+    
+        .new-oer-books {
+            .review:nth-child(3), .review:nth-child(4) {
+                display: block;
+            }
+        }
     }
 
     .recent-reviews {
@@ -81,7 +166,7 @@
             margin: 10px 0 0 0;
 
             .category {
-                width: 30%;
+                width: 40%;
                 margin: 4px 1%;
                 padding: 4%;
                 border-radius: 10px;
@@ -94,6 +179,38 @@
                 img {
                     width: 100%;
                     padding: 0;
+                }
+            }
+        }
+    }
+
+    @media @tablet {
+        .browse-categories {
+            padding: 50px 0;
+            background-color: #aa8866;
+    
+    
+            .book-categories {
+                display: flex;
+                flex-flow: row wrap;
+                justify-content: center;
+                margin: 10px 0 0 0;
+    
+                .category {
+                    width: 30%;
+                    margin: 4px 1%;
+                    padding: 4%;
+                    border-radius: 10px;
+                    background-color: lightgray;
+    
+                    h3 {
+                        font-size: 1.8rem;
+                    }
+    
+                    img {
+                        width: 100%;
+                        padding: 0;
+                    }
                 }
             }
         }

@@ -1,5 +1,7 @@
 header {
+    background-color: #ccbbaa;
     background-image: url(../images/media/alexandre-godreau-445969-unsplash.jpg);
+    background-repeat: no-repeat;
     background-size: 100%;
 
     .logo-img {
@@ -10,8 +12,32 @@ header {
         margin-top: 20px;
     }
 
-    #search-bar {
-        display: none;
+    .search-bar {
+        display: flex;
+
+        #search-bar {
+            display: block;
+            width: 50%;
+            height: 35px;
+            font-size: 1.7rem;
+            font-weight: bold;
+
+            color: white;
+            background-color: #557777;
+            margin: 0 25% 20px 25%;
+            border-radius: 5px;
+            border-color: white;
+        }
+    }
+
+    @media @tablet {
+        .search-bar {
+    
+            #search-bar {
+                width: 40%;
+                margin: 0 30% 20px 30%;
+            }
+        }
     }
 
     @media @desktop {
@@ -35,7 +61,7 @@ header {
                 background-color: #557777;
                 margin: 0 38% 0 38%;
                 border-radius: 5px;
-                border-color: #557777;
+                border-color: white;
             }
         }
         
@@ -70,8 +96,7 @@ header {
         nav {
             flex-flow: row wrap;
             justify-content: space-around;
-            padding: 1rem 0;
-            padding: 230px 12% 100px 12%;
+            padding: 250px 12% 20px 12%;
                 
             a, a:first-child {
                 width: 50%;
@@ -92,24 +117,34 @@ header {
         nav {
         flex-flow: row nowrap;
         justify-content: space-around;
-        padding: 1rem 0;
-        margin-top: 0;
+        padding: 0;
             
             a {
                 color: white;
                 text-decoration: none;
                 font-size: 1.3rem;
+                font-weight: bold;
                 border: none;
-                margin: 0 5%;
             }
 
             a:first-child {
                 margin-top: 0;
-                border-top: none;
+                border: none;
             }
 
             a:nth-child(1), a:nth-child(2) {
                 border-bottom: none;
+            }
+
+            #button {
+                display: block;
+                width: 15%;
+                height: 35px;
+                margin: 3rem 5%;
+                padding: 10px;
+                border-radius: 5px;
+                border: 1px solid white;
+                font-weight: bold;
             }
         }
     
