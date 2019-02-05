@@ -17,16 +17,52 @@
             width: 100%;
 
             .review {
-                width: 40%;
-                padding: 10px 5%;
+                width: 35%;
+                // padding: 10px 5%;
+                margin: 10px 5%;
+                border: 2px solid black;
+                border-radius: 10px;
 
                 p {
                     font-size: 0.9rem;
+                    background-color: white;
+                }
+
+                img {
+                    border-bottom: 1px solid black;
                 }
             }
         
         }
         
+    }
+
+    @media @desktop {
+        .subject {
+
+            padding-bottom: 30px;
+
+            .content{
+                flex-flow: row nowrap;
+                justify-content: space-around;
+
+                .review {
+                    width: 22%;
+                    margin: 0;
+                    padding: 0;
+                    border: 2px solid black;
+                    border-radius: 10px;
+
+                    img {
+                        border-bottom: 1px solid black;
+                    }
+                }
+            }
+        }
+    }
+
+    .recent-reviews {
+        padding-bottom: 20px;
     }
 
     .new-oer-books {
@@ -34,68 +70,49 @@
     }
 
     .browse-categories {
-        padding: 20px 0;
+        padding: 50px 0;
         background-color: #aa8866;
 
 
         .book-categories {
             display: flex;
             flex-flow: row wrap;
-            margin: 10px 0;
+            justify-content: center;
+            margin: 10px 0 0 0;
 
             .category {
-                width: 23%;
+                width: 30%;
                 margin: 4px 1%;
                 border: 1px solid black;
+                background-color: white;
 
                 h3 {
                     font-size: 1.2rem;
+                }
+
+                img {
+                    width: 100%;
                 }
             }
         }
     }
 
     // @media @desktop {
-    //     .top-oer-books, .browse-by-category {
-    //         background-color: #ccbbaa;
-    //     }
+    //     .book-categories {
+    //         display: flex;
+    //         flex-flow: row wrap;
+    //         margin: 10px 0;
 
-    //     .content {
-    //         display:flex;
-    //         flex-flow: row nowrap;
-    //         justify-content: space-around;
+    //         .category {
+    //             width: 30%;
+    //             margin: 4px 1%;
+    //             border: 1px solid black;
+    //             background-color: white;
+
+    //             h3 {
+    //                 font-size: 1.2rem;
+    //             }
+    //         }
     //     }
     // }
 }
-    
-    // div { /*note that .content is contained in div. It was moved outside to prevent too much nesting.*/
-    //     padding: 2rem 0;
-    // }
-
-    // .top-oer-books, .browse-by-category {
-    //     background-color: #ccbbaa;
-    // }
-
-    // .content {
-    //     display:flex;
-    //     flex-flow: row nowrap;
-    //     justify-content: space-around;
-
-    //     .top-book, .new-book {
-    //         border: 1px solid red;
-    //         width: 100px;
-    //         height: 100px;
-    //     }
-    // }
-
-    // .book-categories {
-    //     display: flex;
-    //     flex-flow: row wrap;
-    //     justify-content: space-around;
-
-    //     .category {
-    //         border: 1px solid red;
-    //         width: 22%;
-    //         height: 100px;
-    //     }
-    // }

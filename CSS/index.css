@@ -179,18 +179,44 @@ header .logo-img {
   top: 0px;
   margin-top: 10px;
 }
+header #search-bar {
+  display: none;
+}
+@media (min-width: 650px) {
+  header .logo-img {
+    position: static;
+    width: 40%;
+    margin: 10px 30% 30px 30%;
+  }
+  header .search-bar {
+    padding: 40px 0 140px 0;
+  }
+  header .search-bar #search-bar {
+    display: block;
+    width: 24%;
+    height: 35px;
+    font-size: 1.7rem;
+    font-weight: bold;
+    color: white;
+    background-color: #557777;
+    margin: 0 38% 0 38%;
+    border-radius: 5px;
+    border-color: #557777;
+  }
+}
 header nav {
   display: flex;
   flex-flow: column nowrap;
   text-align: center;
 }
 header nav a {
-  width: 100%;
+  width: 70%;
   color: white;
   text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
   text-decoration: none;
   font-size: 1.9rem;
   padding: 4rem 0;
+  margin: 0 15%;
   border-bottom: 1px solid white;
 }
 header nav a:first-child {
@@ -199,6 +225,25 @@ header nav a:first-child {
 }
 header nav a:last-child {
   border-bottom: none;
+}
+@media (min-width: 650px) {
+  header nav {
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    padding: 1rem 0;
+    margin-top: 0;
+  }
+  header nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.3rem;
+    border: none;
+    margin: 0 5%;
+  }
+  header nav a:first-child {
+    margin-top: 0;
+    border-top: none;
+  }
 }
 .main-content {
   display: flex;
@@ -218,31 +263,64 @@ header nav a:last-child {
   width: 100%;
 }
 .main-content .subject .content .review {
-  width: 40%;
-  padding: 10px 5%;
+  width: 35%;
+  margin: 10px 5%;
+  border: 2px solid black;
+  border-radius: 10px;
 }
 .main-content .subject .content .review p {
   font-size: 0.9rem;
+  background-color: white;
+}
+.main-content .subject .content .review img {
+  border-bottom: 1px solid black;
+}
+@media (min-width: 650px) {
+  .main-content .subject {
+    padding-bottom: 30px;
+  }
+  .main-content .subject .content {
+    flex-flow: row nowrap;
+    justify-content: space-around;
+  }
+  .main-content .subject .content .review {
+    width: 22%;
+    margin: 0;
+    padding: 0;
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  .main-content .subject .content .review img {
+    border-bottom: 1px solid black;
+  }
+}
+.main-content .recent-reviews {
+  padding-bottom: 20px;
 }
 .main-content .new-oer-books {
   background-color: #aa8866;
 }
 .main-content .browse-categories {
-  padding: 20px 0;
+  padding: 50px 0;
   background-color: #aa8866;
 }
 .main-content .browse-categories .book-categories {
   display: flex;
   flex-flow: row wrap;
-  margin: 10px 0;
+  justify-content: center;
+  margin: 10px 0 0 0;
 }
 .main-content .browse-categories .book-categories .category {
-  width: 23%;
+  width: 30%;
   margin: 4px 1%;
   border: 1px solid black;
+  background-color: white;
 }
 .main-content .browse-categories .book-categories .category h3 {
   font-size: 1.2rem;
+}
+.main-content .browse-categories .book-categories .category img {
+  width: 100%;
 }
 footer {
   color: #22283B;

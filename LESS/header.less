@@ -10,12 +10,36 @@ header {
         margin-top: 10px;
     }
 
-    // @media @desktop {
-    //     .logo-img{
-    //         top: 0;
-    //     }
+    #search-bar {
+        display: none;
+    }
+
+    @media @desktop {
+        .logo-img{
+            position: static;
+            width: 40%;
+            margin: 10px 30% 30px 30%;
+        }
+
+        .search-bar {
+            padding: 40px 0 140px 0;
+
+            #search-bar {
+                display: block;
+                width: 24%;
+                height: 35px;
+                font-size: 1.7rem;
+                font-weight: bold;
+
+                color: white;
+                background-color: #557777;
+                margin: 0 38% 0 38%;
+                border-radius: 5px;
+                border-color: #557777;
+            }
+        }
         
-    // }
+    }
 
     nav {
         display: flex;
@@ -23,12 +47,13 @@ header {
         text-align: center;
 
         a {
-            width: 100%;
+            width: 70%;
             color: white;
             text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
             text-decoration: none;
             font-size: 1.9rem;
             padding: 4rem 0;
+            margin: 0 15%;
             border-bottom: 1px solid white;
         }
 
@@ -42,29 +67,26 @@ header {
         }
     }
 
-    // @media @desktop {
-    //     nav {
-    //     flex-flow: row nowrap;
-    //     justify-content: space-around;
-    //     padding: 1rem 0;
-    //     margin-top: 0;
+    @media @desktop {
+        nav {
+        flex-flow: row nowrap;
+        justify-content: space-around;
+        padding: 1rem 0;
+        margin-top: 0;
             
-    //         a, a:first-child {
-    //             color: white;
-    //             text-decoration: none;
-    //             font-size: 1.3rem;
-    //             border: none;
-    //         }
-    //     }
+            a {
+                color: white;
+                text-decoration: none;
+                font-size: 1.3rem;
+                border: none;
+                margin: 0 5%;
+            }
+
+            a:first-child {
+                margin-top: 0;
+                border-top: none;
+            }
+        }
     
-    // }
-
-    // .search-bar-area {
-
-    //     #search-bar {
-    //         width: 80%;
-    //         height: 3rem;
-    //         margin: 0 15%;
-    //     }
-    // }
+    }
 }
