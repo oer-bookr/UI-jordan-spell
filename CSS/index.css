@@ -244,3 +244,11 @@ header nav a:last-child {
 .main-content .browse-categories .book-categories .category h3 {
   font-size: 1.2rem;
 }
+footer {
+  color: #22283B;
+  background: #ccbbaa;
+  padding: 20px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
