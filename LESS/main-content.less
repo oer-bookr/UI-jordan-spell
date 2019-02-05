@@ -1,15 +1,60 @@
 .main-content {
     display: flex;
     flex-flow: column nowrap;
+    text-align: center;
 
     .content {
         display:flex;
-        flex-flow: row nowrap;
-        
-        border: 1px solid red;
+        flex-flow: column nowrap;
+        justify-content: space-around;
+    }
 
-        .top-book, .new-book {
-            border: 1px solid red;
+    .review {
+        width: 80%;
+        margin: 4rem auto;
+    }
+
+    @media @desktop {
+        .top-oer-books, .browse-by-category {
+            background-color: #ccbbaa;
+        }
+
+        .content {
+            display:flex;
+            flex-flow: row nowrap;
+            justify-content: space-around;
         }
     }
 }
+    
+    // div { /*note that .content is contained in div. It was moved outside to prevent too much nesting.*/
+    //     padding: 2rem 0;
+    // }
+
+    // .top-oer-books, .browse-by-category {
+    //     background-color: #ccbbaa;
+    // }
+
+    // .content {
+    //     display:flex;
+    //     flex-flow: row nowrap;
+    //     justify-content: space-around;
+
+    //     .top-book, .new-book {
+    //         border: 1px solid red;
+    //         width: 100px;
+    //         height: 100px;
+    //     }
+    // }
+
+    // .book-categories {
+    //     display: flex;
+    //     flex-flow: row wrap;
+    //     justify-content: space-around;
+
+    //     .category {
+    //         border: 1px solid red;
+    //         width: 22%;
+    //         height: 100px;
+    //     }
+    // }

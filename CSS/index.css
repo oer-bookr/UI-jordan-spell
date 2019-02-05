@@ -172,30 +172,56 @@ header {
   background-image: url(../images/media/alexandre-godreau-445969-unsplash.jpg);
   background-size: 100%;
 }
+header .logo-img {
+  width: 62%;
+  margin: 1rem 19%;
+  position: absolute;
+  top: 0px;
+  margin-top: 10px;
+}
 header nav {
   display: flex;
-  flex-flow: row nowrap;
-  justify-content: space-around;
-  padding: 1rem 0;
+  flex-flow: column nowrap;
+  text-align: center;
 }
-header nav .leftNav,
-header nav .rightNav {
-  display: flex;
-  flex-flow: row nowrap;
-  width: 30%;
-  justify-content: space-between;
-}
-header nav .leftNav a,
-header nav .rightNav a {
+header nav a {
+  width: 100%;
   color: white;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
   text-decoration: none;
-  font-size: 1.3rem;
+  font-size: 1.9rem;
+  padding: 4rem 0;
+  border-bottom: 1px solid white;
 }
-header .logo-img {
-  width: 20%;
-  margin: 5rem 40% 2rem 40%;
+header nav a:first-child {
+  border-top: 1px solid white;
+  margin-top: 160px;
 }
-header #search-bar {
-  width: 60%;
-  margin: 0 20% 8rem 20%;
+header nav a:last-child {
+  border-bottom: none;
+}
+.main-content {
+  display: flex;
+  flex-flow: column nowrap;
+  text-align: center;
+}
+.main-content .content {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-around;
+}
+.main-content .review {
+  width: 80%;
+  margin: 4rem auto;
+}
+@media (min-width: 650px) {
+  .main-content .top-oer-books,
+  .main-content .browse-by-category {
+    background-color: #ccbbaa;
+  }
+  .main-content .content {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+  }
 }

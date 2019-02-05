@@ -1,38 +1,70 @@
 header {
-        background-image: url(../images/media/alexandre-godreau-445969-unsplash.jpg);
-        background-size: 100%;
+    background-image: url(../images/media/alexandre-godreau-445969-unsplash.jpg);
+    background-size: 100%;
+
+    .logo-img {
+        width: 62%;
+        margin: 1rem 19%;
+        position: absolute;
+        top: 0px;
+        margin-top: 10px;
+    }
+
+    // @media @desktop {
+    //     .logo-img{
+    //         top: 0;
+    //     }
+        
+    // }
 
     nav {
         display: flex;
-        flex-flow: row nowrap;
-        justify-content: space-around;
-        padding: 1rem 0;
+        flex-flow: column nowrap;
+        text-align: center;
 
-        .leftNav, .rightNav {
-            display: flex;
-            flex-flow: row nowrap;
-            width: 30%;
-            justify-content: space-between;
-            
-            a {
-                color: white;
-                text-decoration: none;
-                font-size: 1.3rem;
-            }
+        a {
+            width: 100%;
+            color: white;
+            text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+            text-decoration: none;
+            font-size: 1.9rem;
+            padding: 4rem 0;
+            border-bottom: 1px solid white;
+        }
+
+        a:first-child {
+            border-top: 1px solid white;
+            margin-top: 160px;
+        }
+        
+        a:last-child {
+            border-bottom: none;
         }
     }
 
-    .logo-img {
-        // border: 1px solid red;
-        width: 20%;
-        margin: 5rem 40% 2rem 40%;
+    // @media @desktop {
+    //     nav {
+    //     flex-flow: row nowrap;
+    //     justify-content: space-around;
+    //     padding: 1rem 0;
+    //     margin-top: 0;
+            
+    //         a, a:first-child {
+    //             color: white;
+    //             text-decoration: none;
+    //             font-size: 1.3rem;
+    //             border: none;
+    //         }
+    //     }
     
-    }
+    // }
 
-    #search-bar {
-        width: 60%;
-        margin: 0 20% 8rem 20%;
-    }
+    // .search-bar-area {
 
-
+    //     #search-bar {
+    //         width: 80%;
+    //         height: 3rem;
+    //         margin: 0 15%;
+    //     }
+    // }
 }
