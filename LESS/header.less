@@ -3,11 +3,11 @@ header {
     background-size: 100%;
 
     .logo-img {
-        width: 62%;
-        margin: 1rem 19%;
+        width: 68%;
+        margin: 1rem 16%;
         position: absolute;
         top: 0px;
-        margin-top: 10px;
+        margin-top: 20px;
     }
 
     #search-bar {
@@ -58,7 +58,6 @@ header {
         }
 
         a:first-child {
-            border-top: 1px solid white;
             margin-top: 160px;
         }
         
@@ -72,14 +71,19 @@ header {
             flex-flow: row wrap;
             justify-content: space-around;
             padding: 1rem 0;
+            padding: 230px 12% 100px 12%;
                 
             a, a:first-child {
-                width: 40%;
+                width: 50%;
                 color: white;
                 text-decoration: none;
-                font-size: 1.3rem;
+                font-size: 1.6rem;
                 border: none;
-                margin: 200px  5% 60px 5%;
+                margin: 0;
+            }
+
+            a:nth-child(1), a:nth-child(2) {
+                border-bottom: 1px solid white;
             }
         }
     }
@@ -102,6 +106,10 @@ header {
             a:first-child {
                 margin-top: 0;
                 border-top: none;
+            }
+
+            a:nth-child(1), a:nth-child(2) {
+                border-bottom: none;
             }
         }
     
