@@ -3,28 +3,69 @@
     flex-flow: column nowrap;
     text-align: center;
 
-    .content {
-        display:flex;
+
+    .subject {
+        padding-top: 50px;
+        display: flex;
         flex-flow: column nowrap;
-        justify-content: space-around;
-    }
-
-    .review {
-        width: 80%;
-        margin: 4rem auto;
-    }
-
-    @media @desktop {
-        .top-oer-books, .browse-by-category {
-            background-color: #ccbbaa;
-        }
+        background-color: #ccbbaa;
 
         .content {
             display:flex;
-            flex-flow: row nowrap;
-            justify-content: space-around;
+            flex-flow: row wrap;
+            justify-content: center;
+            width: 100%;
+
+            .review {
+                width: 40%;
+                padding: 10px 5%;
+
+                p {
+                    font-size: 0.9rem;
+                }
+            }
+        
+        }
+        
+    }
+
+    .new-oer-books {
+        background-color: #aa8866;
+    }
+
+    .browse-categories {
+        padding: 20px 0;
+        background-color: #aa8866;
+
+
+        .book-categories {
+            display: flex;
+            flex-flow: row wrap;
+            margin: 10px 0;
+
+            .category {
+                width: 23%;
+                margin: 4px 1%;
+                border: 1px solid black;
+
+                h3 {
+                    font-size: 1.2rem;
+                }
+            }
         }
     }
+
+    // @media @desktop {
+    //     .top-oer-books, .browse-by-category {
+    //         background-color: #ccbbaa;
+    //     }
+
+    //     .content {
+    //         display:flex;
+    //         flex-flow: row nowrap;
+    //         justify-content: space-around;
+    //     }
+    // }
 }
     
     // div { /*note that .content is contained in div. It was moved outside to prevent too much nesting.*/

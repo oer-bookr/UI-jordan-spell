@@ -205,23 +205,42 @@ header nav a:last-child {
   flex-flow: column nowrap;
   text-align: center;
 }
-.main-content .content {
+.main-content .subject {
+  padding-top: 50px;
   display: flex;
   flex-flow: column nowrap;
-  justify-content: space-around;
+  background-color: #ccbbaa;
 }
-.main-content .review {
-  width: 80%;
-  margin: 4rem auto;
+.main-content .subject .content {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  width: 100%;
 }
-@media (min-width: 650px) {
-  .main-content .top-oer-books,
-  .main-content .browse-by-category {
-    background-color: #ccbbaa;
-  }
-  .main-content .content {
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: space-around;
-  }
+.main-content .subject .content .review {
+  width: 40%;
+  padding: 10px 5%;
+}
+.main-content .subject .content .review p {
+  font-size: 0.9rem;
+}
+.main-content .new-oer-books {
+  background-color: #aa8866;
+}
+.main-content .browse-categories {
+  padding: 20px 0;
+  background-color: #aa8866;
+}
+.main-content .browse-categories .book-categories {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 10px 0;
+}
+.main-content .browse-categories .book-categories .category {
+  width: 23%;
+  margin: 4px 1%;
+  border: 1px solid black;
+}
+.main-content .browse-categories .book-categories .category h3 {
+  font-size: 1.2rem;
 }
