@@ -164,7 +164,7 @@ img {
   height: auto;
 }
 .container {
-  max-width: 800px;
+  max-width: 1900px;
   width: 100%;
   margin: 0 auto;
 }
@@ -225,6 +225,22 @@ header nav a:first-child {
 }
 header nav a:last-child {
   border-bottom: none;
+}
+@media (min-width: 500px) {
+  header nav {
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding: 1rem 0;
+  }
+  header nav a,
+  header nav a:first-child {
+    width: 40%;
+    color: white;
+    text-decoration: none;
+    font-size: 1.3rem;
+    border: none;
+    margin: 200px  5% 60px 5%;
+  }
 }
 @media (min-width: 800px) {
   header nav {
