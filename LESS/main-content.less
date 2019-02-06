@@ -111,6 +111,7 @@
     }
 
     @media @desktop {
+
         .subject {
             padding-bottom: 30px;
 
@@ -133,13 +134,27 @@
             }
         }
 
+        .top-oer-books, .new-oer-books {
+            .carousel {
+                .review {
+                    display: none;
+                    width: 50%;
+                }
+            }
+        }
+
         .left-button, .right-button {
             width: 4%;
             height: 40px;
             font-size: 3rem;
             color: white;
             background-color: black;
-            border-radius: 20px;
+            border-radius: 50%;
+        }
+
+        .left-button:hover, .right-button:hover {
+            font-weight: bold;
+            border: 1px solid lightgray;
         }
     }
 

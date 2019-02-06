@@ -389,6 +389,11 @@ header .search-bar #search-bar {
   .main-content .subject .content .review img {
     border-bottom: 1px solid black;
   }
+  .main-content .top-oer-books .carousel .review,
+  .main-content .new-oer-books .carousel .review {
+    display: none;
+    width: 50%;
+  }
   .main-content .left-button,
   .main-content .right-button {
     width: 4%;
@@ -396,7 +401,12 @@ header .search-bar #search-bar {
     font-size: 3rem;
     color: white;
     background-color: black;
-    border-radius: 20px;
+    border-radius: 50%;
+  }
+  .main-content .left-button:hover,
+  .main-content .right-button:hover {
+    font-weight: bold;
+    border: 1px solid lightgray;
   }
 }
 .main-content .recent-reviews {

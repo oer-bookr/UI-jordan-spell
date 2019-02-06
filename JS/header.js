@@ -1,6 +1,6 @@
-$( document ).click(function() {
-    $( ".social" ).effect("bounce", "slow");
-  });
+// $( document ).click(function() {
+//     $( ".social" ).effect("bounce", "slow");
+//   });
 
 
 
