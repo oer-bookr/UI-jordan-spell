@@ -4,103 +4,88 @@ header {
     background-repeat: no-repeat;
     background-size: 100%;
 
-    .logo-img {
-        width: 68%;
-        margin: 1rem 16%;
-        position: absolute;
-        top: 0px;
-        margin-top: 20px;
-    }
+    margin:0;
+    padding-top: 100px;
 
-    @media @desktop {
-        .logo-img{
-            position: static;
-            width: 50%;
-            margin: 50px 25% 140px 25%;
-        }
-        
-    }
-
-    /*NAVBAR*/
     nav {
-        display: flex;
-        flex-flow: column nowrap;
-        text-align: center;
+        width: 100%;
+        padding: 0;
+        margin: 0;
 
-        a {
-            width: 70%;
-            color: white;
-            text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
-            text-decoration: none;
-            font-size: 1.6rem;
-            font-weight: bold;
-            padding: 4rem 0;
-            margin: 0 15%;
-            border-bottom: 1px solid white;
-        }
+        .container-fluid {
+            width: 100%;
+            padding: 0;
+            margin: 0;
 
-        a:first-child {
-            margin-top: 160px;
-        }
-        
-        a:last-child {
-            border-bottom: none;
-        }
-    }
-    
-    @media @tablet {
-        nav {
-            flex-flow: row wrap;
-            justify-content: space-around;
-            padding: 250px 12% 50px 12%;
-                
-            a, a:first-child {
-                width: 50%;
-                color: white;
-                text-decoration: none;
-                border: none;
+            .navbar-header {
+                padding: 0;
                 margin: 0;
-            }
 
-            a:nth-child(1), a:nth-child(2) {
-                border-bottom: 1px solid white;
+                .logo-img {
+                    width: 20%;
+                }
             }
         }
     }
 
     @media @desktop {
         nav {
-        flex-flow: row nowrap;
-        justify-content: space-around;
-        padding: 0;
-            
-            a {
-                color: white;
-                text-decoration: none;
-                border: none;
-            }
 
-            a:first-child {
-                margin-top: 0;
-                border: none;
-            }
+            .container-fluid {
+                display: flex;
+                flex-flow: row nowrap;
+        
+                .navbar-header {
+                    width: 20%;
+                    padding-left: 5%;
+                    
+                    .logo-img {
+                        width: 100%;
+                    }
+                }
 
-            a:nth-child(1), a:nth-child(2) {
-                border-bottom: none;
-            }
+                .navbar-collapse {
+                    width: 70%;
+                    height: 100%;
+                    padding-left: 5%;
 
-            #button {
-                display: block;
-                width: 17%;
-                height: 35px;
-                margin: 3rem 5%;
-                padding: 10px;
-                border-radius: 5px;
-                border: 1px solid white;
-                font-weight: bold;
+                    .navbar-nav {
+                        width: 100%;
+                        height: 100%;
+                        display: flex;
+                        flex-flow: row nowrap;
+                        justify-content: space-evenly;
+                        align-items: center;
+                        font-size: 1.8rem;
+                    }
+                }
             }
         }
-    
+    }
+
+
+    /*PAGE TITLE*/
+    h1 {
+        padding: 10%;
+        margin: 120px 0;
+
+        font-size: 3.5rem;
+        text-align: center;
+        color: white;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+        
+    }
+
+    @media @tablet {
+        h1 {
+            font-size: 5rem;
+        }
+    }
+
+    @media @desktop {
+        h1 {
+            font-size: 6rem;
+        }
     }
 
     /*SEARCH BAR*/
@@ -116,7 +101,7 @@ header {
 
             color: white;
             background-color: #557777;
-            margin: 0 25% 20px 25%;
+            margin: 0 25% 200px 25%;
             border-radius: 5px;
             border-color: white;
         }

@@ -1,6 +1,21 @@
+$( document ).click(function() {
+    $( ".social" ).effect("bounce", "slow");
+  });
+
+
+
+
 $(".category").hover(function() {
-    doBounce($(this), 1, '10px', 400);   
+    doBounce($(this), 1, '10px', 300);
 });
+
+// $(document).ready(function() {
+
+//     $("#search-bar").click(function(){
+//        $(".category").hover( "bounce", {times:3}, 300 );
+//     });
+
+//  });
 
 
 function doBounce(element, times, distance, speed) {
@@ -13,7 +28,7 @@ function doBounce(element, times, distance, speed) {
 
 // let reviews = document.querySelectorAll(".main-content .book-categories .category");
 // reviews.forEach(e => {
-//     e.addEventListener("mouseover", $(e).effect("bounce", {times:3}, 300));
+//     e.addEventListener("mouseover", $(".category").hover( "bounce", {times:3}, 300 ));
 // })
 
 
