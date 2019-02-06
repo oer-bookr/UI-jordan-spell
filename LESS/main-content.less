@@ -112,15 +112,15 @@
 
     @media @desktop {
         .subject {
-
             padding-bottom: 30px;
 
             .content{
                 flex-flow: row nowrap;
                 justify-content: space-around;
+                align-items: center;
 
                 .review {
-                    width: 22%;
+                    width: 20%;
                     margin: 0;
                     padding: 0;
                     border: 2px solid black;
@@ -133,22 +133,13 @@
             }
         }
 
-        .top-oer-books {
-            .review:nth-child(3), .review:nth-child(4) {
-                display: block;
-            }
-        }
-    
-        .recent-reviews {
-            .review:nth-child(2), .review:nth-child(3) {
-                display: block;
-            }
-        }
-    
-        .new-oer-books {
-            .review:nth-child(3), .review:nth-child(4) {
-                display: block;
-            }
+        .left-button, .right-button {
+            width: 4%;
+            height: 40px;
+            font-size: 3rem;
+            color: white;
+            background-color: black;
+            border-radius: 20px;
         }
     }
 

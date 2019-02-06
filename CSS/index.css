@@ -377,9 +377,10 @@ header .search-bar #search-bar {
   .main-content .subject .content {
     flex-flow: row nowrap;
     justify-content: space-around;
+    align-items: center;
   }
   .main-content .subject .content .review {
-    width: 22%;
+    width: 20%;
     margin: 0;
     padding: 0;
     border: 2px solid black;
@@ -388,17 +389,14 @@ header .search-bar #search-bar {
   .main-content .subject .content .review img {
     border-bottom: 1px solid black;
   }
-  .main-content .top-oer-books .review:nth-child(3),
-  .main-content .top-oer-books .review:nth-child(4) {
-    display: block;
-  }
-  .main-content .recent-reviews .review:nth-child(2),
-  .main-content .recent-reviews .review:nth-child(3) {
-    display: block;
-  }
-  .main-content .new-oer-books .review:nth-child(3),
-  .main-content .new-oer-books .review:nth-child(4) {
-    display: block;
+  .main-content .left-button,
+  .main-content .right-button {
+    width: 4%;
+    height: 40px;
+    font-size: 3rem;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
   }
 }
 .main-content .recent-reviews {
