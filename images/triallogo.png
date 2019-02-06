@@ -1,0 +1,2080 @@
+<!DOCTYPE html>
+<!-- saved from url=(0047)https://my.logomakr.com/checkout/?ts=1549415607 -->
+<html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Checkout – MyLogoMakr</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel="alternate" type="application/rss+xml" title="MyLogoMakr » Feed" href="https://my.logomakr.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="MyLogoMakr » Comments Feed" href="https://my.logomakr.com/comments/feed/">
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="tesseract-gallery-css-css" href="./triallogo_files/tesseract-gallery.css" type="text/css" media="all">
+<link rel="stylesheet" id="tesseract-review-star-css-css" href="./triallogo_files/tesseract-review-star.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="./triallogo_files/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-style-css" href="./triallogo_files/jquery.ui.css" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-ui-timepicker-css" href="./triallogo_files/jquery.ui.timepicker.css" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-ui-timepicker-min-css" href="./triallogo_files/jquery-ui-1.10.0.custom.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-color-picker-css" href="./triallogo_files/color-picker.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="farbtastic-css" href="./triallogo_files/farbtastic.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="./triallogo_files/dashicons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-popup-css" href="./triallogo_files/magnific-popup.css" type="text/css" media="all">
+<link rel="stylesheet" id="caman-css" href="./triallogo_files/caman.css" type="text/css" media="all">
+<link rel="stylesheet" id="select2-css" href="./triallogo_files/select2.css" type="text/css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="wp-pagenavi-css" href="./triallogo_files/pagenavi-css.css" type="text/css" media="all">
+<link rel="stylesheet" id="wc-gateway-ppec-frontend-cart-css" href="./triallogo_files/wc-gateway-ppec-frontend-cart.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="./triallogo_files/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="simple-line-icons-css" href="./triallogo_files/simple-line-icons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="lightbox-popup2-css" href="./triallogo_files/lightbox2.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="oceanwp-style-css" href="./triallogo_files/style.min(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="logomakr-general-style-css" href="./triallogo_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="oceanwp-woocommerce-css" href="./triallogo_files/woocommerce.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="oceanwp-woo-star-font-css" href="./triallogo_files/woo-star-font.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="oceanwp-woo-quick-view-css" href="./triallogo_files/woo-quick-view.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="./triallogo_files/elementor-icons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-animations-css" href="./triallogo_files/animations.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="./triallogo_files/frontend.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="./triallogo_files/frontend.min(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-global-css" href="./triallogo_files/global.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-474-css" href="./triallogo_files/post-474.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-470-css" href="./triallogo_files/post-470.css" type="text/css" media="all">
+<link rel="stylesheet" id="stripe_styles-css" href="./triallogo_files/stripe-styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="./triallogo_files/css" type="text/css" media="all">
+<script src="./triallogo_files/zxcvbn.min.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="./triallogo_files/ga.js"></script><script async="" src="./triallogo_files/analytics.js"></script><script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Sorry, this product is unavailable. Please choose a different combination.</p>
+</script>
+<script type="text/javascript" src="./triallogo_files/jquery.js"></script>
+<script type="text/javascript" src="./triallogo_files/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/jquery.ui.timepicker.js"></script>
+<script type="text/javascript" src="./triallogo_files/farbtastic.js"></script>
+<script type="text/javascript" src="./triallogo_files/jquery.magnific-popup.js"></script>
+<script type="text/javascript" src="./triallogo_files/caman.js"></script>
+<script type="text/javascript" src="./triallogo_files/jquery.color.js"></script>
+<script type="text/javascript" src="./triallogo_files/jquery.Jcrop.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _zxcvbnSettings = {"src":"https:\/\/my.logomakr.com\/wp-includes\/js\/zxcvbn.min.js"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./triallogo_files/zxcvbn-async.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_tokenization_form_params = {"is_registration_required":"1","is_logged_in":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./triallogo_files/tokenization-form.min.js"></script>
+<link rel="https://api.w.org/" href="https://my.logomakr.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://my.logomakr.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://my.logomakr.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.0.3">
+<meta name="generator" content="WooCommerce 3.5.4">
+<link rel="canonical" href="https://my.logomakr.com/checkout/">
+<link rel="shortlink" href="https://my.logomakr.com/?p=8">
+<style id="iris-css">.iris-picker{display:block;position:relative}.iris-picker,.iris-picker *{-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input+.iris-picker{margin-top:4px}.iris-error{background-color:#ffafaf}.iris-border{border-radius:3px;border:1px solid #aaa;width:200px;background-color:#fff}.iris-picker-inner{position:absolute;top:0;right:0;left:0;bottom:0}.iris-border .iris-picker-inner{top:10px;right:10px;left:10px;bottom:10px}.iris-picker .iris-square-inner{position:absolute;left:0;right:0;top:0;bottom:0}.iris-picker .iris-square,.iris-picker .iris-slider,.iris-picker .iris-square-inner,.iris-picker .iris-palette{border-radius:3px;box-shadow:inset 0 0 5px rgba(0,0,0,.4);height:100%;width:12.5%;float:left;margin-right:5%}.iris-picker .iris-square{width:76%;margin-right:10%;position:relative}.iris-picker .iris-square-inner{width:auto;margin:0}.iris-ie-9 .iris-square,.iris-ie-9 .iris-slider,.iris-ie-9 .iris-square-inner,.iris-ie-9 .iris-palette{box-shadow:none;border-radius:0}.iris-ie-9 .iris-square,.iris-ie-9 .iris-slider,.iris-ie-9 .iris-palette{outline:1px solid rgba(0,0,0,.1)}.iris-ie-lt9 .iris-square,.iris-ie-lt9 .iris-slider,.iris-ie-lt9 .iris-square-inner,.iris-ie-lt9 .iris-palette{outline:1px solid #aaa}.iris-ie-lt9 .iris-square .ui-slider-handle{outline:1px solid #aaa;background-color:#fff;-ms-filter:"alpha(Opacity=30)"}.iris-ie-lt9 .iris-square .iris-square-handle{background:0;border:3px solid #fff;-ms-filter:"alpha(Opacity=50)"}.iris-picker .iris-strip{margin-right:0;position:relative}.iris-picker .iris-strip .ui-slider-handle{position:absolute;background:0;margin:0;right:-3px;left:-3px;border:4px solid #aaa;border-width:4px 3px;width:auto;height:6px;border-radius:4px;box-shadow:0 1px 2px rgba(0,0,0,.2);opacity:.9;z-index:5;cursor:ns-resize}.iris-strip .ui-slider-handle:before{content:" ";position:absolute;left:-2px;right:-2px;top:-3px;bottom:-3px;border:2px solid #fff;border-radius:3px}.iris-picker .iris-slider-offset{position:absolute;top:11px;left:0;right:0;bottom:-3px;width:auto;height:auto;background:transparent;border:0;border-radius:0}.iris-picker .iris-square-handle{background:transparent;border:5px solid #aaa;border-radius:50%;border-color:rgba(128,128,128,.5);box-shadow:none;width:12px;height:12px;position:absolute;left:-10px;top:-10px;cursor:move;opacity:1;z-index:10}.iris-picker .ui-state-focus .iris-square-handle{opacity:.8}.iris-picker .iris-square-handle:hover{border-color:#999}.iris-picker .iris-square-value:focus .iris-square-handle{box-shadow:0 0 2px rgba(0,0,0,.75);opacity:.8}.iris-picker .iris-square-handle:hover::after{border-color:#fff}.iris-picker .iris-square-handle::after{position:absolute;bottom:-4px;right:-4px;left:-4px;top:-4px;border:3px solid #f9f9f9;border-color:rgba(255,255,255,.8);border-radius:50%;content:" "}.iris-picker .iris-square-value{width:8px;height:8px;position:absolute}.iris-ie-lt9 .iris-square-value,.iris-mozilla .iris-square-value{width:1px;height:1px}.iris-palette-container{position:absolute;bottom:0;left:0;margin:0;padding:0}.iris-border .iris-palette-container{left:10px;bottom:10px}.iris-picker .iris-palette{margin:0;cursor:pointer}.iris-square-handle,.ui-slider-handle{border:0;outline:0}</style><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><script type="text/javascript" async="" src="./triallogo_files/saved_resource"></script></head><body class="page-template-default page page-id-8 wp-custom-logo woocommerce-checkout woocommerce-page woocommerce-js oceanwp-theme sidebar-mobile content-full-width content-max-width default-breakpoint page-header-disabled has-breadcrumbs has-grid-list elementor-default" data-elementor-device-mode="desktop" style=""><div id="caman_content" style="display:none;">
+
+	<div id="wooccmtoolbar">
+		<div class="button" id="save">Save</div>
+		<div class="button" id="close">Close</div>
+		<h3>Photo Editing</h3>
+	</div>
+	<!-- #wooccmtoolbar -->
+
+	<div class="wooccmsidebar">
+		<div id="Filters">
+
+			<div class="Filter">
+				<div class="FilterName">
+					<p>Brightness</p>
+				</div>
+				<!-- .FilterName -->
+
+				<div class="FilterSetting">
+					<input type="range" min="-100" max="100" step="1" value="0" data-filter="brightness">
+					<span class="FilterValue">0</span>
+				</div>
+				<!-- .FilterSetting -->
+			</div>
+			<!-- .Filter -->
+
+			<div class="Filter">
+				<div class="FilterName">
+					<p>Contrast</p>
+				</div>
+				<!-- .FilterName -->
+
+				<div class="FilterSetting">
+					<input type="range" min="-100" max="100" step="1" value="0" data-filter="contrast">
+					<span class="FilterValue">0</span>
+				</div>
+				<!-- .FilterSetting -->
+			</div>
+			<!-- .Filter -->
+
+			<div class="Filter">
+				<div class="FilterName">
+					<p>Saturation</p>
+				</div>
+				<!-- .FilterName -->
+
+				<div class="FilterSetting">
+					<input type="range" min="-100" max="100" step="1" value="0" data-filter="saturation">
+					<span class="FilterValue">0</span>
+				</div>
+				<!-- .FilterSetting -->
+			</div>
+			<!-- .Filter -->
+
+			<div class="Filter">
+				<div class="FilterName">
+					<p>Vibrance</p>
+				</div>
+				<!-- .FilterName -->
+
+				<div class="FilterSetting">
+					<input type="range" min="-100" max="100" step="1" value="0" data-filter="vibrance">
+					<span class="FilterValue">0</span>
+				</div>
+				<!-- .FilterSetting -->
+			</div>
+			<!-- .Filter -->
+
+			<div class="Filter">
+				<div class="FilterName">
+					<p>Exposure</p>
+				</div>
+				<!-- .FilterName -->
+
+				<div class="FilterSetting">
+					<input type="range" min="-100" max="100" step="1" value="0" data-filter="exposure">
+					<span class="FilterValue">0</span>
+				</div>
+				<!-- .FilterSetting -->
+			</div>
+			<!-- .Filter -->
+
+			<div class="Filter">
+				<div class="FilterName">
+					<p>Hue</p>
+				</div>
+				<!-- .FilterName -->
+
+				<div class="FilterSetting">
+					<input type="range" min="0" max="100" step="1" value="0" data-filter="hue">
+					<span class="FilterValue">0</span>
+				</div>
+				<!-- .FilterSetting -->
+			</div>
+			<!-- .Filter -->
+
+			<div class="Filter">
+				<div class="FilterName">
+					<p>Sepia</p>
+				</div>
+				<!-- .FilterName -->
+
+				<div class="FilterSetting">
+					<input type="range" min="0" max="100" step="1" value="0" data-filter="sepia">
+					<span class="FilterValue">0</span>
+				</div>
+				<!-- .FilterSetting -->
+			</div>
+			<!-- .Filter -->
+
+			<div class="Filter">
+				<div class="FilterName">
+					<p>Gamma</p>
+				</div>
+				<!-- .FilterName -->
+
+				<div class="FilterSetting">
+					<input type="range" min="0" max="10" step="0.1" value="0" data-filter="gamma">
+					<span class="FilterValue">0</span>
+				</div>
+				<!-- .FilterSetting -->
+			</div>
+			<!-- .Filter -->
+
+			<div class="Filter">
+				<div class="FilterName">
+					<p>Noise</p>
+				</div>
+				<!-- .FilterName -->
+
+				<div class="FilterSetting">
+					<input type="range" min="0" max="100" step="1" value="0" data-filter="noise">
+					<span class="FilterValue">0</span>
+				</div>
+				<!-- .FilterSetting -->
+			</div>
+			<!-- .Filter -->
+
+			<div class="Filter">
+				<div class="FilterName">
+					<p>Clip</p>
+				</div>
+				<!-- .FilterName -->
+
+				<div class="FilterSetting">
+					<input type="range" min="0" max="100" step="1" value="0" data-filter="clip">
+					<span class="FilterValue">0</span>
+				</div>
+				<!-- .FilterSetting -->
+			</div>
+			<!-- .Filter -->
+
+			<div class="Filter">
+				<div class="FilterName">
+					<p>Sharpen</p>
+				</div>
+				<!-- .FilterName -->
+
+				<div class="FilterSetting">
+					<input type="range" min="0" max="100" step="1" value="0" data-filter="sharpen">
+					<span class="FilterValue">0</span>
+				</div>
+				<!-- .FilterSetting -->
+			</div>
+			<!-- .Filter -->
+
+			<div class="Filter">
+				<div class="FilterName">
+					<p>StackBlur</p>
+				</div>
+				<!-- .FilterName -->
+
+				<div class="FilterSetting">
+					<input type="range" min="0" max="20" step="1" value="0" data-filter="stackBlur">
+					<span class="FilterValue">0</span>
+				</div>
+				<!-- .FilterSetting -->
+			</div>
+			<!-- .Filter -->
+
+			<div class="Clear"></div>
+
+		</div>
+		<!-- #Filters -->
+
+		<div id="PresetFilters">
+			<a data-preset="vintage">Vintage</a>
+			<a data-preset="lomo">Lomo</a>
+			<a data-preset="clarity">Clarity</a>
+			<a data-preset="sinCity">Sin City</a>
+			<a data-preset="sunrise">Sunrise</a>
+			<a data-preset="crossProcess">Cross Process</a>
+			<a data-preset="orangePeel">Orange Peel</a>
+			<a data-preset="love">Love</a>
+			<a data-preset="grungy">Grungy</a>
+			<a data-preset="jarques">Jarques</a>
+			<a data-preset="pinhole">Pinhole</a>
+			<a data-preset="oldBoot">Old Boot</a>
+			<a data-preset="glowingSun">Glowing Sun</a>
+			<a data-preset="hazyDays">Hazy Days</a>
+			<a data-preset="herMajesty">Her Majesty</a>
+			<a data-preset="nostalgia">Nostalgia</a>
+			<a data-preset="hemingway">Hemingway</a>
+			<a data-preset="concentrate">Concentrate</a>
+		</div>
+		<!-- #PresetFilters -->
+
+	</div>
+	<!-- .wooccmsidebar -->
+
+	<div class="wooccmimageeditor" id="wooccmimageeditorpro"></div>
+
+</div>
+<!-- #caman_content -->
+
+
+<style type="text/css">/*#customer_details .col-2{display:none !important;} */
+
+#customer_details .col-1{width:100%;}
+.woocommerce-thankyou-order-details.order_details{border:none !important;}
+.woocommerce-thankyou-order-received{display:none !important;}
+
+@media (min-width: 768px) {
+  .fl-page-content {
+    margin-top: -151px; /*Adjust depending on the height of the header for medium devices*/
+  }
+  .woocommerce-page  .fl-page-content {
+     margin-top: -110px;
+  }
+  .fl-page-header-primary {
+    position: relative;
+    z-index: 3;
+    background: none;
+  }
+  .fl-page .fl-page-header-primary .fl-page-header-wrap {
+    border-bottom: none;
+  }
+  .fl-page-header-primary .fl-page-nav-wrap {
+    background: none;
+    border-top: none;
+    border-bottom: none;
+  }
+}
+@media (min-width: 1192px) {
+  .fl-page-content {
+    margin-top: -110px; /*Adjust depending on the height of the header for large devices*/
+  }
+}
+
+@media (min-width: 992px){
+.woocommerce-page .fl-post-header{position:relative !important;}
+.woocommerce-page .fl-content{margin: 120px 0 40px !important;}
+}
+.woocommerce-page .fl-post-header{position:relative !important;}
+.woocommerce-page .fl-content{margin: 120px 0 40px !important;}
+
+.woocommerce-table__product-name.product-name .wc-item-meta{margin-left: -40px !important;}
+.woocommerce-table__product-name.product-name{font-size:16px;}
+
+@media screen and (max-width: 685px) {
+	.woocommerce .checkout .container .wooccm-btn {
+		padding: 1% 6%;
+	}
+}
+
+@media screen and (max-width: 685px) {
+	.woocommerce .checkout .container .wooccm-btn {
+		padding: 1% 8%;
+	}
+}
+
+@media screen and (max-width: 770px) {
+	.checkout .wooccm_each_file .wooccm-image-holder {
+		width: 20%;
+	}
+	.checkout name.wooccm_name, .wooccm_each_file span.container{
+		width: 80%;
+	}
+	.checkout .container .wooccm-btn {
+		padding: 1% 10%;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	.wooccm_each_file .wooccm-image-holder {
+		width: 26%;
+	}
+	name.wooccm_name, .wooccm_each_file span.container{
+		width: 74%;
+	}
+	.container .wooccm-btn {
+		padding: 5px 8px;
+		font-size: 12px;
+	}
+}
+
+.container .wooccm-btn {
+	padding: 1.7% 6.7%;
+}
+
+#caman_content .blockUI.blockOverlay:before, #caman_content .loader:before {
+	height: 1em;
+	width: 1em;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -.5em;
+	margin-top: -.5em;
+	display: block;
+	-webkit-animation: spin 1s ease-in-out infinite;
+	-moz-animation: spin 1s ease-in-out infinite;
+	animation: spin 1s ease-in-out infinite;
+	content: "";
+	/* @mod - We need to check this file exists */
+	background: url(https://my.logomakr.com/wp-content/plugins/woocommerce/assets/images/icons/loader.svg) center center/cover;
+	line-height: 1;
+	text-align: center;
+	font-size: 2em;
+	color: rgba(0,0,0,.75);
+}
+body.admin-bar #caman_content {
+	margin-top:	32px;
+}
+
+.file_upload_button_hide {
+	display: none;
+}
+
+.wooccm_each_file {
+	display: block;
+	padding-top: 20px;
+	clear: both;
+	text-align: center;
+}
+.wooccm_each_file .wooccm-image-holder {
+	width: 20%;
+	display: block;
+	float: left;
+}
+.wooccm-btn.disable {
+	margin-right: 10px;
+	cursor: auto;
+}
+zoom.wooccm_zoom, edit.wooccm_edit, dele.wooccm_dele {
+	padding: 5px;
+}
+.wooccm_each_file name {
+	font-size: 18px;
+}
+name.wooccm_name, .wooccm_each_file span.container {
+	display: block;
+	padding: 0 0 10px 20px;
+	float: left;
+	width: 80%;
+}
+
+.wooccm_each_file img{ 
+	display: inline-block;
+	height: 90px;
+	border: 2px solid #767676;
+	border-radius: 4px;
+}
+.file_upload_account:before{ content: "\f317";font-family: dashicons; margin-right: 10px; }
+.wooccm_each_file .wooccm_zoom:before{ content: "\f179";font-family: dashicons; margin-right: 5px; }
+.wooccm_each_file .wooccm_edit:before{ content: "\f464";font-family: dashicons; margin-right: 5px; }
+.wooccm_each_file .wooccm_dele:before{ content: "\f158";font-family: dashicons; margin-right: 5px; }
+.wooccm-btn{
+	display: inline-block;
+	padding: 6px 12px;
+	margin-bottom: 0;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.42857143;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	background-image: none;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	font-family: "Raleway", Arial, Helvetica, sans-serif;
+	color: #767676;
+	background-color: buttonface;
+	align-items: flex-start;
+	text-indent: 0px;
+	text-shadow: none;
+	letter-spacing: normal;
+	word-spacing: normal;
+	text-rendering: auto;
+}
+.wooccm-btn-primary {
+	width: 100%;
+	color: #fff;
+	background-color: #428bca;
+	border-color: #357ebd;
+}
+
+.wooccm-btn-danger {
+	color: #fff;
+	background-color: #d9534f;
+	border-color: #d43f3a;
+	margin-right: 10px;
+}
+.wooccm_each_file .container a:hover, .wooccm_each_file .container a:focus, .wooccm_each_file .container a:active, .wooccm_each_file .container a:visited, .wooccm_each_file .container a:link {
+	color: #fff;
+}
+#caman_content #wooccmtoolbar #close:hover, #caman_content #wooccmtoolbar #save:hover {
+	background: #1b1917;
+}
+.wooccm-btn-zoom {
+	color: #fff;
+	background-color: #5cb85c;
+	border-color: #4cae4c;
+	margin-right: 10px;
+} 
+
+.wooccm-btn-edit {
+	color: #fff;
+	background-color: #f0ad4e;
+	border-color: #eea236;
+	margin-right: 10px;
+}
+
+</style>
+
+<style>
+
+p#billing_address_1_field .required{
+	display:none;
+}
+p#billing_address_2_field .required{
+	display:none;
+}
+p#billing_city_field .required{
+	display:none;
+}
+p#billing_state_field .required{
+	display:none;
+}
+p#billing_postcode_field .required{
+	display:none;
+}
+</style>
+<style>
+
+</style><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//my.logomakr.com/?wordfence_lh=1&hid=D5FE99707A2813B807DD890C3ADE4C28');
+</script>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="robots" content="noindex,follow">
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<link rel="icon" href="https://my.logomakr.com/wp-content/uploads/2018/02/cropped-logomaker1-32x32.png" sizes="32x32">
+<link rel="icon" href="https://my.logomakr.com/wp-content/uploads/2018/02/cropped-logomaker1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://my.logomakr.com/wp-content/uploads/2018/02/cropped-logomaker1-180x180.png">
+<meta name="msapplication-TileImage" content="https://my.logomakr.com/wp-content/uploads/2018/02/cropped-logomaker1-270x270.png">
+
+<!-- BEGIN ExactMetrics v5.3.7 Universal Analytics - https://exactmetrics.com/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-53066913-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END ExactMetrics Universal Analytics -->
+<!-- OceanWP CSS -->
+<style type="text/css">
+/* General CSS */a{color:#d3d3d3}/* Header CSS */#site-logo #site-logo-inner,.oceanwp-social-menu .social-menu-inner,#site-header.full_screen-header .menu-bar-inner,.after-header-content-inner{height:97px}#site-navigation-wrap .dropdown-menu >li >a,#oceanwp-mobile-menu-icon a,.after-header-content-inner >a{line-height:97px}#site-header-inner{padding:9px 0 0 0}#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:498px}#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:500px}/* Footer Bottom CSS */#footer-bottom,#footer-bottom p{color:#ffffff}/* WooCommerce CSS */#owp-checkout-timeline .timeline-step{color:#cccccc}#owp-checkout-timeline .timeline-step{border-color:#cccccc}
+</style><!-- WooCommerce Google Analytics Integration -->
+		<script type="text/javascript">
+			var gaProperty = 'UA-53066913-1';
+			var disableStr = 'ga-disable-' + gaProperty;
+			if ( document.cookie.indexOf( disableStr + '=true' ) > -1 ) {
+				window[disableStr] = true;
+			}
+			function gaOptout() {
+				document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+				window[disableStr] = true;
+			}
+		</script>
+		<script type="text/javascript">var _gaq = _gaq || [];
+		_gaq.push(
+			['_setAccount', 'UA-53066913-1'], ['_gat._anonymizeIp'],
+			['_setCustomVar', 1, 'logged-in', 'no', 1],
+			['_trackPageview']);</script>
+		<!-- /WooCommerce Google Analytics Integration -->
+
+
+		
+		
+	
+	<div id="content-wrap" class="container clr">
+
+		
+		<div id="primary" class="content-area clr">
+		    
+		    
+			
+			<div id="content" class="site-content clr">
+
+				
+				
+<article class="single-page-article clr">
+
+	
+<div class="entry clr" itemprop="text">
+		<div class="woocommerce"><div class="woocommerce-notices-wrapper"></div><style>
+#place_order{float: none !important;background: #3b9fc6;border: solid 1px #3b9fc6;display: block  !important;text-align: center  !important;margin: 0 auto  !important; text-transform:uppercase; padding: 10px 25%; font-weight:bold !important; font-family: 'Raleway', sans-serif !important;}
+.wc-terms-and-conditions{float: none  !important;display  !important: block;text-align: center;margin: 0 auto  !important;}
+#order_review_heading{margin:10px !important;}
+body.woocommerce-checkout .fl-page-content{
+	background:#f6f8fa;
+}
+.woocommerce-message{ display:none; }
+.extra-content-checkout{ text-align:center;}
+.logomakr_validate_email_input a, .extra-content-checkout a {color:#000; font-style:italic;}
+.woo_login_checkout .woocommerce-info{ border: none !important; /*position: absolute;*/ right: 0px; top: -40px; width: auto;}
+.woo_login_checkout .woocommerce-info:before{ display: none !important;}
+.woo_login_checkout .fa{ margin-right: 10px;}
+.logomakr-form .custom-ref-img ul li{ position: relative;}
+.vsTxt{ position: absolute; right: -50px; top: 50%;}
+.woo_login_checkout .woocommerce-info a{ color: #000 !important; text-transform:none; border-bottom: 1px solid black; font-weight:100;}
+.tooltip{ position: absolute !important; font-size: 11px !important; background: #000; color: #FFF; padding: 5px; border-radius: 5px; margin-left: 10px;}
+.woocommerce-page #customer_details input.button{ border-radius:10px; border:3px solid white; background:#e4696c;}
+.woocommerce-page #customer_details input.button:hover{ background: #d46062;}
+h2.titleM {
+    font-size: 40px !important;
+    color: #000000;
+    text-align: center !important;
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 400 !important;
+}
+.woocommerce-form-login p.form-row-first, .woocommerce-form-login p.form-row-last{
+    width:100%;
+}
+.woocommerce-form-login{
+    font-family:raleway;
+}
+.lost_password a{
+    color:grey !important;
+}
+.elementor-location-footer{
+    display: none;
+}
+
+
+.left-side-checkout, .right-side-checkout{
+	display: inline-block;
+    width: 49%;
+    padding-left: 35px;
+	vertical-align:top;
+}
+.right-side-checkout{
+	padding-left:0;
+}
+
+
+.left-side-checkout #customer_details{
+	width:100%;
+	float:none;
+}
+
+.right-side-checkout #order_review{
+    margin-left: 40px;
+    width: 100%!important;
+    float: none!important;
+}
+
+.right-side-checkout #order_review h2 {
+    margin-top: 25px !important;
+}
+
+.logomakr-woo-info i{
+	margin-right:10px;
+}
+.logomakr-woo-info a{
+	font-style:italic
+}
+
+.left-side-checkout ul.woocommerce-error{
+	position:relative;
+}
+
+
+@media (max-width: 991px) {
+  #customer_details{ padding-left: 0 !important;}
+  #order_review{ margin-right: 0 !important;}
+}
+@media (max-width: 767px) {
+  .vsTxt{ right: inherit; left: 100%; margin-left: 12px;}
+  
+  .left-side-checkout, .right-side-checkout{
+	  display:block;
+	  width:100%;
+	  padding-left:0;
+  }
+  
+  .right-side-checkout #order_review{
+	  margin-left: 0;
+    border: none!important;
+    border-top: solid 1px #ededed!important;
+    padding: 40px 0 0 0!important;
+    margin-top: 30px!important;
+  }
+  
+  h2.titleM {
+    font-size: 30px !important;
+  }
+  
+  .left-side-checkout{
+	  margin-top:15px;
+  }
+}
+@media (max-width: 567px) {
+  .vsTxt{ margin-left: 6px;}
+}
+.logomakr_validate_email_input{
+    color: red;
+}
+
+</style>
+<script type="text/javascript">
+    jQuery(".elementor-location-header").remove();
+</script>
+<h2 class="titleM titleL">
+    High Resolution Files</h2>
+    <link rel="stylesheet" href="./triallogo_files/custom.css">
+    <link rel="stylesheet" href="./triallogo_files/evenZoom.css">
+    <script type="text/javascript" src="./triallogo_files/evenZoom.js"></script>
+
+    <div class="custom-form-checkout logomakr-form">
+                            	    <div class="custom-ref-img" style="border-bottom: 1px solid #ededed;padding: 0 0 37px 0;">
+        		<ul>
+        			<li>
+        			    <div id="freeImg" data-zoomed="https://logomakr.com/media/upload/3r/3RU9Y6.png" class="evenZoom">
+        				    <img src="./triallogo_files/3RU9Y6.png" style="-webkit-filter: blur(1.2px);filter: blur(1.2px);">
+        				<div class="evenZoomLens hidden" style="background-image: url(&quot;https://logomakr.com/media/upload/3r/3RU9Y6.png&quot;); top: -40px; left: 22.172px; background-position: -65.6922px 40px;"></div></div>
+        				<p>Low Resolution</p>
+        				<span>Blurry when zoomed in</span>
+                <div class="vsTxt">V.S</div>
+        			</li>
+        			<li>
+        			     <div id="paidImg" data-zoomed="https://logomakr.com/media/upload/3r/3RU9Y6.png" class="evenZoom">
+        				    <img src="./triallogo_files/3RU9Y6.png">
+        				<div class="evenZoomLens hidden" style="background-image: url(&quot;https://logomakr.com/media/upload/3r/3RU9Y6.png&quot;); top: 52px; left: 144.625px; background-position: -273.863px -116.4px;"></div></div>
+        				<p>High Resolution</p>
+        				<span>1,000x Zoom</span>
+        			</li>
+        		</ul>
+        	</div>
+                            <div class="left-side-checkout">
+            
+                <h3>Billing details</h3>
+
+                                    	<p class="logomakr-woo-info"><i class="fa fa-user" aria-hidden="true"></i>Do you have an account? <a href="javascript:void(0);" class="showloginForm">Click Here To Login</a></p>
+        	 
+            <div class="custom_error">
+                            </div>
+
+            <!-- Billing section: Checkbox -->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+});
+</script>
+<!-- Billing section: Select options -->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+
+});
+</script>
+
+<!-- Billing section: Radio buttons -->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+
+});
+</script>
+
+<div class="woo_login_checkout"></div><div class="logomakr_login_form">        <style type="text/css">
+            .logomakr_login_form{
+            	display: none;
+            }
+            .logomakr-woo-info{
+                display: block;
+            }
+        </style>
+        <form class="woocommerce-form woocommerce-form-login login" method="post">
+
+	
+	<p>If you have an existing account, kindly enter your login details below. If you’re a new customer please <a href="javascript:void(0);" class="showCreateAccountForm">Click Here To Create An Account.</a></p>
+
+	<p class="form-row form-row-first">
+		<label for="username">Username or email&nbsp;<span class="required">*</span></label>
+		<input type="text" class="input-text" name="username" id="username" autocomplete="username">
+	</p>
+	<p class="form-row form-row-last">
+		<label for="password">Password&nbsp;<span class="required">*</span></label>
+		<input class="input-text" type="password" name="password" id="password" autocomplete="current-password">
+	</p>
+	<div class="clear"></div>
+
+	
+	<p class="form-row">
+		<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="fcef77fb07"><input type="hidden" name="_wp_http_referer" value="/checkout/?ts=1549415607">		<button type="submit" class="button" name="login" value="Login">Login</button>
+		<input type="hidden" name="redirect" value="https://my.logomakr.com/checkout/">
+		<label class="woocommerce-form__label woocommerce-form__label-for-checkbox inline">
+			<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever"> <span>Remember me</span>
+		</label>
+	</p>
+	<p class="lost_password">
+		<a href="javascript:void(0)" target="_blank">Lost your password?</a>
+	</p>
+
+	<div class="clear"></div>
+
+	
+</form>
+</div><form method="post" class="checkout-page-reset-form woocommerce-ResetPassword lost_reset_password" style="display:none;">
+    
+    <div class="remeBerme">Kindly enter your email address below and a link to reset your password will be sent to this email.    </div>
+    
+    <div class="">
+    	<label class="dispN" for="user_login">Email</label>
+        <div class="inpField greenBTN">
+    	  <input placeholder="Email" class="inpfieldMain" type="text" name="user_login" id="user_login">
+        </div>
+    </div>
+    
+    <div class="clear"></div>
+        
+    <div class="">
+    	<input type="hidden" name="wc_reset_password" value="true">
+        <div class="link-BTN crAcount">
+            <input type="hidden" name="redirect_to" value="https://my.logomakr.com">
+    	    <input type="submit" id="logomakr-reset-password-btn" class="woocommerce-Button button" value="Reset password">
+            <span class="reset-loader" style="display:none;"><img style="height: 37px;" src="./triallogo_files/ajax-loader-2.gif"></span>
+        </div>
+        <div class="link-BTN backToLogin">
+    	  <a href="javascript:void(0);" id="back-to-login">Back to login</a>
+        </div>
+    </div>
+    
+    
+    <input type="hidden" id="_wpnonce" name="_wpnonce" value="4cbbaf3bfd"><input type="hidden" name="_wp_http_referer" value="/checkout/?ts=1549415607">
+</form>
+<style type="text/css">
+@media (max-width: 767px) {
+	.div-VERTal{
+		padding: 40px;
+	}
+}
+</style>
+<script>
+    jQuery("#logomakr-reset-password-btn").on('click',function(){
+        
+        if(!jQuery("#user_login").val()){
+            jQuery("#user_login").focus();
+            return false;
+        }
+        jQuery(".reset-loader").show();
+        var ajaxUrl = "https://my.logomakr.com/wp-admin/admin-ajax.php";
+        jQuery.post(ajaxUrl, {
+            action:"logomakr_custom_password_reset",
+            user_login: jQuery("#user_login").val()
+        }).success(function(posts){
+            jQuery(".checkoutResetPass").remove();
+            if( posts == 'Success' ){
+                jQuery(".custom_error").html('<div class="checkoutResetPass" style="color:green;">A password reset email has been sent to your registered email address.</div>');
+                jQuery("#back-to-login").click();
+            }else{
+                jQuery(".custom_error").html('<div class="checkoutResetPass" style="color:red;">Problem occured on retriving your account.</div>');
+                
+            }
+            jQuery(".reset-loader").hide();
+            
+        });
+       return false;
+    });
+</script>
+
+<div class="woocommerce-notices-wrapper"></div>            
+        	<form name="checkout" method="post" class="checkout woocommerce-checkout" action="https://my.logomakr.com/checkout/" enctype="multipart/form-data" novalidate="novalidate">
+
+        		
+        			
+        			<div class="col2-set" id="customer_details">
+        				<div class="col-1">
+        						<div class="woocommerce-billing-fields">
+		
+
+		
+
+		
+		<div class="woocommerce-billing-fields__field-wrapper billing_related">
+			
+							<p class="form-row form-row-first   validate-required validate-required" id="billing_first_name_field"><label for="billing_first_name" class="">Full Name&nbsp;<abbr class="required" title="required">*</abbr></label><input type="text" class="input-text " name="billing_first_name" id="billing_first_name" placeholder="" value="" autocomplete="given-name"></p><div class="clear"></div>											<p class="form-row form-row-first   validate-required validate-email validate-required validate-email" id="billing_email_field"><label for="billing_email" class="">Email Address&nbsp;<abbr class="required" title="required">*</abbr></label><input type="text" class="input-text " name="billing_email" id="billing_email" placeholder="" value="" autocomplete="off"></p><div class="clear"></div>				<div class="logomakr_validate_email_input"></div>					</div>
+
+		
+	</div>
+
+			<div class="woocommerce-account-fields billing_related">
+			
+			
+			
+				<div class="create-account">
+											<p class="form-row validate-required" id="account_password_field" data-priority=""><label for="account_password" class="">Create account password&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><input type="password" class="input-text " name="account_password" id="account_password" placeholder="Password" value=""></span></p>										<div class="clear"></div>
+				</div>
+
+			
+					</div>
+	        					<div class="col-2">
+        					    <div class="woocommerce-shipping-fields">
+	</div>
+<div class="woocommerce-additional-fields">
+	
+	
+		
+			<h3> </h3>
+
+		
+		<div class="woocommerce-additional-fields__field-wrapper">
+					</div>
+
+	
+	</div>
+        				    </div>
+                            <div class="col-2">
+                                <div id="payment" class="woocommerce-checkout-payment">
+			<ul class="wc_payment_methods payment_methods methods">
+			<li class="wc_payment_method payment_method_stripe">
+	<input id="payment_method_stripe" type="radio" class="input-radio" name="payment_method" value="stripe" checked="checked" data-order_button_text="">
+
+	<label for="payment_method_stripe">
+		Credit Card (Stripe) <img src="./triallogo_files/visa.svg" class="stripe-visa-icon stripe-icon" alt="Visa"><img src="./triallogo_files/amex.svg" class="stripe-amex-icon stripe-icon" alt="American Express"><img src="./triallogo_files/mastercard.svg" class="stripe-mastercard-icon stripe-icon" alt="Mastercard"><img src="./triallogo_files/discover.svg" class="stripe-discover-icon stripe-icon" alt="Discover"><img src="./triallogo_files/jcb.svg" class="stripe-jcb-icon stripe-icon" alt="JCB"><img src="./triallogo_files/diners.svg" class="stripe-diners-icon stripe-icon" alt="Diners">	</label>
+			<div class="payment_box payment_method_stripe">
+			<div id="stripe-payment-data" data-panel-label="" data-description="" data-email="" data-verify-zip="false" data-billing-address="false" data-shipping-address="false" data-amount="1900" data-name="" data-full-name=" " data-currency="usd" data-image="" data-locale="en" data-three-d-secure="false" data-allow-remember-me="true"><p>Pay with your credit card securely via Stripe.</p>
+		<fieldset id="wc-stripe-cc-form" class="wc-credit-card-form wc-payment-form" style="background:transparent;">
+			
+							<div class="form-row form-row-wide">
+					<label for="stripe-card-element">Card Number <span class="required">*</span></label>
+					<div class="stripe-card-group">
+						<div id="stripe-card-element" class="wc-stripe-elements-field StripeElement empty"><div class="__PrivateStripeElement" style="margin: 0px !important; padding: 0px !important; border: none !important; display: block !important; background: transparent !important; position: relative !important; opacity: 1 !important;"><iframe frameborder="0" allowtransparency="true" scrolling="no" name="__privateStripeFrame5" allowpaymentrequest="true" src="./triallogo_files/elements-inner-card-f27f7fb5d403f2c6ea2cdc2251948b22.html" title="Secure payment input frame" style="border: none !important; margin: 0px !important; padding: 0px !important; width: 1px !important; min-width: 100% !important; overflow: hidden !important; display: block !important; height: 18px;"></iframe><input class="__PrivateStripeElement-input" aria-hidden="true" aria-label=" " autocomplete="false" maxlength="1" style="border: none !important; display: block !important; position: absolute !important; height: 1px !important; top: 0px !important; left: 0px !important; padding: 0px !important; margin: 0px !important; width: 100% !important; opacity: 0 !important; background: transparent !important; pointer-events: none !important; font-size: 16px !important;"></div></div>
+
+						<i class="stripe-credit-card-brand stripe-card-brand" alt="Credit Card"></i>
+					</div>
+				</div>
+
+				<div class="form-row form-row-first">
+					<label for="stripe-exp-element">Expiry Date <span class="required">*</span></label>
+
+					<div id="stripe-exp-element" class="wc-stripe-elements-field StripeElement empty"><div class="__PrivateStripeElement" style="margin: 0px !important; padding: 0px !important; border: none !important; display: block !important; background: transparent !important; position: relative !important; opacity: 1 !important;"><iframe frameborder="0" allowtransparency="true" scrolling="no" name="__privateStripeFrame6" allowpaymentrequest="true" src="./triallogo_files/elements-inner-card-f27f7fb5d403f2c6ea2cdc2251948b22(1).html" title="Secure payment input frame" style="border: none !important; margin: 0px !important; padding: 0px !important; width: 1px !important; min-width: 100% !important; overflow: hidden !important; display: block !important; height: 18px;"></iframe><input class="__PrivateStripeElement-input" aria-hidden="true" aria-label=" " autocomplete="false" maxlength="1" style="border: none !important; display: block !important; position: absolute !important; height: 1px !important; top: 0px !important; left: 0px !important; padding: 0px !important; margin: 0px !important; width: 100% !important; opacity: 0 !important; background: transparent !important; pointer-events: none !important; font-size: 16px !important;"></div></div>
+				</div>
+
+				<div class="form-row form-row-last">
+					<label for="stripe-cvc-element">Card Code (CVC) <span class="required">*</span></label>
+				<div id="stripe-cvc-element" class="wc-stripe-elements-field StripeElement empty"><div class="__PrivateStripeElement" style="margin: 0px !important; padding: 0px !important; border: none !important; display: block !important; background: transparent !important; position: relative !important; opacity: 1 !important;"><iframe frameborder="0" allowtransparency="true" scrolling="no" name="__privateStripeFrame7" allowpaymentrequest="true" src="./triallogo_files/elements-inner-card-f27f7fb5d403f2c6ea2cdc2251948b22(2).html" title="Secure payment input frame" style="border: none !important; margin: 0px !important; padding: 0px !important; width: 1px !important; min-width: 100% !important; overflow: hidden !important; display: block !important; height: 18px;"></iframe><input class="__PrivateStripeElement-input" aria-hidden="true" aria-label=" " autocomplete="false" maxlength="1" style="border: none !important; display: block !important; position: absolute !important; height: 1px !important; top: 0px !important; left: 0px !important; padding: 0px !important; margin: 0px !important; width: 100% !important; opacity: 0 !important; background: transparent !important; pointer-events: none !important; font-size: 16px !important;"></div></div>
+				</div>
+				<div class="clear"></div>
+			
+			<!-- Used to display form errors -->
+			<div class="stripe-source-errors" role="alert"></div>
+			<br>
+						<div class="clear"></div>
+		</fieldset>
+		</div>		</div>
+	</li>
+<li class="wc_payment_method payment_method_ppec_paypal">
+	<input id="payment_method_ppec_paypal" type="radio" class="input-radio" name="payment_method" value="ppec_paypal" data-order_button_text="Continue to payment">
+
+	<label for="payment_method_ppec_paypal">
+		PayPal Express Checkout <img src="./triallogo_files/pp-acceptance-small.png" alt="PayPal Express Checkout">	</label>
+			<div class="payment_box payment_method_ppec_paypal" style="display:none;">
+			<p>Pay via PayPal; you can pay with your credit card if you don’t have a PayPal account.</p>
+		</div>
+	</li>
+		</ul>
+		<div class="form-row place-order">
+		<noscript>
+			Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so.			<br/><input type="submit" class="button alt" name="woocommerce_checkout_update_totals" value="Update totals" />
+		</noscript>
+
+		
+		
+		
+		    <script>
+        jQuery( document ).ready(function() {
+            var selected_value = jQuery('input[type=radio][name=payment_method]:checked').val();
+            
+            if (selected_value == 'woo_credits') {
+                jQuery("#place_order").html('Buy Now Using Credit');
+                jQuery("#place_order").attr('value','Buy Now Using Credits');
+                jQuery("#credit_logo_purchase").val("yes");
+                jQuery(".woocommerce-checkout-review-order-table tfoot tr th").html('subtotal');
+                var amount = jQuery(".woocommerce-checkout-review-order-table tfoot tr td").find('.woocommerce-Price-amount').html();
+                jQuery(".woocommerce-checkout-review-order-table tfoot").append("<tr class='credit_purcase_note_row'><th style='padding:0px;'>Credit Purchase</th><td>-"+amount+"</td></tr>");
+                jQuery(".woocommerce-checkout-review-order-table tfoot").append("<tr class='credit_purcase_note_row'><th style='padding:0px;'>Total</th><td><strong style='color:#57bf6d;'>$0.00</strong></td></tr>");
+            }else{
+                var text_val = jQuery("#place_order").attr('data-value');
+                jQuery("#place_order").html(text_val);
+                jQuery("#place_order").attr('value',text_val);
+                jQuery("#credit_logo_purchase").val('');
+                jQuery(".woocommerce-checkout-review-order-table tfoot tr th").html('Total');
+                jQuery(".credit_purcase_note_row").remove();
+            }
+        });
+        jQuery('input[type=radio][name=payment_method]').change(function() {
+            if (this.value == 'woo_credits') {
+                jQuery("#place_order").html('Buy Now Using Credit');
+                jQuery("#place_order").attr('value','Buy Now Using Credits');
+                jQuery("#credit_logo_purchase").val("yes");
+                jQuery(".woocommerce-checkout-review-order-table tfoot tr th").html('subtotal');
+                var amount = jQuery(".woocommerce-checkout-review-order-table tfoot tr td").find('.woocommerce-Price-amount').html();
+                jQuery(".woocommerce-checkout-review-order-table tfoot").append("<tr class='credit_purcase_note_row'><th style='padding:0px;'>Credit Purchase</th><td>-"+amount+"</td></tr>");
+                jQuery(".woocommerce-checkout-review-order-table tfoot").append("<tr class='credit_purcase_note_row'><th style='padding:0px;'>Total</th><td><strong style='color:#57bf6d;'>$0.00</strong></td></tr>");
+            }else{
+                var text_val = jQuery("#place_order").attr('data-value');
+                jQuery("#place_order").html(text_val);
+                jQuery("#place_order").attr('value',text_val);
+                jQuery("#credit_logo_purchase").val('');
+                jQuery(".woocommerce-checkout-review-order-table tfoot tr th").html('Total');
+                jQuery(".credit_purcase_note_row").remove();
+            }
+        });
+     </script>
+    
+			</div>
+</div>
+
+                            </div>
+        					<table class="shop_table col-1-checkout-order-summary">
+        					    <tbody><tr class="order-total">
+                    			    <th>
+                    			        Order Summary                    			                                 			        <br>
+                        			        <span>Logo ID:  <b>3RU9Y6</b></span>
+                        			                         			    </th>
+                    			    <td>
+                    			        <span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19.00</span></td>
+                    		    </tr>
+                    		</tbody></table>
+                            
+                            
+                        
+        				</div>
+                        
+
+        			                    		                		                		                		    <input type="submit" class="button alt" name="woocommerce_checkout_place_order" id="place_order" value="Buy now for $19.00" data-value="Buy now for $19">Buy now for $19</input>                		                		    <script>
+        jQuery( document ).ready(function() {
+            var selected_value = jQuery('input[type=radio][name=payment_method]:checked').val();
+            
+            if (selected_value == 'woo_credits') {
+                jQuery("#place_order").html('Buy Now Using Credit');
+                jQuery("#place_order").attr('value','Buy Now Using Credits');
+                jQuery("#credit_logo_purchase").val("yes");
+                jQuery(".woocommerce-checkout-review-order-table tfoot tr th").html('subtotal');
+                var amount = jQuery(".woocommerce-checkout-review-order-table tfoot tr td").find('.woocommerce-Price-amount').html();
+                jQuery(".woocommerce-checkout-review-order-table tfoot").append("<tr class='credit_purcase_note_row'><th style='padding:0px;'>Credit Purchase</th><td>-"+amount+"</td></tr>");
+                jQuery(".woocommerce-checkout-review-order-table tfoot").append("<tr class='credit_purcase_note_row'><th style='padding:0px;'>Total</th><td><strong style='color:#57bf6d;'>$0.00</strong></td></tr>");
+            }else{
+                var text_val = jQuery("#place_order").attr('data-value');
+                jQuery("#place_order").html(text_val);
+                jQuery("#place_order").attr('value',text_val);
+                jQuery("#credit_logo_purchase").val('');
+                jQuery(".woocommerce-checkout-review-order-table tfoot tr th").html('Total');
+                jQuery(".credit_purcase_note_row").remove();
+            }
+        });
+        jQuery('input[type=radio][name=payment_method]').change(function() {
+            if (this.value == 'woo_credits') {
+                jQuery("#place_order").html('Buy Now Using Credit');
+                jQuery("#place_order").attr('value','Buy Now Using Credits');
+                jQuery("#credit_logo_purchase").val("yes");
+                jQuery(".woocommerce-checkout-review-order-table tfoot tr th").html('subtotal');
+                var amount = jQuery(".woocommerce-checkout-review-order-table tfoot tr td").find('.woocommerce-Price-amount').html();
+                jQuery(".woocommerce-checkout-review-order-table tfoot").append("<tr class='credit_purcase_note_row'><th style='padding:0px;'>Credit Purchase</th><td>-"+amount+"</td></tr>");
+                jQuery(".woocommerce-checkout-review-order-table tfoot").append("<tr class='credit_purcase_note_row'><th style='padding:0px;'>Total</th><td><strong style='color:#57bf6d;'>$0.00</strong></td></tr>");
+            }else{
+                var text_val = jQuery("#place_order").attr('data-value');
+                jQuery("#place_order").html(text_val);
+                jQuery("#place_order").attr('value',text_val);
+                jQuery("#credit_logo_purchase").val('');
+                jQuery(".woocommerce-checkout-review-order-table tfoot tr th").html('Total');
+                jQuery(".credit_purcase_note_row").remove();
+            }
+        });
+     </script>
+                    		<input type="hidden" id="_wpnonce" name="_wpnonce" value="bb01fe5ff0"><input type="hidden" name="_wp_http_referer" value="/checkout/?ts=1549415607">                		<div class="extra-content-checkout">
+                		    <p>By clicking the button above, I acknowledge that I read and agree with <a href="https://my.logomakr.com/terms-of-use" target="_blank;">Terms of service.</a></p>
+                		    <span class="left">Stripe Secure Checkout</span>
+                		    <span class="right">SSL Secure Checkout</span>
+                		</div>
+
+        			</div>
+
+
+        		
+        		<!-- <h3 id="order_review_heading"> </h3> -->
+        		        		<input type="hidden" name="logo_makr_logo_with_credit_checkout_value" id="logo_makr_logo_with_credit_checkout_value" value="0">
+        	</form>
+        </div>
+        <div class="right-side-checkout">
+                        <div id="order_review" class="woocommerce-checkout-review-order new-order">
+                <h2>Order Summary</h2>
+                <div class="">
+                    <span class="left"></span>
+                    <span class="right rbox">High Resolution Files <i class="fa fa-plus" aria-hidden="true"></i>
+                        <p>
+                            $19.00                             <span>USD</span></p>
+                        <span>Instant access.</span>
+                        
+                    </span>
+                    		<select style="width: 77%; margin-left: 29px;" name="wps_ext_cst_label_extra_option" id="wps_ext_cst_label_extra_option">
+		     <option value="">1 download credit @19</option>
+		    
+							       <option value="wps_ext_cst_label_extra_2">4 download credits @12 per logo</option>
+					   					       <option value="wps_ext_cst_label_extra_3">9 download credits @10 per logo</option>
+					   					       <option value="wps_ext_cst_label_extra_4">20 download credits @7 per logo</option>
+					   		</select>
+		<p id="logo_makr_logo_with_credit_checkout_desc" style="display:none; width: 77%; margin-left: 29px; margin-top:10px; font-size:15px;">Note: One of your credits will be used to purchase the design shown above.</p>                </div>
+                
+                
+
+<table class="shop_table woocommerce-checkout-review-order-table">
+	<!--<thead>
+		<tr>
+			<th class="product-name">Product</th>
+			<th class="product-total">Total</th>
+		</tr>
+	</thead>-->
+	<tbody>
+							<tr class="cart_item">
+						<td class="product-name">
+                        	                        
+							High Resolution Files&nbsp;							 <strong class="product-quantity">× 1</strong>							<dl class="variation">
+			<dt class="variation-Logo-Identifier">Logo - Identifier:</dt>
+		<dd class="variation-Logo-Identifier"><p>3RU9Y6</p>
+</dd>
+	</dl>
+						</td>
+						<td class="product-total">
+							<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19.00</span>						</td>
+					</tr>
+						</tbody>
+	<tfoot>
+
+		<!--<tr class="cart-subtotal">
+			<th></th>
+			<td></td>
+		</tr>-->
+
+		
+		
+		
+		
+		
+		<tr class="order-total">
+			<th>Total</th>
+			<td><strong><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>19.00</span></strong> </td>
+		</tr>
+
+		
+	</tfoot>
+</table>    <script>
+        jQuery( document.body ).on( 'updated_checkout', function(){
+            jQuery(".fee").remove();
+            var get_price_html = jQuery(".woocommerce-checkout-review-order-table tfoot").find('.woocommerce-Price-amount').html();
+            var get_price_txt = jQuery(".woocommerce-checkout-review-order-table tfoot .order-total").find('.woocommerce-Price-amount').text();
+            jQuery(".col-1-checkout-order-summary tbody").find('.order-total td .woocommerce-Price-amount').html(get_price_html);
+            jQuery("#place_order").val('Buy now for '+get_price_txt);
+            var selected_opt_txt = jQuery("#wps_ext_cst_label_extra_option option:selected").text();
+            var selected_opt_val = jQuery("#wps_ext_cst_label_extra_option option:selected").val();
+            if( selected_opt_val ){
+                jQuery(".rbox p").html('<span>'+selected_opt_txt+'</span> '+get_price_txt+' <span>USD</span>');
+            }
+        });
+    </script>
+        <div class="form-row place-order">
+        <noscript>
+            Since your browser does not support JavaScript, or it is disabled, please ensure you click the Update Totals button before placing your order. You may be charged more than the amount stated above if you fail to do so.            <br/><input type="submit" class="button alt" name="woocommerce_checkout_update_totals" value="Update totals" />
+        </noscript>
+                <ul class="feature-listing">
+            <b style="font-weight:600; font-size: 17px; padding-bottom: 10px; display: block; padding-top: 5px; padding-left: 30px;">Every logo download comes with:</b>
+<ul>
+ 	<li>High-resolution PNG file for HD devices</li>
+ 	<li><strong>Vector</strong> PDF and SVG print quality files</li>
+ 	<li><strong>Full License</strong> (No credit required)</li>
+ 	<li>Commercial and Personal Use</li>
+ 	<li>Print on t-shirts/clothing, cards/stationary</li>
+ 	<li>Print on large banners and signs</li>
+ 	<li>PNG &amp; JPG files for websites, letterhead (+)</li>
+ 	<li>300 DPI PNG &amp; JPG files</li>
+ 	<li>High zoom quality (Doesn’t get blurry)</li>
+<li class="lastli"><img src="./triallogo_files/new.png" alt="">Bonus Social Icon Creator
+<a title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-html="true" data-container="body" data-original-title=""><img src="./triallogo_files/qsign.png" alt=""></a></li>
+<p></p>
+</ul>
+<p></p>                    <div class="help-text" style="text-align: center; border: 1px solid #DADBDC; margin: 0px auto 0px 50px; width: 310px;">
+            <h2 style="padding-top: 15px; padding-right: 0px; padding-bottom: 15px; font-weight: 300; text-align: center; margin: 0px !important;">Have questions?</h2>
+                            <p style="margin-bottom: 15px; text-align: center;"><b style="padding: 5px;">Call us at:</b>(310) 796-9194</p><p></p>
+                                    
+        </div>
+            
+                <!--<li class="lastli">-->
+            <!--    <img src="https://my.logomakr.com/wp-content/themes/oceanwp/images/new.png" alt="">Bonus Social Icon Creator-->
+            <!--    <a href="javascript:void(0);" data-toggle="popover" data-trigger="hover" data-placement="top" data-html="true"  data-container="body" ><img src="https://my.logomakr.com/wp-content/themes/oceanwp/images/qsign.png" alt=""></a>-->
+            <!--</li>-->
+        </ul>
+        
+        <div id="popover-content" class="hide">
+            <div class="popover-contents">
+                Logomakr's social icon creator allows you create social profile icons using your logo graphics or text. Features include:
+<ul>
+ 	<li>Compatibility with most common social media profiles (10+ social icon sizes)</li>
+ 	<li>Cropping tool that provides the exact dimensions for social media platforms</li>
+ 	<li>Eraser tool that allows you to remove unwanted elements</li>
+ 	<li>Background generator that enables you to add a colored background to your design</li>
+ 	<li><strong>Bonus:</strong> A favicon is provided for your website browser</li>
+</ul>            </div>
+        </div>
+    </div>
+
+    <script src="./triallogo_files/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./triallogo_files/bootstrap.min.css">
+    <script>
+        jQuery(document).ready(function(){
+            jQuery('[data-toggle="tooltip"]').tooltip();
+        });
+        jQuery(document).ready(function(){
+            jQuery('[data-toggle="popover"]').popover({
+                html: true,
+                content:function() {
+                    return jQuery('#popover-content').html();
+                }
+            });
+        });
+    </script>
+                    
+            </div>
+            
+                    </div>
+        
+    	<script type="text/javascript">
+            jQuery(function () {
+                jQuery("#paidImg").evenZoom();
+            });
+        
+            jQuery(function () {
+                jQuery("#freeImg").evenZoom();
+            });
+			
+			/////////anchor click//////
+			jQuery('.lost_password a').attr('target', '_blank');
+
+            jQuery('.woocommerce-error a').attr('target', '_blank');
+
+            jQuery(".showloginForm").click(function(){
+                jQuery(".logomakr_login_form").slideToggle('slow');
+                jQuery(".billing_related").slideToggle('slow');
+                jQuery(".logomakr-woo-info").slideToggle('slow');
+            });
+            jQuery(".showCreateAccountForm").click(function(){
+                jQuery(".logomakr_login_form").slideToggle('slow');
+                jQuery(".billing_related").slideToggle('slow');
+                jQuery(".logomakr-woo-info").slideToggle('slow');
+            });
+            jQuery( document ).ready(function(){
+                jQuery(".lost_password").find('a').attr('href',"javascript:void(0)");
+            });
+            
+            jQuery(".lost_password").find('a').click(function(){
+               jQuery(".woocommerce-form-login").slideToggle('slow');
+               jQuery(".woocommerce-ResetPassword").slideToggle('slow');
+            });
+            
+            jQuery("#back-to-login").click(function(){
+                jQuery(".woocommerce-form-login").slideToggle('slow');
+                jQuery(".woocommerce-ResetPassword").slideToggle('slow');
+            });
+            
+            jQuery(".showResetform").click(function(){
+                jQuery(".woocommerce-form-login").slideToggle('slow');
+                jQuery(".woocommerce-ResetPassword").slideToggle('slow');
+                jQuery(".checkoutResetPass").fadeOut();
+            });
+            
+            
+        </script>
+        <style type="text/css">
+        #freeImg .evenZoomLens {
+            -webkit-filter: blur(2.2px);filter: blur(2.2px);
+        }
+        .evenZoom .evenZoomLens {
+            width: 80px;
+            height: 80px;
+        }
+        ul.woocommerce-error{
+            position:absolute;
+        }
+        </style>
+
+    	<div class="video-checks">
+    	    <h3>What your files can be used for</h3>
+    	    <div class="video-checks-area">
+    	       <div class="vimeo-article"><iframe src="./triallogo_files/283830856.html" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></div>    	    </div>
+    	      
+		    <script src="./triallogo_files/tes-rev-slick.js"></script>
+		    <link rel="stylesheet" href="./triallogo_files/tes-rev-slick.css">
+		    <link rel="stylesheet" href="./triallogo_files/tes-rev-slick-theme.css">
+		    <link rel="stylesheet" href="./triallogo_files/font-awesome.min(1).css">
+		    <link href="./triallogo_files/css(1)" rel="stylesheet">
+    	    <h3>Customer Reviews</h3>
+            <div class="tes-rev-custom-review">
+                <section class="regular slider slick-initialized slick-slider slick-dotted"><button class="slick-prev slick-arrow slick-disabled" aria-label="Previous" type="button" aria-disabled="true" style="display: inline-block;">Previous</button>
+                                            <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2058px; transform: translate3d(0px, 0px, 0px);"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="0" role="tabpanel" id="slick-slide00" aria-describedby="slick-slide-control00" style="width: 294px;">
+                            <span class="small-img">
+                              <img src="./triallogo_files/_img" width="150" height="150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://my.logomakr.com/wp-content/uploads/2018/02/23795360_867672876747110_4163171907073309641_n-150x150.jpg 150w, https://my.logomakr.com/wp-content/uploads/2018/02/23795360_867672876747110_4163171907073309641_n-300x300.jpg 300w, https://my.logomakr.com/wp-content/uploads/2018/02/23795360_867672876747110_4163171907073309641_n-100x100.jpg 100w, https://my.logomakr.com/wp-content/uploads/2018/02/23795360_867672876747110_4163171907073309641_n.jpg 320w" sizes="(max-width: 150px) 100vw, 150px">                            </span>
+                            <h2>Tom Richards</h2>
+                            <span class="stars">
+                                                                        <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                </span>
+                            <p>
+                                The customer service was exceptional. I highly recommend LogoMakr. Thank you very much for all your help.
+Tom                            </p>
+                        </div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" tabindex="0" role="tabpanel" id="slick-slide01" style="width: 294px;">
+                            <span class="small-img">
+                              <img src="./triallogo_files/_img" width="150" height="150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://my.logomakr.com/wp-content/uploads/2018/02/25593843_1896507877029449_2758313358039813448_n-150x150.jpg 150w, https://my.logomakr.com/wp-content/uploads/2018/02/25593843_1896507877029449_2758313358039813448_n-300x300.jpg 300w, https://my.logomakr.com/wp-content/uploads/2018/02/25593843_1896507877029449_2758313358039813448_n-100x100.jpg 100w, https://my.logomakr.com/wp-content/uploads/2018/02/25593843_1896507877029449_2758313358039813448_n.jpg 320w" sizes="(max-width: 150px) 100vw, 150px">                            </span>
+                            <h2>Galvin Calalo</h2>
+                            <span class="stars">
+                                                                        <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                </span>
+                            <p>
+                                I've used a certain logo company for almost 10 years now but I'm glad I stumbled upon LogoMakr. Roxana, thank you for your profe...                            </p>
+                        </div><div class="slick-slide" data-slick-index="2" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide02" aria-describedby="slick-slide-control01" style="width: 294px;">
+                            <span class="small-img">
+                              <img src="./triallogo_files/_img" width="150" height="150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://my.logomakr.com/wp-content/uploads/2018/02/27658001_798031807047905_4871730916648264631_n-150x150.jpg 150w, https://my.logomakr.com/wp-content/uploads/2018/02/27658001_798031807047905_4871730916648264631_n-300x300.jpg 300w, https://my.logomakr.com/wp-content/uploads/2018/02/27658001_798031807047905_4871730916648264631_n-100x100.jpg 100w, https://my.logomakr.com/wp-content/uploads/2018/02/27658001_798031807047905_4871730916648264631_n.jpg 320w" sizes="(max-width: 150px) 100vw, 150px">                            </span>
+                            <h2>Norm Goldstein</h2>
+                            <span class="stars">
+                                                                        <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                </span>
+                            <p>
+                                This company is really awesome. Business logos can be extremely expensive but logo maker made it very reasonably priced and I go...                            </p>
+                        </div><div class="slick-slide" data-slick-index="3" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide03" style="width: 294px;">
+                            <span class="small-img">
+                              <img src="./triallogo_files/_img" width="150" height="150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://my.logomakr.com/wp-content/uploads/2018/02/19665209_1971755036377590_998978887139217363_n-150x150.jpg 150w, https://my.logomakr.com/wp-content/uploads/2018/02/19665209_1971755036377590_998978887139217363_n-300x300.jpg 300w, https://my.logomakr.com/wp-content/uploads/2018/02/19665209_1971755036377590_998978887139217363_n-100x100.jpg 100w, https://my.logomakr.com/wp-content/uploads/2018/02/19665209_1971755036377590_998978887139217363_n.jpg 320w" sizes="(max-width: 150px) 100vw, 150px">                            </span>
+                            <h2>Ricky Rodriguez</h2>
+                            <span class="stars">
+                                                                        <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                </span>
+                            <p>
+                                So I signed up for a logo to be designed on another site, after a very frustrating experience. I cut my losses and actually ende...                            </p>
+                        </div><div class="slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide04" aria-describedby="slick-slide-control02" style="width: 294px;">
+                            <span class="small-img">
+                              <img src="./triallogo_files/_img" width="150" height="150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://my.logomakr.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-27-at-11.12.54-PM-150x150.png 150w, https://my.logomakr.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-27-at-11.12.54-PM-300x300.png 300w, https://my.logomakr.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-27-at-11.12.54-PM-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px">                            </span>
+                            <h2>Quina Pepio-Miller</h2>
+                            <span class="stars">
+                                                                        <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                </span>
+                            <p>
+                                Love how user friendly this was, I was able to create our new logos with ease. I reached out to customer support for some help a...                            </p>
+                        </div><div class="slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide05" style="width: 294px;">
+                            <span class="small-img">
+                              <img src="./triallogo_files/_img" width="150" height="150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://my.logomakr.com/wp-content/uploads/2018/02/11145109_883412705028880_7620194059491576386_n-150x150.jpg 150w, https://my.logomakr.com/wp-content/uploads/2018/02/11145109_883412705028880_7620194059491576386_n-300x300.jpg 300w, https://my.logomakr.com/wp-content/uploads/2018/02/11145109_883412705028880_7620194059491576386_n-100x100.jpg 100w, https://my.logomakr.com/wp-content/uploads/2018/02/11145109_883412705028880_7620194059491576386_n.jpg 320w" sizes="(max-width: 150px) 100vw, 150px">                            </span>
+                            <h2>Kathy Harris</h2>
+                            <span class="stars">
+                                                                        <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                </span>
+                            <p>
+                                I tried a couple of different logo making sites &amp; only became frustrated. Then I tried LogoMakr. Now it sounds corny, but truthf...                            </p>
+                        </div><div class="slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1" role="tabpanel" id="slick-slide06" aria-describedby="slick-slide-control03" style="width: 294px;">
+                            <span class="small-img">
+                              <img src="./triallogo_files/_img" width="150" height="150" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://my.logomakr.com/wp-content/uploads/2018/02/19059732_1515590051794965_2802891383495185855_n-150x150.jpg 150w, https://my.logomakr.com/wp-content/uploads/2018/02/19059732_1515590051794965_2802891383495185855_n-300x300.jpg 300w, https://my.logomakr.com/wp-content/uploads/2018/02/19059732_1515590051794965_2802891383495185855_n-100x100.jpg 100w, https://my.logomakr.com/wp-content/uploads/2018/02/19059732_1515590051794965_2802891383495185855_n.jpg 316w" sizes="(max-width: 150px) 100vw, 150px">                            </span>
+                            <h2>Chantelle Kelley</h2>
+                            <span class="stars">
+                                                                        <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                            <span class="fa fa-star" style="color:#f0a227;"></span>
+                                                                </span>
+                            <p>
+                                LogoMakr is so awesome! I decided later, after paying for the $20 upgrade (PDF,PNG, and SVG) that I didn't want my slogan line u...                            </p>
+                        </div></div></div>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                    <button class="slick-next slick-arrow" aria-label="Next" type="button" style="display: inline-block;" aria-disabled="false">Next</button><ul class="slick-dots" style="display: block;" role="tablist"><li class="slick-active" role="presentation"><button type="button" role="tab" id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 4" tabindex="0" aria-selected="true">1</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control01" aria-controls="slick-slide02" aria-label="2 of 4" tabindex="-1">2</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control02" aria-controls="slick-slide04" aria-label="3 of 4" tabindex="-1">3</button></li><li role="presentation"><button type="button" role="tab" id="slick-slide-control03" aria-controls="slick-slide06" aria-label="4 of 4" tabindex="-1">4</button></li></ul></section>
+            </div>
+    	    <style>
+    	        .slick-arrow{
+    	            display: none !important;
+    	        }
+    	        .tes-rev-custom-review .stars span .checked {
+                    color: orange;
+                }
+                .tes-rev-custom-review{
+                	border:1px solid #dddddd;
+                	width:600px;
+                	margin:0 auto;
+                	text-align:left;
+                	padding:10px 5px;
+                	background: #fff;
+                }
+                .tes-rev-custom-review .slick-initialized .slick-slide{
+                	padding:10px;
+                }
+                .tes-rev-custom-review .slick-dots li button:before{
+                	font-size:33px;
+                }
+                .tes-rev-custom-review h2{
+                	font-size:20px;
+                	padding:0;
+                	margin:0;
+                	font-weight:700;
+                	font-family: 'Raleway', sans-serif;
+                }
+                .tes-rev-custom-review p{
+                	font-size:13px;
+                	font-family: 'Open Sans', sans-serif;
+                }
+                .tes-rev-custom-review .stars{
+                	margin:5px 0;
+                	display:block;
+                }
+                .tes-rev-custom-review .small-img{
+                	width:50px; height:50px; float:left;
+                	/*border:1px solid #dddddd;*/
+                	margin-right:10px;
+                }
+                .tes-rev-custom-review .small-img img{
+                	width:100%;
+                }
+                @media only screen and (max-width: 700px) {
+                	.tes-rev-custom-review{
+                	   width:auto;
+                	}
+                }
+        </style>
+            <script type="text/javascript">
+                jQuery(".regular").slick({
+                    dots: true,
+                    infinite: false,
+                    slidesToShow: 2,
+                    slidesToScroll: 2,
+                responsive: [
+                {
+                  breakpoint: 700,
+                  settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                  }
+                }
+                ]
+                 
+                });
+            </script>
+		    	</div>
+    	<div class="footer-check">
+    	    <img src="./triallogo_files/foot-icon.png">
+    	</div>
+</div>
+
+</div>
+	</div> 
+</article>
+				
+			</div><!-- #content -->
+
+			
+		</div><!-- #primary -->
+
+		
+		
+	</div><!-- #content-wrap -->
+
+	
+		<div data-elementor-type="footer" data-elementor-id="470" class="elementor elementor-470 elementor-location-footer" data-elementor-settings="[]" style="position: static;">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section data-id="3c2f3fda" class="elementor-element elementor-element-3c2f3fda elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="262fc079" class="elementor-element elementor-element-262fc079 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section data-id="7840210c" class="elementor-element elementor-element-7840210c elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="51d2035a" class="elementor-element elementor-element-51d2035a elementor-column elementor-col-50 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="5043af75" class="elementor-element elementor-element-5043af75 elementor-nav-menu__align-left elementor-nav-menu--dropdown-mobile elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-nav-menu--indicator-classic elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-element_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-5043af75" class="elementor-nav-menu" data-smartmenus-id="1549415611732348"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a target="_blank" href="https://my.logomakr.com/contact/" class="elementor-item">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a target="_blank" href="https://my.logomakr.com/terms-of-use/" class="elementor-item">Terms of Use</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a target="_blank" href="https://my.logomakr.com/privacy-policy/" class="elementor-item">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-570"><a href="https://my.logomakr.com/give_credit/" class="elementor-item">Give LogoMakr Credit</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" style="">
+			<i class="eicon" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+		<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" style="top: 0px; width: 1838px; left: 0px;"><ul id="menu-2-5043af75" class="elementor-nav-menu" data-smartmenus-id="1549415611733376"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a target="_blank" href="https://my.logomakr.com/contact/" class="elementor-item">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a target="_blank" href="https://my.logomakr.com/terms-of-use/" class="elementor-item">Terms of Use</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a target="_blank" href="https://my.logomakr.com/privacy-policy/" class="elementor-item">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-570"><a href="https://my.logomakr.com/give_credit/" class="elementor-item">Give LogoMakr Credit</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="7223f0be" class="elementor-element elementor-element-7223f0be elementor-column elementor-col-50 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="7b4a0bed" class="elementor-element elementor-element-7b4a0bed elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default"><a href="https://logomakr.com/" target="_blank">Logo Maker</a></p>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="3828923a" class="elementor-element elementor-element-3828923a elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="5429e70f" class="elementor-element elementor-element-5429e70f elementor-column elementor-col-50 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="63b1ed69" class="elementor-element elementor-element-63b1ed69 elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">© 2018  All rights Reserved. LogoMakr.com </p>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="4e82fd53" class="elementor-element elementor-element-4e82fd53 elementor-column elementor-col-50 elementor-inner-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="330b3609" class="elementor-element elementor-element-330b3609 elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-element_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook" href="https://www.facebook.com/logomakr" target="_blank">
+					<span class="elementor-screen-only">Facebook</span>
+					<i class="fa fa-facebook"></i>
+				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter" href="https://twitter.com/logomakr" target="_blank">
+					<span class="elementor-screen-only">Twitter</span>
+					<i class="fa fa-twitter"></i>
+				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube" href="https://www.youtube.com/channel/UCQamcC6dHnzUCOSKvLrDR2A" target="_blank">
+					<span class="elementor-screen-only">Youtube</span>
+					<i class="fa fa-youtube"></i>
+				</a>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		
+		    <script type="text/javascript">
+		    jQuery( document ).ready(function( $ ) {
+		        $('#wps_ext_cst_label').click(function(){
+		            jQuery('body').trigger('update_checkout');
+		        });
+		    });
+		    </script>
+		    <style>
+		    			    </style>
+	    			<script>
+		    jQuery('#wps_ext_cst_label_extra_option').change(function(){
+	            if(jQuery(this).val() != 0 ){
+	                jQuery('#logo_makr_logo_with_credit_checkout_desc').fadeIn('slow');
+	                jQuery("#logo_makr_logo_with_credit_checkout_value").val(jQuery(this).val());
+	                jQuery('body').trigger('update_checkout');
+	                
+	            }else{
+	                jQuery('#logo_makr_logo_with_credit_checkout_desc').fadeOut('slow');
+	                jQuery("#logo_makr_logo_with_credit_checkout_value").val(0);
+	                location.reload();
+	            }
+	        });
+			</script>
+			    <script type="text/javascript">
+// Window load event used just in case window height is dependant upon images
+jQuery(window).bind("load", function() { 
+      
+      var footerHeight = 0,
+          footerTop = 0,
+          $footer = jQuery(".elementor-location-footer");
+          
+      positionFooter();
+      
+      function positionFooter() {
+      
+               footerHeight = $footer.height();
+               footerTop = (jQuery(window).scrollTop()+jQuery(window).height()-footerHeight)+"px";
+              if ( (jQuery(document.body).height()+footerHeight) < jQuery(window).height()) {
+                   $footer.css({
+                        position: "absolute"
+                   }).animate({
+                        top: footerTop
+                   })
+               } else {
+                   $footer.css({
+                        position: "static"
+                   })
+               }
+              
+      }
+
+      jQuery(window)
+              .scroll(positionFooter)
+              .resize(positionFooter)
+              
+});
+</script>
+    <script type="text/javascript">(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();</script>	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<script type="text/javascript" src="./triallogo_files/core.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/datepicker.min.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type="text/javascript" src="./triallogo_files/widget.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/mouse.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/draggable.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/slider.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/jquery.ui.touch-punch.js"></script>
+<script type="text/javascript" src="./triallogo_files/iris.js"></script>
+<script type="text/javascript" src="./triallogo_files/color-picker.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/jquery.blockUI.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/my.logomakr.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./triallogo_files/add-to-cart.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/selectWoo.full.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./triallogo_files/password-strength-meter.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_password_strength_meter_params = {"min_password_strength":"3","i18n_password_error":"Please enter a stronger password.","i18n_password_hint":"Hint: The password should be at least twelve characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ & )."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./triallogo_files/password-strength-meter.min(1).js"></script>
+<script type="text/javascript" src="./triallogo_files/js.cookie.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./triallogo_files/woocommerce.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_country_select_params = {"countries":"{\"AF\":[],\"AT\":[],\"AX\":[],\"BE\":[],\"BH\":[],\"BI\":[],\"CZ\":[],\"DE\":[],\"DK\":[],\"EE\":[],\"FI\":[],\"FR\":[],\"GP\":[],\"GF\":[],\"IS\":[],\"IL\":[],\"IM\":[],\"KR\":[],\"KW\":[],\"LB\":[],\"LU\":[],\"MQ\":[],\"MT\":[],\"NL\":[],\"NO\":[],\"PL\":[],\"PT\":[],\"RE\":[],\"SG\":[],\"SK\":[],\"SI\":[],\"LK\":[],\"SE\":[],\"VN\":[],\"YT\":[],\"AO\":{\"BGO\":\"Bengo\",\"BLU\":\"Benguela\",\"BIE\":\"Bi\\u00e9\",\"CAB\":\"Cabinda\",\"CNN\":\"Cunene\",\"HUA\":\"Huambo\",\"HUI\":\"Hu\\u00edla\",\"CCU\":\"Kuando Kubango\",\"CNO\":\"Kwanza-Norte\",\"CUS\":\"Kwanza-Sul\",\"LUA\":\"Luanda\",\"LNO\":\"Lunda-Norte\",\"LSU\":\"Lunda-Sul\",\"MAL\":\"Malanje\",\"MOX\":\"Moxico\",\"NAM\":\"Namibe\",\"UIG\":\"U\\u00edge\",\"ZAI\":\"Zaire\"},\"AR\":{\"C\":\"Ciudad Aut\u00f3noma de Buenos Aires\",\"B\":\"Buenos Aires\",\"K\":\"Catamarca\",\"H\":\"Chaco\",\"U\":\"Chubut\",\"X\":\"C\u00f3rdoba\",\"W\":\"Corrientes\",\"E\":\"Entre R\u00edos\",\"P\":\"Formosa\",\"Y\":\"Jujuy\",\"L\":\"La Pampa\",\"F\":\"La Rioja\",\"M\":\"Mendoza\",\"N\":\"Misiones\",\"Q\":\"Neuqu\u00e9n\",\"R\":\"R\u00edo Negro\",\"A\":\"Salta\",\"J\":\"San Juan\",\"D\":\"San Luis\",\"Z\":\"Santa Cruz\",\"S\":\"Santa Fe\",\"G\":\"Santiago del Estero\",\"V\":\"Tierra del Fuego\",\"T\":\"Tucum\u00e1n\"},\"AU\":{\"ACT\":\"Australian Capital Territory\",\"NSW\":\"New South Wales\",\"NT\":\"Northern Territory\",\"QLD\":\"Queensland\",\"SA\":\"South Australia\",\"TAS\":\"Tasmania\",\"VIC\":\"Victoria\",\"WA\":\"Western Australia\"},\"BD\":{\"BD-05\":\"Bagerhat\",\"BD-01\":\"Bandarban\",\"BD-02\":\"Barguna\",\"BD-06\":\"Barishal\",\"BD-07\":\"Bhola\",\"BD-03\":\"Bogura\",\"BD-04\":\"Brahmanbaria\",\"BD-09\":\"Chandpur\",\"BD-10\":\"Chattogram\",\"BD-12\":\"Chuadanga\",\"BD-11\":\"Cox's Bazar\",\"BD-08\":\"Cumilla\",\"BD-13\":\"Dhaka\",\"BD-14\":\"Dinajpur\",\"BD-15\":\"Faridpur \",\"BD-16\":\"Feni\",\"BD-19\":\"Gaibandha\",\"BD-18\":\"Gazipur\",\"BD-17\":\"Gopalganj\",\"BD-20\":\"Habiganj\",\"BD-21\":\"Jamalpur\",\"BD-22\":\"Jashore\",\"BD-25\":\"Jhalokati\",\"BD-23\":\"Jhenaidah\",\"BD-24\":\"Joypurhat\",\"BD-29\":\"Khagrachhari\",\"BD-27\":\"Khulna\",\"BD-26\":\"Kishoreganj\",\"BD-28\":\"Kurigram\",\"BD-30\":\"Kushtia\",\"BD-31\":\"Lakshmipur\",\"BD-32\":\"Lalmonirhat\",\"BD-36\":\"Madaripur\",\"BD-37\":\"Magura\",\"BD-33\":\"Manikganj \",\"BD-39\":\"Meherpur\",\"BD-38\":\"Moulvibazar\",\"BD-35\":\"Munshiganj\",\"BD-34\":\"Mymensingh\",\"BD-48\":\"Naogaon\",\"BD-43\":\"Narail\",\"BD-40\":\"Narayanganj\",\"BD-42\":\"Narsingdi\",\"BD-44\":\"Natore\",\"BD-45\":\"Nawabganj\",\"BD-41\":\"Netrakona\",\"BD-46\":\"Nilphamari\",\"BD-47\":\"Noakhali\",\"BD-49\":\"Pabna\",\"BD-52\":\"Panchagarh\",\"BD-51\":\"Patuakhali\",\"BD-50\":\"Pirojpur\",\"BD-53\":\"Rajbari\",\"BD-54\":\"Rajshahi\",\"BD-56\":\"Rangamati\",\"BD-55\":\"Rangpur\",\"BD-58\":\"Satkhira\",\"BD-62\":\"Shariatpur\",\"BD-57\":\"Sherpur\",\"BD-59\":\"Sirajganj\",\"BD-61\":\"Sunamganj\",\"BD-60\":\"Sylhet\",\"BD-63\":\"Tangail\",\"BD-64\":\"Thakurgaon\"},\"BO\":{\"B\":\"Chuquisaca\",\"H\":\"Beni\",\"C\":\"Cochabamba\",\"L\":\"La Paz\",\"O\":\"Oruro\",\"N\":\"Pando\",\"P\":\"Potos\\u00ed\",\"S\":\"Santa Cruz\",\"T\":\"Tarija\"},\"BR\":{\"AC\":\"Acre\",\"AL\":\"Alagoas\",\"AP\":\"Amap\u00e1\",\"AM\":\"Amazonas\",\"BA\":\"Bahia\",\"CE\":\"Cear\u00e1\",\"DF\":\"Distrito Federal\",\"ES\":\"Esp\u00edrito Santo\",\"GO\":\"Goi\u00e1s\",\"MA\":\"Maranh\u00e3o\",\"MT\":\"Mato Grosso\",\"MS\":\"Mato Grosso do Sul\",\"MG\":\"Minas Gerais\",\"PA\":\"Par\u00e1\",\"PB\":\"Para\u00edba\",\"PR\":\"Paran\u00e1\",\"PE\":\"Pernambuco\",\"PI\":\"Piau\u00ed\",\"RJ\":\"Rio de Janeiro\",\"RN\":\"Rio Grande do Norte\",\"RS\":\"Rio Grande do Sul\",\"RO\":\"Rond\u00f4nia\",\"RR\":\"Roraima\",\"SC\":\"Santa Catarina\",\"SP\":\"S\u00e3o Paulo\",\"SE\":\"Sergipe\",\"TO\":\"Tocantins\"},\"BG\":{\"BG-01\":\"Blagoevgrad\",\"BG-02\":\"Burgas\",\"BG-08\":\"Dobrich\",\"BG-07\":\"Gabrovo\",\"BG-26\":\"Haskovo\",\"BG-09\":\"Kardzhali\",\"BG-10\":\"Kyustendil\",\"BG-11\":\"Lovech\",\"BG-12\":\"Montana\",\"BG-13\":\"Pazardzhik\",\"BG-14\":\"Pernik\",\"BG-15\":\"Pleven\",\"BG-16\":\"Plovdiv\",\"BG-17\":\"Razgrad\",\"BG-18\":\"Ruse\",\"BG-27\":\"Shumen\",\"BG-19\":\"Silistra\",\"BG-20\":\"Sliven\",\"BG-21\":\"Smolyan\",\"BG-23\":\"Sofia\",\"BG-22\":\"Sofia-Grad\",\"BG-24\":\"Stara Zagora\",\"BG-25\":\"Targovishte\",\"BG-03\":\"Varna\",\"BG-04\":\"Veliko Tarnovo\",\"BG-05\":\"Vidin\",\"BG-06\":\"Vratsa\",\"BG-28\":\"Yambol\"},\"CA\":{\"AB\":\"Alberta\",\"BC\":\"British Columbia\",\"MB\":\"Manitoba\",\"NB\":\"New Brunswick\",\"NL\":\"Newfoundland and Labrador\",\"NT\":\"Northwest Territories\",\"NS\":\"Nova Scotia\",\"NU\":\"Nunavut\",\"ON\":\"Ontario\",\"PE\":\"Prince Edward Island\",\"QC\":\"Quebec\",\"SK\":\"Saskatchewan\",\"YT\":\"Yukon Territory\"},\"CN\":{\"CN1\":\"Yunnan \\\/ \u4e91\u5357\",\"CN2\":\"Beijing \\\/ \u5317\u4eac\",\"CN3\":\"Tianjin \\\/ \u5929\u6d25\",\"CN4\":\"Hebei \\\/ \u6cb3\u5317\",\"CN5\":\"Shanxi \\\/ \u5c71\u897f\",\"CN6\":\"Inner Mongolia \\\/ \u5167\u8499\u53e4\",\"CN7\":\"Liaoning \\\/ \u8fbd\u5b81\",\"CN8\":\"Jilin \\\/ \u5409\u6797\",\"CN9\":\"Heilongjiang \\\/ \u9ed1\u9f99\u6c5f\",\"CN10\":\"Shanghai \\\/ \u4e0a\u6d77\",\"CN11\":\"Jiangsu \\\/ \u6c5f\u82cf\",\"CN12\":\"Zhejiang \\\/ \u6d59\u6c5f\",\"CN13\":\"Anhui \\\/ \u5b89\u5fbd\",\"CN14\":\"Fujian \\\/ \u798f\u5efa\",\"CN15\":\"Jiangxi \\\/ \u6c5f\u897f\",\"CN16\":\"Shandong \\\/ \u5c71\u4e1c\",\"CN17\":\"Henan \\\/ \u6cb3\u5357\",\"CN18\":\"Hubei \\\/ \u6e56\u5317\",\"CN19\":\"Hunan \\\/ \u6e56\u5357\",\"CN20\":\"Guangdong \\\/ \u5e7f\u4e1c\",\"CN21\":\"Guangxi Zhuang \\\/ \u5e7f\u897f\u58ee\u65cf\",\"CN22\":\"Hainan \\\/ \u6d77\u5357\",\"CN23\":\"Chongqing \\\/ \u91cd\u5e86\",\"CN24\":\"Sichuan \\\/ \u56db\u5ddd\",\"CN25\":\"Guizhou \\\/ \u8d35\u5dde\",\"CN26\":\"Shaanxi \\\/ \u9655\u897f\",\"CN27\":\"Gansu \\\/ \u7518\u8083\",\"CN28\":\"Qinghai \\\/ \u9752\u6d77\",\"CN29\":\"Ningxia Hui \\\/ \u5b81\u590f\",\"CN30\":\"Macau \\\/ \u6fb3\u95e8\",\"CN31\":\"Tibet \\\/ \u897f\u85cf\",\"CN32\":\"Xinjiang \\\/ \u65b0\u7586\"},\"GR\":{\"I\":\"\\u0391\\u03c4\\u03c4\\u03b9\\u03ba\\u03ae\",\"A\":\"\\u0391\\u03bd\\u03b1\\u03c4\\u03bf\\u03bb\\u03b9\\u03ba\\u03ae \\u039c\\u03b1\\u03ba\\u03b5\\u03b4\\u03bf\\u03bd\\u03af\\u03b1 \\u03ba\\u03b1\\u03b9 \\u0398\\u03c1\\u03ac\\u03ba\\u03b7\",\"B\":\"\\u039a\\u03b5\\u03bd\\u03c4\\u03c1\\u03b9\\u03ba\\u03ae \\u039c\\u03b1\\u03ba\\u03b5\\u03b4\\u03bf\\u03bd\\u03af\\u03b1\",\"C\":\"\\u0394\\u03c5\\u03c4\\u03b9\\u03ba\\u03ae \\u039c\\u03b1\\u03ba\\u03b5\\u03b4\\u03bf\\u03bd\\u03af\\u03b1\",\"D\":\"\\u0389\\u03c0\\u03b5\\u03b9\\u03c1\\u03bf\\u03c2\",\"E\":\"\\u0398\\u03b5\\u03c3\\u03c3\\u03b1\\u03bb\\u03af\\u03b1\",\"F\":\"\\u0399\\u03cc\\u03bd\\u03b9\\u03bf\\u03b9 \\u039d\\u03ae\\u03c3\\u03bf\\u03b9\",\"G\":\"\\u0394\\u03c5\\u03c4\\u03b9\\u03ba\\u03ae \\u0395\\u03bb\\u03bb\\u03ac\\u03b4\\u03b1\",\"H\":\"\\u03a3\\u03c4\\u03b5\\u03c1\\u03b5\\u03ac \\u0395\\u03bb\\u03bb\\u03ac\\u03b4\\u03b1\",\"J\":\"\\u03a0\\u03b5\\u03bb\\u03bf\\u03c0\\u03cc\\u03bd\\u03bd\\u03b7\\u03c3\\u03bf\\u03c2\",\"K\":\"\\u0392\\u03cc\\u03c1\\u03b5\\u03b9\\u03bf \\u0391\\u03b9\\u03b3\\u03b1\\u03af\\u03bf\",\"L\":\"\\u039d\\u03cc\\u03c4\\u03b9\\u03bf \\u0391\\u03b9\\u03b3\\u03b1\\u03af\\u03bf\",\"M\":\"\\u039a\\u03c1\\u03ae\\u03c4\\u03b7\"},\"HK\":{\"HONG KONG\":\"Hong Kong Island\",\"KOWLOON\":\"Kowloon\",\"NEW TERRITORIES\":\"New Territories\"},\"HU\":{\"BK\":\"B\\u00e1cs-Kiskun\",\"BE\":\"B\\u00e9k\\u00e9s\",\"BA\":\"Baranya\",\"BZ\":\"Borsod-Aba\\u00faj-Zempl\\u00e9n\",\"BU\":\"Budapest\",\"CS\":\"Csongr\\u00e1d\",\"FE\":\"Fej\\u00e9r\",\"GS\":\"Gy\\u0151r-Moson-Sopron\",\"HB\":\"Hajd\\u00fa-Bihar\",\"HE\":\"Heves\",\"JN\":\"J\\u00e1sz-Nagykun-Szolnok\",\"KE\":\"Kom\\u00e1rom-Esztergom\",\"NO\":\"N\\u00f3gr\\u00e1d\",\"PE\":\"Pest\",\"SO\":\"Somogy\",\"SZ\":\"Szabolcs-Szatm\\u00e1r-Bereg\",\"TO\":\"Tolna\",\"VA\":\"Vas\",\"VE\":\"Veszpr\\u00e9m\",\"ZA\":\"Zala\"},\"IN\":{\"AP\":\"Andhra Pradesh\",\"AR\":\"Arunachal Pradesh\",\"AS\":\"Assam\",\"BR\":\"Bihar\",\"CT\":\"Chhattisgarh\",\"GA\":\"Goa\",\"GJ\":\"Gujarat\",\"HR\":\"Haryana\",\"HP\":\"Himachal Pradesh\",\"JK\":\"Jammu and Kashmir\",\"JH\":\"Jharkhand\",\"KA\":\"Karnataka\",\"KL\":\"Kerala\",\"MP\":\"Madhya Pradesh\",\"MH\":\"Maharashtra\",\"MN\":\"Manipur\",\"ML\":\"Meghalaya\",\"MZ\":\"Mizoram\",\"NL\":\"Nagaland\",\"OR\":\"Orissa\",\"PB\":\"Punjab\",\"RJ\":\"Rajasthan\",\"SK\":\"Sikkim\",\"TN\":\"Tamil Nadu\",\"TS\":\"Telangana\",\"TR\":\"Tripura\",\"UK\":\"Uttarakhand\",\"UP\":\"Uttar Pradesh\",\"WB\":\"West Bengal\",\"AN\":\"Andaman and Nicobar Islands\",\"CH\":\"Chandigarh\",\"DN\":\"Dadra and Nagar Haveli\",\"DD\":\"Daman and Diu\",\"DL\":\"Delhi\",\"LD\":\"Lakshadeep\",\"PY\":\"Pondicherry (Puducherry)\"},\"ID\":{\"AC\":\"Daerah Istimewa Aceh\",\"SU\":\"Sumatera Utara\",\"SB\":\"Sumatera Barat\",\"RI\":\"Riau\",\"KR\":\"Kepulauan Riau\",\"JA\":\"Jambi\",\"SS\":\"Sumatera Selatan\",\"BB\":\"Bangka Belitung\",\"BE\":\"Bengkulu\",\"LA\":\"Lampung\",\"JK\":\"DKI Jakarta\",\"JB\":\"Jawa Barat\",\"BT\":\"Banten\",\"JT\":\"Jawa Tengah\",\"JI\":\"Jawa Timur\",\"YO\":\"Daerah Istimewa Yogyakarta\",\"BA\":\"Bali\",\"NB\":\"Nusa Tenggara Barat\",\"NT\":\"Nusa Tenggara Timur\",\"KB\":\"Kalimantan Barat\",\"KT\":\"Kalimantan Tengah\",\"KI\":\"Kalimantan Timur\",\"KS\":\"Kalimantan Selatan\",\"KU\":\"Kalimantan Utara\",\"SA\":\"Sulawesi Utara\",\"ST\":\"Sulawesi Tengah\",\"SG\":\"Sulawesi Tenggara\",\"SR\":\"Sulawesi Barat\",\"SN\":\"Sulawesi Selatan\",\"GO\":\"Gorontalo\",\"MA\":\"Maluku\",\"MU\":\"Maluku Utara\",\"PA\":\"Papua\",\"PB\":\"Papua Barat\"},\"IR\":{\"KHZ\":\"Khuzestan  (\\u062e\\u0648\\u0632\\u0633\\u062a\\u0627\\u0646)\",\"THR\":\"Tehran  (\\u062a\\u0647\\u0631\\u0627\\u0646)\",\"ILM\":\"Ilaam (\\u0627\\u06cc\\u0644\\u0627\\u0645)\",\"BHR\":\"Bushehr (\\u0628\\u0648\\u0634\\u0647\\u0631)\",\"ADL\":\"Ardabil (\\u0627\\u0631\\u062f\\u0628\\u06cc\\u0644)\",\"ESF\":\"Isfahan (\\u0627\\u0635\\u0641\\u0647\\u0627\\u0646)\",\"YZD\":\"Yazd (\\u06cc\\u0632\\u062f)\",\"KRH\":\"Kermanshah (\\u06a9\\u0631\\u0645\\u0627\\u0646\\u0634\\u0627\\u0647)\",\"KRN\":\"Kerman (\\u06a9\\u0631\\u0645\\u0627\\u0646)\",\"HDN\":\"Hamadan (\\u0647\\u0645\\u062f\\u0627\\u0646)\",\"GZN\":\"Ghazvin (\\u0642\\u0632\\u0648\\u06cc\\u0646)\",\"ZJN\":\"Zanjan (\\u0632\\u0646\\u062c\\u0627\\u0646)\",\"LRS\":\"Luristan (\\u0644\\u0631\\u0633\\u062a\\u0627\\u0646)\",\"ABZ\":\"Alborz (\\u0627\\u0644\\u0628\\u0631\\u0632)\",\"EAZ\":\"East Azarbaijan (\\u0622\\u0630\\u0631\\u0628\\u0627\\u06cc\\u062c\\u0627\\u0646 \\u0634\\u0631\\u0642\\u06cc)\",\"WAZ\":\"West Azarbaijan (\\u0622\\u0630\\u0631\\u0628\\u0627\\u06cc\\u062c\\u0627\\u0646 \\u063a\\u0631\\u0628\\u06cc)\",\"CHB\":\"Chaharmahal and Bakhtiari (\\u0686\\u0647\\u0627\\u0631\\u0645\\u062d\\u0627\\u0644 \\u0648 \\u0628\\u062e\\u062a\\u06cc\\u0627\\u0631\\u06cc)\",\"SKH\":\"South Khorasan (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u062c\\u0646\\u0648\\u0628\\u06cc)\",\"RKH\":\"Razavi Khorasan (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u0631\\u0636\\u0648\\u06cc)\",\"NKH\":\"North Khorasan (\\u062e\\u0631\\u0627\\u0633\\u0627\\u0646 \\u0634\\u0645\\u0627\\u0644\\u06cc)\",\"SMN\":\"Semnan (\\u0633\\u0645\\u0646\\u0627\\u0646)\",\"FRS\":\"Fars (\\u0641\\u0627\\u0631\\u0633)\",\"QHM\":\"Qom (\\u0642\\u0645)\",\"KRD\":\"Kurdistan \\\/ \\u06a9\\u0631\\u062f\\u0633\\u062a\\u0627\\u0646)\",\"KBD\":\"Kohgiluyeh and BoyerAhmad (\\u06a9\\u0647\\u06af\\u06cc\\u0644\\u0648\\u06cc\\u06cc\\u0647 \\u0648 \\u0628\\u0648\\u06cc\\u0631\\u0627\\u062d\\u0645\\u062f)\",\"GLS\":\"Golestan (\\u06af\\u0644\\u0633\\u062a\\u0627\\u0646)\",\"GIL\":\"Gilan (\\u06af\\u06cc\\u0644\\u0627\\u0646)\",\"MZN\":\"Mazandaran (\\u0645\\u0627\\u0632\\u0646\\u062f\\u0631\\u0627\\u0646)\",\"MKZ\":\"Markazi (\\u0645\\u0631\\u06a9\\u0632\\u06cc)\",\"HRZ\":\"Hormozgan (\\u0647\\u0631\\u0645\\u0632\\u06af\\u0627\\u0646)\",\"SBN\":\"Sistan and Baluchestan (\\u0633\\u06cc\\u0633\\u062a\\u0627\\u0646 \\u0648 \\u0628\\u0644\\u0648\\u0686\\u0633\\u062a\\u0627\\u0646)\"},\"IE\":{\"CW\":\"Carlow\",\"CN\":\"Cavan\",\"CE\":\"Clare\",\"CO\":\"Cork\",\"DL\":\"Donegal\",\"D\":\"Dublin\",\"G\":\"Galway\",\"KY\":\"Kerry\",\"KE\":\"Kildare\",\"KK\":\"Kilkenny\",\"LS\":\"Laois\",\"LM\":\"Leitrim\",\"LK\":\"Limerick\",\"LD\":\"Longford\",\"LH\":\"Louth\",\"MO\":\"Mayo\",\"MH\":\"Meath\",\"MN\":\"Monaghan\",\"OY\":\"Offaly\",\"RN\":\"Roscommon\",\"SO\":\"Sligo\",\"TA\":\"Tipperary\",\"WD\":\"Waterford\",\"WH\":\"Westmeath\",\"WX\":\"Wexford\",\"WW\":\"Wicklow\"},\"IT\":{\"AG\":\"Agrigento\",\"AL\":\"Alessandria\",\"AN\":\"Ancona\",\"AO\":\"Aosta\",\"AR\":\"Arezzo\",\"AP\":\"Ascoli Piceno\",\"AT\":\"Asti\",\"AV\":\"Avellino\",\"BA\":\"Bari\",\"BT\":\"Barletta-Andria-Trani\",\"BL\":\"Belluno\",\"BN\":\"Benevento\",\"BG\":\"Bergamo\",\"BI\":\"Biella\",\"BO\":\"Bologna\",\"BZ\":\"Bolzano\",\"BS\":\"Brescia\",\"BR\":\"Brindisi\",\"CA\":\"Cagliari\",\"CL\":\"Caltanissetta\",\"CB\":\"Campobasso\",\"CE\":\"Caserta\",\"CT\":\"Catania\",\"CZ\":\"Catanzaro\",\"CH\":\"Chieti\",\"CO\":\"Como\",\"CS\":\"Cosenza\",\"CR\":\"Cremona\",\"KR\":\"Crotone\",\"CN\":\"Cuneo\",\"EN\":\"Enna\",\"FM\":\"Fermo\",\"FE\":\"Ferrara\",\"FI\":\"Firenze\",\"FG\":\"Foggia\",\"FC\":\"Forl\\u00ec-Cesena\",\"FR\":\"Frosinone\",\"GE\":\"Genova\",\"GO\":\"Gorizia\",\"GR\":\"Grosseto\",\"IM\":\"Imperia\",\"IS\":\"Isernia\",\"SP\":\"La Spezia\",\"AQ\":\"L'Aquila\",\"LT\":\"Latina\",\"LE\":\"Lecce\",\"LC\":\"Lecco\",\"LI\":\"Livorno\",\"LO\":\"Lodi\",\"LU\":\"Lucca\",\"MC\":\"Macerata\",\"MN\":\"Mantova\",\"MS\":\"Massa-Carrara\",\"MT\":\"Matera\",\"ME\":\"Messina\",\"MI\":\"Milano\",\"MO\":\"Modena\",\"MB\":\"Monza e della Brianza\",\"NA\":\"Napoli\",\"NO\":\"Novara\",\"NU\":\"Nuoro\",\"OR\":\"Oristano\",\"PD\":\"Padova\",\"PA\":\"Palermo\",\"PR\":\"Parma\",\"PV\":\"Pavia\",\"PG\":\"Perugia\",\"PU\":\"Pesaro e Urbino\",\"PE\":\"Pescara\",\"PC\":\"Piacenza\",\"PI\":\"Pisa\",\"PT\":\"Pistoia\",\"PN\":\"Pordenone\",\"PZ\":\"Potenza\",\"PO\":\"Prato\",\"RG\":\"Ragusa\",\"RA\":\"Ravenna\",\"RC\":\"Reggio Calabria\",\"RE\":\"Reggio Emilia\",\"RI\":\"Rieti\",\"RN\":\"Rimini\",\"RM\":\"Roma\",\"RO\":\"Rovigo\",\"SA\":\"Salerno\",\"SS\":\"Sassari\",\"SV\":\"Savona\",\"SI\":\"Siena\",\"SR\":\"Siracusa\",\"SO\":\"Sondrio\",\"SU\":\"Sud Sardegna\",\"TA\":\"Taranto\",\"TE\":\"Teramo\",\"TR\":\"Terni\",\"TO\":\"Torino\",\"TP\":\"Trapani\",\"TN\":\"Trento\",\"TV\":\"Treviso\",\"TS\":\"Trieste\",\"UD\":\"Udine\",\"VA\":\"Varese\",\"VE\":\"Venezia\",\"VB\":\"Verbano-Cusio-Ossola\",\"VC\":\"Vercelli\",\"VR\":\"Verona\",\"VV\":\"Vibo Valentia\",\"VI\":\"Vicenza\",\"VT\":\"Viterbo\"},\"JP\":{\"JP01\":\"Hokkaido\",\"JP02\":\"Aomori\",\"JP03\":\"Iwate\",\"JP04\":\"Miyagi\",\"JP05\":\"Akita\",\"JP06\":\"Yamagata\",\"JP07\":\"Fukushima\",\"JP08\":\"Ibaraki\",\"JP09\":\"Tochigi\",\"JP10\":\"Gunma\",\"JP11\":\"Saitama\",\"JP12\":\"Chiba\",\"JP13\":\"Tokyo\",\"JP14\":\"Kanagawa\",\"JP15\":\"Niigata\",\"JP16\":\"Toyama\",\"JP17\":\"Ishikawa\",\"JP18\":\"Fukui\",\"JP19\":\"Yamanashi\",\"JP20\":\"Nagano\",\"JP21\":\"Gifu\",\"JP22\":\"Shizuoka\",\"JP23\":\"Aichi\",\"JP24\":\"Mie\",\"JP25\":\"Shiga\",\"JP26\":\"Kyoto\",\"JP27\":\"Osaka\",\"JP28\":\"Hyogo\",\"JP29\":\"Nara\",\"JP30\":\"Wakayama\",\"JP31\":\"Tottori\",\"JP32\":\"Shimane\",\"JP33\":\"Okayama\",\"JP34\":\"Hiroshima\",\"JP35\":\"Yamaguchi\",\"JP36\":\"Tokushima\",\"JP37\":\"Kagawa\",\"JP38\":\"Ehime\",\"JP39\":\"Kochi\",\"JP40\":\"Fukuoka\",\"JP41\":\"Saga\",\"JP42\":\"Nagasaki\",\"JP43\":\"Kumamoto\",\"JP44\":\"Oita\",\"JP45\":\"Miyazaki\",\"JP46\":\"Kagoshima\",\"JP47\":\"Okinawa\"},\"LR\":{\"BM\":\"Bomi\",\"BN\":\"Bong\",\"GA\":\"Gbarpolu\",\"GB\":\"Grand Bassa\",\"GC\":\"Grand Cape Mount\",\"GG\":\"Grand Gedeh\",\"GK\":\"Grand Kru\",\"LO\":\"Lofa\",\"MA\":\"Margibi\",\"MY\":\"Maryland\",\"MO\":\"Montserrado\",\"NM\":\"Nimba\",\"RV\":\"Rivercess\",\"RG\":\"River Gee\",\"SN\":\"Sinoe\"},\"MY\":{\"JHR\":\"Johor\",\"KDH\":\"Kedah\",\"KTN\":\"Kelantan\",\"LBN\":\"Labuan\",\"MLK\":\"Malacca (Melaka)\",\"NSN\":\"Negeri Sembilan\",\"PHG\":\"Pahang\",\"PNG\":\"Penang (Pulau Pinang)\",\"PRK\":\"Perak\",\"PLS\":\"Perlis\",\"SBH\":\"Sabah\",\"SWK\":\"Sarawak\",\"SGR\":\"Selangor\",\"TRG\":\"Terengganu\",\"PJY\":\"Putrajaya\",\"KUL\":\"Kuala Lumpur\"},\"MX\":{\"DF\":\"Ciudad de M\u00e9xico\",\"JA\":\"Jalisco\",\"NL\":\"Nuevo Le\u00f3n\",\"AG\":\"Aguascalientes\",\"BC\":\"Baja California\",\"BS\":\"Baja California Sur\",\"CM\":\"Campeche\",\"CS\":\"Chiapas\",\"CH\":\"Chihuahua\",\"CO\":\"Coahuila\",\"CL\":\"Colima\",\"DG\":\"Durango\",\"GT\":\"Guanajuato\",\"GR\":\"Guerrero\",\"HG\":\"Hidalgo\",\"MX\":\"Estado de M\u00e9xico\",\"MI\":\"Michoac\u00e1n\",\"MO\":\"Morelos\",\"NA\":\"Nayarit\",\"OA\":\"Oaxaca\",\"PU\":\"Puebla\",\"QT\":\"Quer\u00e9taro\",\"QR\":\"Quintana Roo\",\"SL\":\"San Luis Potos\u00ed\",\"SI\":\"Sinaloa\",\"SO\":\"Sonora\",\"TB\":\"Tabasco\",\"TM\":\"Tamaulipas\",\"TL\":\"Tlaxcala\",\"VE\":\"Veracruz\",\"YU\":\"Yucat\u00e1n\",\"ZA\":\"Zacatecas\"},\"MD\":{\"C\":\"Chi\u0219in\u0103u\",\"BL\":\"B\u0103l\u021bi\",\"AN\":\"Anenii Noi\",\"BS\":\"Basarabeasca\",\"BR\":\"Briceni\",\"CH\":\"Cahul\",\"CT\":\"Cantemir\",\"CL\":\"C\u0103l\u0103ra\u0219i\",\"CS\":\"C\u0103u\u0219eni\",\"CM\":\"Cimi\u0219lia\",\"CR\":\"Criuleni\",\"DN\":\"Dondu\u0219eni\",\"DR\":\"Drochia\",\"DB\":\"Dub\u0103sari\",\"ED\":\"Edine\u021b\",\"FL\":\"F\u0103le\u0219ti\",\"FR\":\"Flore\u0219ti\",\"GE\":\"UTA G\u0103g\u0103uzia\",\"GL\":\"Glodeni\",\"HN\":\"H\u00eence\u0219ti\",\"IL\":\"Ialoveni\",\"LV\":\"Leova\",\"NS\":\"Nisporeni\",\"OC\":\"Ocni\u021ba\",\"OR\":\"Orhei\",\"RZ\":\"Rezina\",\"RS\":\"R\u00ee\u0219cani\",\"SG\":\"S\u00eengerei\",\"SR\":\"Soroca\",\"ST\":\"Str\u0103\u0219eni\",\"SD\":\"\u0218old\u0103ne\u0219ti\",\"SV\":\"\u0218tefan Vod\u0103\",\"TR\":\"Taraclia\",\"TL\":\"Telene\u0219ti\",\"UN\":\"Ungheni\"},\"NP\":{\"BAG\":\"Bagmati\",\"BHE\":\"Bheri\",\"DHA\":\"Dhaulagiri\",\"GAN\":\"Gandaki\",\"JAN\":\"Janakpur\",\"KAR\":\"Karnali\",\"KOS\":\"Koshi\",\"LUM\":\"Lumbini\",\"MAH\":\"Mahakali\",\"MEC\":\"Mechi\",\"NAR\":\"Narayani\",\"RAP\":\"Rapti\",\"SAG\":\"Sagarmatha\",\"SET\":\"Seti\"},\"NZ\":{\"NL\":\"Northland\",\"AK\":\"Auckland\",\"WA\":\"Waikato\",\"BP\":\"Bay of Plenty\",\"TK\":\"Taranaki\",\"GI\":\"Gisborne\",\"HB\":\"Hawke\u2019s Bay\",\"MW\":\"Manawatu-Wanganui\",\"WE\":\"Wellington\",\"NS\":\"Nelson\",\"MB\":\"Marlborough\",\"TM\":\"Tasman\",\"WC\":\"West Coast\",\"CT\":\"Canterbury\",\"OT\":\"Otago\",\"SL\":\"Southland\"},\"NG\":{\"AB\":\"Abia\",\"FC\":\"Abuja\",\"AD\":\"Adamawa\",\"AK\":\"Akwa Ibom\",\"AN\":\"Anambra\",\"BA\":\"Bauchi\",\"BY\":\"Bayelsa\",\"BE\":\"Benue\",\"BO\":\"Borno\",\"CR\":\"Cross River\",\"DE\":\"Delta\",\"EB\":\"Ebonyi\",\"ED\":\"Edo\",\"EK\":\"Ekiti\",\"EN\":\"Enugu\",\"GO\":\"Gombe\",\"IM\":\"Imo\",\"JI\":\"Jigawa\",\"KD\":\"Kaduna\",\"KN\":\"Kano\",\"KT\":\"Katsina\",\"KE\":\"Kebbi\",\"KO\":\"Kogi\",\"KW\":\"Kwara\",\"LA\":\"Lagos\",\"NA\":\"Nasarawa\",\"NI\":\"Niger\",\"OG\":\"Ogun\",\"ON\":\"Ondo\",\"OS\":\"Osun\",\"OY\":\"Oyo\",\"PL\":\"Plateau\",\"RI\":\"Rivers\",\"SO\":\"Sokoto\",\"TA\":\"Taraba\",\"YO\":\"Yobe\",\"ZA\":\"Zamfara\"},\"PK\":{\"JK\":\"Azad Kashmir\",\"BA\":\"Balochistan\",\"TA\":\"FATA\",\"GB\":\"Gilgit Baltistan\",\"IS\":\"Islamabad Capital Territory\",\"KP\":\"Khyber Pakhtunkhwa\",\"PB\":\"Punjab\",\"SD\":\"Sindh\"},\"PYG\":{\"PY-ASU\":\"Asunci\u00f3n\",\"PY-1\":\"Concepci\u00f3n\",\"PY-2\":\"San Pedro\",\"PY-3\":\"Cordillera\",\"PY-4\":\"Guair\u00e1\",\"PY-5\":\"Caaguaz\u00fa\",\"PY-6\":\"Caazap\u00e1\",\"PY-7\":\"Itap\u00faa\",\"PY-8\":\"Misiones\",\"PY-9\":\"Paraguar\u00ed\",\"PY-10\":\"Alto Paran\u00e1\",\"PY-11\":\"Central\",\"PY-12\":\"\u00d1eembuc\u00fa\",\"PY-13\":\"Amambay\",\"PY-14\":\"Canindey\u00fa\",\"PY-15\":\"Presidente Hayes\",\"PY-16\":\"Alto Paraguay\",\"PY-17\":\"Boquer\u00f3n\"},\"PE\":{\"CAL\":\"El Callao\",\"LMA\":\"Municipalidad Metropolitana de Lima\",\"AMA\":\"Amazonas\",\"ANC\":\"Ancash\",\"APU\":\"Apur\u00edmac\",\"ARE\":\"Arequipa\",\"AYA\":\"Ayacucho\",\"CAJ\":\"Cajamarca\",\"CUS\":\"Cusco\",\"HUV\":\"Huancavelica\",\"HUC\":\"Hu\u00e1nuco\",\"ICA\":\"Ica\",\"JUN\":\"Jun\u00edn\",\"LAL\":\"La Libertad\",\"LAM\":\"Lambayeque\",\"LIM\":\"Lima\",\"LOR\":\"Loreto\",\"MDD\":\"Madre de Dios\",\"MOQ\":\"Moquegua\",\"PAS\":\"Pasco\",\"PIU\":\"Piura\",\"PUN\":\"Puno\",\"SAM\":\"San Mart\u00edn\",\"TAC\":\"Tacna\",\"TUM\":\"Tumbes\",\"UCA\":\"Ucayali\"},\"PH\":{\"ABR\":\"Abra\",\"AGN\":\"Agusan del Norte\",\"AGS\":\"Agusan del Sur\",\"AKL\":\"Aklan\",\"ALB\":\"Albay\",\"ANT\":\"Antique\",\"APA\":\"Apayao\",\"AUR\":\"Aurora\",\"BAS\":\"Basilan\",\"BAN\":\"Bataan\",\"BTN\":\"Batanes\",\"BTG\":\"Batangas\",\"BEN\":\"Benguet\",\"BIL\":\"Biliran\",\"BOH\":\"Bohol\",\"BUK\":\"Bukidnon\",\"BUL\":\"Bulacan\",\"CAG\":\"Cagayan\",\"CAN\":\"Camarines Norte\",\"CAS\":\"Camarines Sur\",\"CAM\":\"Camiguin\",\"CAP\":\"Capiz\",\"CAT\":\"Catanduanes\",\"CAV\":\"Cavite\",\"CEB\":\"Cebu\",\"COM\":\"Compostela Valley\",\"NCO\":\"Cotabato\",\"DAV\":\"Davao del Norte\",\"DAS\":\"Davao del Sur\",\"DAC\":\"Davao Occidental\",\"DAO\":\"Davao Oriental\",\"DIN\":\"Dinagat Islands\",\"EAS\":\"Eastern Samar\",\"GUI\":\"Guimaras\",\"IFU\":\"Ifugao\",\"ILN\":\"Ilocos Norte\",\"ILS\":\"Ilocos Sur\",\"ILI\":\"Iloilo\",\"ISA\":\"Isabela\",\"KAL\":\"Kalinga\",\"LUN\":\"La Union\",\"LAG\":\"Laguna\",\"LAN\":\"Lanao del Norte\",\"LAS\":\"Lanao del Sur\",\"LEY\":\"Leyte\",\"MAG\":\"Maguindanao\",\"MAD\":\"Marinduque\",\"MAS\":\"Masbate\",\"MSC\":\"Misamis Occidental\",\"MSR\":\"Misamis Oriental\",\"MOU\":\"Mountain Province\",\"NEC\":\"Negros Occidental\",\"NER\":\"Negros Oriental\",\"NSA\":\"Northern Samar\",\"NUE\":\"Nueva Ecija\",\"NUV\":\"Nueva Vizcaya\",\"MDC\":\"Occidental Mindoro\",\"MDR\":\"Oriental Mindoro\",\"PLW\":\"Palawan\",\"PAM\":\"Pampanga\",\"PAN\":\"Pangasinan\",\"QUE\":\"Quezon\",\"QUI\":\"Quirino\",\"RIZ\":\"Rizal\",\"ROM\":\"Romblon\",\"WSA\":\"Samar\",\"SAR\":\"Sarangani\",\"SIQ\":\"Siquijor\",\"SOR\":\"Sorsogon\",\"SCO\":\"South Cotabato\",\"SLE\":\"Southern Leyte\",\"SUK\":\"Sultan Kudarat\",\"SLU\":\"Sulu\",\"SUN\":\"Surigao del Norte\",\"SUR\":\"Surigao del Sur\",\"TAR\":\"Tarlac\",\"TAW\":\"Tawi-Tawi\",\"ZMB\":\"Zambales\",\"ZAN\":\"Zamboanga del Norte\",\"ZAS\":\"Zamboanga del Sur\",\"ZSI\":\"Zamboanga Sibugay\",\"00\":\"Metro Manila\"},\"RO\":{\"AB\":\"Alba\",\"AR\":\"Arad\",\"AG\":\"Arge\u0219\",\"BC\":\"Bac\u0103u\",\"BH\":\"Bihor\",\"BN\":\"Bistri\u021ba-N\u0103s\u0103ud\",\"BT\":\"Boto\u0219ani\",\"BR\":\"Br\u0103ila\",\"BV\":\"Bra\u0219ov\",\"B\":\"Bucure\u0219ti\",\"BZ\":\"Buz\u0103u\",\"CL\":\"C\u0103l\u0103ra\u0219i\",\"CS\":\"Cara\u0219-Severin\",\"CJ\":\"Cluj\",\"CT\":\"Constan\u021ba\",\"CV\":\"Covasna\",\"DB\":\"D\u00e2mbovi\u021ba\",\"DJ\":\"Dolj\",\"GL\":\"Gala\u021bi\",\"GR\":\"Giurgiu\",\"GJ\":\"Gorj\",\"HR\":\"Harghita\",\"HD\":\"Hunedoara\",\"IL\":\"Ialomi\u021ba\",\"IS\":\"Ia\u0219i\",\"IF\":\"Ilfov\",\"MM\":\"Maramure\u0219\",\"MH\":\"Mehedin\u021bi\",\"MS\":\"Mure\u0219\",\"NT\":\"Neam\u021b\",\"OT\":\"Olt\",\"PH\":\"Prahova\",\"SJ\":\"S\u0103laj\",\"SM\":\"Satu Mare\",\"SB\":\"Sibiu\",\"SV\":\"Suceava\",\"TR\":\"Teleorman\",\"TM\":\"Timi\u0219\",\"TL\":\"Tulcea\",\"VL\":\"V\u00e2lcea\",\"VS\":\"Vaslui\",\"VN\":\"Vrancea\"},\"ZA\":{\"EC\":\"Eastern Cape\",\"FS\":\"Free State\",\"GP\":\"Gauteng\",\"KZN\":\"KwaZulu-Natal\",\"LP\":\"Limpopo\",\"MP\":\"Mpumalanga\",\"NC\":\"Northern Cape\",\"NW\":\"North West\",\"WC\":\"Western Cape\"},\"ES\":{\"C\":\"A Coru\u00f1a\",\"VI\":\"Araba\\\/\u00c1lava\",\"AB\":\"Albacete\",\"A\":\"Alicante\",\"AL\":\"Almer\u00eda\",\"O\":\"Asturias\",\"AV\":\"\u00c1vila\",\"BA\":\"Badajoz\",\"PM\":\"Baleares\",\"B\":\"Barcelona\",\"BU\":\"Burgos\",\"CC\":\"C\u00e1ceres\",\"CA\":\"C\u00e1diz\",\"S\":\"Cantabria\",\"CS\":\"Castell\u00f3n\",\"CE\":\"Ceuta\",\"CR\":\"Ciudad Real\",\"CO\":\"C\u00f3rdoba\",\"CU\":\"Cuenca\",\"GI\":\"Girona\",\"GR\":\"Granada\",\"GU\":\"Guadalajara\",\"SS\":\"Gipuzkoa\",\"H\":\"Huelva\",\"HU\":\"Huesca\",\"J\":\"Ja\u00e9n\",\"LO\":\"La Rioja\",\"GC\":\"Las Palmas\",\"LE\":\"Le\u00f3n\",\"L\":\"Lleida\",\"LU\":\"Lugo\",\"M\":\"Madrid\",\"MA\":\"M\u00e1laga\",\"ML\":\"Melilla\",\"MU\":\"Murcia\",\"NA\":\"Navarra\",\"OR\":\"Ourense\",\"P\":\"Palencia\",\"PO\":\"Pontevedra\",\"SA\":\"Salamanca\",\"TF\":\"Santa Cruz de Tenerife\",\"SG\":\"Segovia\",\"SE\":\"Sevilla\",\"SO\":\"Soria\",\"T\":\"Tarragona\",\"TE\":\"Teruel\",\"TO\":\"Toledo\",\"V\":\"Valencia\",\"VA\":\"Valladolid\",\"BI\":\"Bizkaia\",\"ZA\":\"Zamora\",\"Z\":\"Zaragoza\"},\"CH\":{\"AG\":\"Aargau\",\"AR\":\"Appenzell Ausserrhoden\",\"AI\":\"Appenzell Innerrhoden\",\"BL\":\"Basel-Landschaft\",\"BS\":\"Basel-Stadt\",\"BE\":\"Bern\",\"FR\":\"Fribourg\",\"GE\":\"Geneva\",\"GL\":\"Glarus\",\"GR\":\"Graub\u00fcnden\",\"JU\":\"Jura\",\"LU\":\"Luzern\",\"NE\":\"Neuch\u00e2tel\",\"NW\":\"Nidwalden\",\"OW\":\"Obwalden\",\"SH\":\"Schaffhausen\",\"SZ\":\"Schwyz\",\"SO\":\"Solothurn\",\"SG\":\"St. Gallen\",\"TG\":\"Thurgau\",\"TI\":\"Ticino\",\"UR\":\"Uri\",\"VS\":\"Valais\",\"VD\":\"Vaud\",\"ZG\":\"Zug\",\"ZH\":\"Z\u00fcrich\"},\"TZ\":{\"TZ01\":\"Arusha\",\"TZ02\":\"Dar es Salaam\",\"TZ03\":\"Dodoma\",\"TZ04\":\"Iringa\",\"TZ05\":\"Kagera\",\"TZ06\":\"Pemba North\",\"TZ07\":\"Zanzibar North\",\"TZ08\":\"Kigoma\",\"TZ09\":\"Kilimanjaro\",\"TZ10\":\"Pemba South\",\"TZ11\":\"Zanzibar South\",\"TZ12\":\"Lindi\",\"TZ13\":\"Mara\",\"TZ14\":\"Mbeya\",\"TZ15\":\"Zanzibar West\",\"TZ16\":\"Morogoro\",\"TZ17\":\"Mtwara\",\"TZ18\":\"Mwanza\",\"TZ19\":\"Coast\",\"TZ20\":\"Rukwa\",\"TZ21\":\"Ruvuma\",\"TZ22\":\"Shinyanga\",\"TZ23\":\"Singida\",\"TZ24\":\"Tabora\",\"TZ25\":\"Tanga\",\"TZ26\":\"Manyara\",\"TZ27\":\"Geita\",\"TZ28\":\"Katavi\",\"TZ29\":\"Njombe\",\"TZ30\":\"Simiyu\"},\"TH\":{\"TH-37\":\"Amnat Charoen\",\"TH-15\":\"Ang Thong\",\"TH-14\":\"Ayutthaya\",\"TH-10\":\"Bangkok\",\"TH-38\":\"Bueng Kan\",\"TH-31\":\"Buri Ram\",\"TH-24\":\"Chachoengsao\",\"TH-18\":\"Chai Nat\",\"TH-36\":\"Chaiyaphum\",\"TH-22\":\"Chanthaburi\",\"TH-50\":\"Chiang Mai\",\"TH-57\":\"Chiang Rai\",\"TH-20\":\"Chonburi\",\"TH-86\":\"Chumphon\",\"TH-46\":\"Kalasin\",\"TH-62\":\"Kamphaeng Phet\",\"TH-71\":\"Kanchanaburi\",\"TH-40\":\"Khon Kaen\",\"TH-81\":\"Krabi\",\"TH-52\":\"Lampang\",\"TH-51\":\"Lamphun\",\"TH-42\":\"Loei\",\"TH-16\":\"Lopburi\",\"TH-58\":\"Mae Hong Son\",\"TH-44\":\"Maha Sarakham\",\"TH-49\":\"Mukdahan\",\"TH-26\":\"Nakhon Nayok\",\"TH-73\":\"Nakhon Pathom\",\"TH-48\":\"Nakhon Phanom\",\"TH-30\":\"Nakhon Ratchasima\",\"TH-60\":\"Nakhon Sawan\",\"TH-80\":\"Nakhon Si Thammarat\",\"TH-55\":\"Nan\",\"TH-96\":\"Narathiwat\",\"TH-39\":\"Nong Bua Lam Phu\",\"TH-43\":\"Nong Khai\",\"TH-12\":\"Nonthaburi\",\"TH-13\":\"Pathum Thani\",\"TH-94\":\"Pattani\",\"TH-82\":\"Phang Nga\",\"TH-93\":\"Phatthalung\",\"TH-56\":\"Phayao\",\"TH-67\":\"Phetchabun\",\"TH-76\":\"Phetchaburi\",\"TH-66\":\"Phichit\",\"TH-65\":\"Phitsanulok\",\"TH-54\":\"Phrae\",\"TH-83\":\"Phuket\",\"TH-25\":\"Prachin Buri\",\"TH-77\":\"Prachuap Khiri Khan\",\"TH-85\":\"Ranong\",\"TH-70\":\"Ratchaburi\",\"TH-21\":\"Rayong\",\"TH-45\":\"Roi Et\",\"TH-27\":\"Sa Kaeo\",\"TH-47\":\"Sakon Nakhon\",\"TH-11\":\"Samut Prakan\",\"TH-74\":\"Samut Sakhon\",\"TH-75\":\"Samut Songkhram\",\"TH-19\":\"Saraburi\",\"TH-91\":\"Satun\",\"TH-17\":\"Sing Buri\",\"TH-33\":\"Sisaket\",\"TH-90\":\"Songkhla\",\"TH-64\":\"Sukhothai\",\"TH-72\":\"Suphan Buri\",\"TH-84\":\"Surat Thani\",\"TH-32\":\"Surin\",\"TH-63\":\"Tak\",\"TH-92\":\"Trang\",\"TH-23\":\"Trat\",\"TH-34\":\"Ubon Ratchathani\",\"TH-41\":\"Udon Thani\",\"TH-61\":\"Uthai Thani\",\"TH-53\":\"Uttaradit\",\"TH-95\":\"Yala\",\"TH-35\":\"Yasothon\"},\"TR\":{\"TR01\":\"Adana\",\"TR02\":\"Ad\u0131yaman\",\"TR03\":\"Afyon\",\"TR04\":\"A\u011fr\u0131\",\"TR05\":\"Amasya\",\"TR06\":\"Ankara\",\"TR07\":\"Antalya\",\"TR08\":\"Artvin\",\"TR09\":\"Ayd\u0131n\",\"TR10\":\"Bal\u0131kesir\",\"TR11\":\"Bilecik\",\"TR12\":\"Bing\u00f6l\",\"TR13\":\"Bitlis\",\"TR14\":\"Bolu\",\"TR15\":\"Burdur\",\"TR16\":\"Bursa\",\"TR17\":\"\u00c7anakkale\",\"TR18\":\"\u00c7ank\u0131r\u0131\",\"TR19\":\"\u00c7orum\",\"TR20\":\"Denizli\",\"TR21\":\"Diyarbak\u0131r\",\"TR22\":\"Edirne\",\"TR23\":\"Elaz\u0131\u011f\",\"TR24\":\"Erzincan\",\"TR25\":\"Erzurum\",\"TR26\":\"Eski\u015fehir\",\"TR27\":\"Gaziantep\",\"TR28\":\"Giresun\",\"TR29\":\"G\u00fcm\u00fc\u015fhane\",\"TR30\":\"Hakkari\",\"TR31\":\"Hatay\",\"TR32\":\"Isparta\",\"TR33\":\"\u0130\u00e7el\",\"TR34\":\"\u0130stanbul\",\"TR35\":\"\u0130zmir\",\"TR36\":\"Kars\",\"TR37\":\"Kastamonu\",\"TR38\":\"Kayseri\",\"TR39\":\"K\u0131rklareli\",\"TR40\":\"K\u0131r\u015fehir\",\"TR41\":\"Kocaeli\",\"TR42\":\"Konya\",\"TR43\":\"K\u00fctahya\",\"TR44\":\"Malatya\",\"TR45\":\"Manisa\",\"TR46\":\"Kahramanmara\u015f\",\"TR47\":\"Mardin\",\"TR48\":\"Mu\u011fla\",\"TR49\":\"Mu\u015f\",\"TR50\":\"Nev\u015fehir\",\"TR51\":\"Ni\u011fde\",\"TR52\":\"Ordu\",\"TR53\":\"Rize\",\"TR54\":\"Sakarya\",\"TR55\":\"Samsun\",\"TR56\":\"Siirt\",\"TR57\":\"Sinop\",\"TR58\":\"Sivas\",\"TR59\":\"Tekirda\u011f\",\"TR60\":\"Tokat\",\"TR61\":\"Trabzon\",\"TR62\":\"Tunceli\",\"TR63\":\"\u015eanl\u0131urfa\",\"TR64\":\"U\u015fak\",\"TR65\":\"Van\",\"TR66\":\"Yozgat\",\"TR67\":\"Zonguldak\",\"TR68\":\"Aksaray\",\"TR69\":\"Bayburt\",\"TR70\":\"Karaman\",\"TR71\":\"K\u0131r\u0131kkale\",\"TR72\":\"Batman\",\"TR73\":\"\u015e\u0131rnak\",\"TR74\":\"Bart\u0131n\",\"TR75\":\"Ardahan\",\"TR76\":\"I\u011fd\u0131r\",\"TR77\":\"Yalova\",\"TR78\":\"Karab\u00fck\",\"TR79\":\"Kilis\",\"TR80\":\"Osmaniye\",\"TR81\":\"D\u00fczce\"},\"US\":{\"AL\":\"Alabama\",\"AK\":\"Alaska\",\"AZ\":\"Arizona\",\"AR\":\"Arkansas\",\"CA\":\"California\",\"CO\":\"Colorado\",\"CT\":\"Connecticut\",\"DE\":\"Delaware\",\"DC\":\"District Of Columbia\",\"FL\":\"Florida\",\"GA\":\"Georgia\",\"HI\":\"Hawaii\",\"ID\":\"Idaho\",\"IL\":\"Illinois\",\"IN\":\"Indiana\",\"IA\":\"Iowa\",\"KS\":\"Kansas\",\"KY\":\"Kentucky\",\"LA\":\"Louisiana\",\"ME\":\"Maine\",\"MD\":\"Maryland\",\"MA\":\"Massachusetts\",\"MI\":\"Michigan\",\"MN\":\"Minnesota\",\"MS\":\"Mississippi\",\"MO\":\"Missouri\",\"MT\":\"Montana\",\"NE\":\"Nebraska\",\"NV\":\"Nevada\",\"NH\":\"New Hampshire\",\"NJ\":\"New Jersey\",\"NM\":\"New Mexico\",\"NY\":\"New York\",\"NC\":\"North Carolina\",\"ND\":\"North Dakota\",\"OH\":\"Ohio\",\"OK\":\"Oklahoma\",\"OR\":\"Oregon\",\"PA\":\"Pennsylvania\",\"RI\":\"Rhode Island\",\"SC\":\"South Carolina\",\"SD\":\"South Dakota\",\"TN\":\"Tennessee\",\"TX\":\"Texas\",\"UT\":\"Utah\",\"VT\":\"Vermont\",\"VA\":\"Virginia\",\"WA\":\"Washington\",\"WV\":\"West Virginia\",\"WI\":\"Wisconsin\",\"WY\":\"Wyoming\",\"AA\":\"Armed Forces (AA)\",\"AE\":\"Armed Forces (AE)\",\"AP\":\"Armed Forces (AP)\"}}","i18n_select_state_text":"Select an option\u2026","i18n_no_matches":"No matches found","i18n_ajax_error":"Loading failed","i18n_input_too_short_1":"Please enter 1 or more characters","i18n_input_too_short_n":"Please enter %qty% or more characters","i18n_input_too_long_1":"Please delete 1 character","i18n_input_too_long_n":"Please delete %qty% characters","i18n_selection_too_long_1":"You can only select 1 item","i18n_selection_too_long_n":"You can only select %qty% items","i18n_load_more":"Loading more results\u2026","i18n_searching":"Searching\u2026"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./triallogo_files/country-select.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_address_i18n_params = {"locale":"{\"AE\":{\"postcode\":{\"required\":false,\"hidden\":true},\"state\":{\"required\":false}},\"AF\":{\"state\":{\"required\":false}},\"AO\":{\"postcode\":{\"required\":false,\"hidden\":true},\"state\":{\"label\":\"Province\"}},\"AT\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"AU\":{\"city\":{\"label\":\"Suburb\"},\"postcode\":{\"label\":\"Postcode\"},\"state\":{\"label\":\"State\"}},\"AX\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"BD\":{\"postcode\":{\"required\":false},\"state\":{\"label\":\"District\"}},\"BE\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"label\":\"Province\"}},\"BH\":{\"postcode\":{\"required\":false},\"state\":{\"required\":false}},\"BI\":{\"state\":{\"required\":false}},\"BO\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"BS\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"CA\":{\"state\":{\"label\":\"Province\"}},\"CH\":{\"postcode\":{\"priority\":65},\"state\":{\"label\":\"Canton\",\"required\":false}},\"CL\":{\"city\":{\"required\":true},\"postcode\":{\"required\":false},\"state\":{\"label\":\"Region\"}},\"CN\":{\"state\":{\"label\":\"Province\"}},\"CO\":{\"postcode\":{\"required\":false}},\"CZ\":{\"state\":{\"required\":false}},\"DE\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"DK\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"EE\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"FI\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"FR\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"GP\":{\"state\":{\"required\":false}},\"GF\":{\"state\":{\"required\":false}},\"HK\":{\"postcode\":{\"required\":false},\"city\":{\"label\":\"Town \\\/ District\"},\"state\":{\"label\":\"Region\"}},\"HU\":{\"state\":{\"label\":\"County\"}},\"ID\":{\"state\":{\"label\":\"Province\"}},\"IE\":{\"postcode\":{\"required\":false,\"label\":\"Eircode\"},\"state\":{\"label\":\"County\"}},\"IS\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"IL\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"IM\":{\"state\":{\"required\":false}},\"IT\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":true,\"label\":\"Province\"}},\"JP\":{\"state\":{\"label\":\"Prefecture\",\"priority\":66},\"postcode\":{\"priority\":65}},\"KR\":{\"state\":{\"required\":false}},\"KW\":{\"state\":{\"required\":false}},\"LB\":{\"state\":{\"required\":false}},\"MQ\":{\"state\":{\"required\":false}},\"MT\":{\"state\":{\"required\":false}},\"NL\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false,\"label\":\"Province\"}},\"NG\":{\"postcode\":{\"label\":\"Postcode\",\"required\":false,\"hidden\":true},\"state\":{\"label\":\"State\"}},\"NZ\":{\"postcode\":{\"label\":\"Postcode\"},\"state\":{\"required\":false,\"label\":\"Region\"}},\"NO\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"NP\":{\"state\":{\"label\":\"State \\\/ Zone\"},\"postcode\":{\"required\":false}},\"PL\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"PT\":{\"state\":{\"required\":false}},\"RE\":{\"state\":{\"required\":false}},\"RO\":{\"state\":{\"label\":\"County\",\"required\":true}},\"SG\":{\"state\":{\"required\":false},\"city\":{\"required\":false,\"hidden\":true}},\"SK\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"SI\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"SR\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"ES\":{\"postcode\":{\"priority\":65},\"state\":{\"label\":\"Province\"}},\"LI\":{\"postcode\":{\"priority\":65},\"state\":{\"label\":\"Municipality\",\"required\":false}},\"LK\":{\"state\":{\"required\":false}},\"LU\":{\"state\":{\"required\":false}},\"MD\":{\"state\":{\"label\":\"Municipality \\\/ District\"}},\"SE\":{\"postcode\":{\"priority\":65},\"state\":{\"required\":false}},\"TR\":{\"postcode\":{\"priority\":65},\"state\":{\"label\":\"Province\"}},\"US\":{\"postcode\":{\"label\":\"ZIP\"},\"state\":{\"label\":\"State\"}},\"GB\":{\"postcode\":{\"label\":\"Postcode\"},\"state\":{\"label\":\"County\",\"required\":false}},\"ST\":{\"postcode\":{\"required\":false,\"hidden\":true},\"state\":{\"label\":\"District\"}},\"VN\":{\"state\":{\"required\":false},\"postcode\":{\"priority\":65,\"required\":false,\"hidden\":false},\"address_2\":{\"required\":false,\"hidden\":true}},\"WS\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"YT\":{\"state\":{\"required\":false}},\"ZA\":{\"state\":{\"label\":\"Province\"}},\"ZW\":{\"postcode\":{\"required\":false,\"hidden\":true}},\"default\":{\"first_name\":{\"label\":\"First name\",\"required\":0,\"class\":[\"form-row-first\"],\"autocomplete\":\"given-name\",\"priority\":10},\"last_name\":{\"label\":\"Last name\",\"required\":1,\"class\":[\"form-row-last\"],\"autocomplete\":\"family-name\",\"priority\":20},\"company\":{\"label\":\"Company name\",\"class\":[\"form-row-wide\"],\"autocomplete\":\"organization\",\"priority\":30,\"required\":0},\"country\":{\"type\":\"country\",\"label\":\"Country\",\"required\":false,\"class\":[\"form-row-wide\",\"address-field\",\"update_totals_on_change\"],\"autocomplete\":\"country\",\"priority\":40},\"address_1\":{\"label\":\"Street address\",\"placeholder\":\"House number and street name\",\"required\":false,\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-line1\",\"priority\":50},\"address_2\":{\"label\":\"Apartment, suite, unit etc.\",\"label_class\":[\"screen-reader-text\"],\"placeholder\":\"Apartment, suite, unit etc. (optional)\",\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-line2\",\"priority\":60,\"required\":0},\"city\":{\"label\":\"Town \\\/ City\",\"required\":false,\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-level2\",\"priority\":70},\"state\":{\"type\":\"state\",\"label\":\"State \\\/ County\",\"required\":false,\"class\":[\"form-row-wide\",\"address-field\"],\"validate\":[\"state\"],\"autocomplete\":\"address-level1\",\"priority\":80},\"postcode\":{\"label\":\"Postcode \\\/ ZIP\",\"required\":false,\"class\":[\"form-row-wide\",\"address-field\"],\"validate\":[\"postcode\"],\"autocomplete\":\"postal-code\",\"priority\":90}}}","locale_fields":"{\"address_1\":\"#billing_address_1_field, #shipping_address_1_field\",\"address_2\":\"#billing_address_2_field, #shipping_address_2_field\",\"state\":\"#billing_state_field, #shipping_state_field, #calc_shipping_state_field\",\"postcode\":\"#billing_postcode_field, #shipping_postcode_field, #calc_shipping_postcode_field\",\"city\":\"#billing_city_field, #shipping_city_field, #calc_shipping_city_field\"}","i18n_required_text":"required","i18n_optional_text":"optional"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./triallogo_files/address-i18n.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_checkout_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","update_order_review_nonce":"065d9f82a5","apply_coupon_nonce":"41b8d788d3","remove_coupon_nonce":"0bae95c405","option_guest_checkout":"no","checkout_url":"\/?wc-ajax=checkout","is_checkout":"1","debug_mode":"","i18n_checkout_error":"Error processing checkout. Please try again."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./triallogo_files/checkout.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_ef9ece60399cb8b8490204132b867f2c","fragment_name":"wc_fragments_ef9ece60399cb8b8490204132b867f2c"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./triallogo_files/cart-fragments.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/imagesloaded.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/woo-scripts.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var oceanwpLocalize = {"isRTL":"","menuSearchStyle":"disabled","sidrSource":"#sidr-close, #site-navigation, #mobile-menu-search","sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"icon","verticalHeaderTarget":"icon","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":null,"ajax_url":"https:\/\/my.logomakr.com\/wp-admin\/admin-ajax.php","floating_bar":"off"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./triallogo_files/main.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/lightbox2.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/woo-quick-view.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/underscore.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./triallogo_files/wp-util.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./triallogo_files/add-to-cart-variation.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/jquery.flexslider.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/jquery.payment.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/saved_resource(1)"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_stripe_params = {"key":"pk_live_OhkJZavKdLwiBi7Qtu10nCVf","i18n_terms":"Please accept the terms and conditions first","i18n_required_fields":"Please fill in required checkout fields first","no_prepaid_card_msg":"Sorry, we're not accepting prepaid cards at this time. Your credit card has not been charged. Please try with alternative payment method.","no_sepa_owner_msg":"Please enter your IBAN account name.","no_sepa_iban_msg":"Please enter your IBAN account number.","sepa_mandate_notification":"email","allow_prepaid_card":"yes","inline_cc_form":"no","stripe_checkout_require_billing_address":"no","is_checkout":"yes","return_url":"https:\/\/my.logomakr.com\/checkout\/order-received\/?utm_nooverride=1","ajaxurl":"\/?wc-ajax=%%endpoint%%","stripe_nonce":"21270cddeb","statement_descriptor":"","elements_options":[],"sepa_elements_options":{"supportedCountries":["SEPA"],"placeholderCountry":"US","style":{"base":{"fontSize":"15px"}}},"invalid_owner_name":"Billing First Name and Last Name are required.","is_stripe_checkout":"no","is_change_payment_page":"no","is_add_payment_page":"no","is_pay_for_order_page":"no","elements_styling":"","elements_classes":"","invalid_number":"The card number is not a valid credit card number.","invalid_expiry_month":"The card's expiration month is invalid.","invalid_expiry_year":"The card's expiration year is invalid.","invalid_cvc":"The card's security code is invalid.","incorrect_number":"The card number is incorrect.","incomplete_number":"The card number is incomplete.","incomplete_cvc":"The card's security code is incomplete.","incomplete_expiry":"The card's expiration date is incomplete.","expired_card":"The card has expired.","incorrect_cvc":"The card's security code is incorrect.","incorrect_zip":"The card's zip code failed validation.","invalid_expiry_year_past":"The card's expiration year is in the past","card_declined":"The card was declined.","missing":"There is no card on a customer that is being charged.","processing_error":"An error occurred while processing the card.","invalid_request_error":"Unable to process this payment, please try again or use alternative method.","invalid_sofort_country":"The billing country is not accepted by SOFORT. Please try another country."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./triallogo_files/stripe.min.js"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://my.logomakr.com/wp-content/themes/oceanwp/assets/js//third/html5.min.js?ver=100.1000.100'></script>
+<![endif]-->
+<script type="text/javascript" src="./triallogo_files/jquery.smartmenus.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/frontend-modules.js"></script>
+<script type="text/javascript" src="./triallogo_files/jquery.sticky.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/my.logomakr.com\/wp-admin\/admin-ajax.php","nonce":"807ea302f4","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./triallogo_files/frontend.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/position.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/dialog.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/waypoints.min.js"></script>
+<script type="text/javascript" src="./triallogo_files/swiper.jquery.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.4.5","urls":{"assets":"https:\/\/my.logomakr.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":8,"title":"Checkout","excerpt":""}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./triallogo_files/frontend.min(2).js"></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+
+	jQuery( function( $ ) {
+		var ppec_mark_fields      = '#woocommerce_ppec_paypal_title, #woocommerce_ppec_paypal_description';
+		var ppec_live_fields      = '#woocommerce_ppec_paypal_api_username, #woocommerce_ppec_paypal_api_password, #woocommerce_ppec_paypal_api_signature, #woocommerce_ppec_paypal_api_certificate, #woocommerce_ppec_paypal_api_subject';
+		var ppec_sandbox_fields   = '#woocommerce_ppec_paypal_sandbox_api_username, #woocommerce_ppec_paypal_sandbox_api_password, #woocommerce_ppec_paypal_sandbox_api_signature, #woocommerce_ppec_paypal_sandbox_api_certificate, #woocommerce_ppec_paypal_sandbox_api_subject';
+
+		var enable_toggle         = $( 'a.ppec-toggle-settings' ).length > 0;
+		var enable_sandbox_toggle = $( 'a.ppec-toggle-sandbox-settings' ).length > 0;
+
+		$( '#woocommerce_ppec_paypal_environment' ).change(function(){
+			$( ppec_sandbox_fields + ',' + ppec_live_fields ).closest( 'tr' ).hide();
+
+			if ( 'live' === $( this ).val() ) {
+				$( '#woocommerce_ppec_paypal_api_credentials, #woocommerce_ppec_paypal_api_credentials + p' ).show();
+				$( '#woocommerce_ppec_paypal_sandbox_api_credentials, #woocommerce_ppec_paypal_sandbox_api_credentials + p' ).hide();
+
+				if ( ! enable_toggle ) {
+					$( ppec_live_fields ).closest( 'tr' ).show();
+				}
+			} else {
+				$( '#woocommerce_ppec_paypal_api_credentials, #woocommerce_ppec_paypal_api_credentials + p' ).hide();
+				$( '#woocommerce_ppec_paypal_sandbox_api_credentials, #woocommerce_ppec_paypal_sandbox_api_credentials + p' ).show();
+
+				if ( ! enable_sandbox_toggle ) {
+					$( ppec_sandbox_fields ).closest( 'tr' ).show();
+				}
+			}
+		}).change();
+
+		$( '#woocommerce_ppec_paypal_enabled' ).change(function(){
+			if ( $( this ).is( ':checked' ) ) {
+				$( ppec_mark_fields ).closest( 'tr' ).show();
+			} else {
+				$( ppec_mark_fields ).closest( 'tr' ).hide();
+			}
+		}).change();
+
+		$( '#woocommerce_ppec_paypal_paymentaction' ).change(function(){
+			if ( 'sale' === $( this ).val() ) {
+				$( '#woocommerce_ppec_paypal_instant_payments' ).closest( 'tr' ).show();
+			} else {
+				$( '#woocommerce_ppec_paypal_instant_payments' ).closest( 'tr' ).hide();
+			}
+		}).change();
+
+		if ( enable_toggle ) {
+			$( document ).off( 'click', '.ppec-toggle-settings' );
+			$( document ).on( 'click', '.ppec-toggle-settings', function( e ) {
+				$( ppec_live_fields ).closest( 'tr' ).toggle( 'fast' );
+				e.preventDefault();
+			} );
+		}
+		if ( enable_sandbox_toggle ) {
+			$( document ).off( 'click', '.ppec-toggle-sandbox-settings' );
+			$( document ).on( 'click', '.ppec-toggle-sandbox-settings', function( e ) {
+				$( ppec_sandbox_fields ).closest( 'tr' ).toggle( 'fast' );
+				e.preventDefault();
+			} );
+		}
+
+		$( '.woocommerce_ppec_paypal_button_layout' ).change( function( event ) {
+			if ( ! $( '#woocommerce_ppec_paypal_use_spb' ).is( ':checked' ) ) {
+				return;
+			}
+
+			// Show settings that pertain to selected layout in same section
+			var isVertical = 'vertical' === $( event.target ).val();
+			var table      = $( event.target ).closest( 'table' );
+			table.find( '.woocommerce_ppec_paypal_vertical' ).closest( 'tr' ).toggle( isVertical );
+			table.find( '.woocommerce_ppec_paypal_horizontal' ).closest( 'tr' ).toggle( ! isVertical );
+
+			// Disable 'small' button size option in vertical layout only
+			var button_size        = table.find( '.woocommerce_ppec_paypal_button_size' );
+			var button_size_option = button_size.find( 'option[value="small"]' );
+			if ( button_size_option.prop( 'disabled' ) !== isVertical ) {
+				button_size.removeClass( 'enhanced' )
+				button_size_option.prop( 'disabled', isVertical );
+				$( document.body ).trigger( 'wc-enhanced-select-init' );
+				! button_size.val() && button_size.val( 'responsive' ).change();
+			}
+		} ).change();
+
+		// Hide default layout and size settings if they'll be overridden anyway.
+		function showHideDefaultButtonSettings() {
+			var display =
+				$( '#woocommerce_ppec_paypal_cart_checkout_enabled' ).is( ':checked' ) ||
+				( $( '#woocommerce_ppec_paypal_checkout_on_single_product_enabled' ).is( ':checked' ) && ! $( '#woocommerce_ppec_paypal_single_product_settings_toggle' ).is( ':checked' ) ) ||
+				( $( '#woocommerce_ppec_paypal_mark_enabled' ).is( ':checked' ) && ! $( '#woocommerce_ppec_paypal_mark_settings_toggle' ).is( ':checked' ) );
+
+			$( '#woocommerce_ppec_paypal_button_layout, #woocommerce_ppec_paypal_button_size, #woocommerce_ppec_paypal_hide_funding_methods, #woocommerce_ppec_paypal_credit_enabled' ).closest( 'tr' ).toggle( display );
+			display && $( '#woocommerce_ppec_paypal_button_layout' ).change();
+		}
+
+		// Toggle mini-cart section based on whether checkout on cart page is enabled
+		$( '#woocommerce_ppec_paypal_cart_checkout_enabled' ).change( function( event ) {
+			if ( ! $( '#woocommerce_ppec_paypal_use_spb' ).is( ':checked' ) ) {
+				return;
+			}
+
+			var checked = $( event.target ).is( ':checked' );
+			$( '#woocommerce_ppec_paypal_mini_cart_settings_toggle, .woocommerce_ppec_paypal_mini_cart' )
+				.closest( 'tr' )
+				.add( '#woocommerce_ppec_paypal_mini_cart_settings' ) // Select title.
+					.next( 'p' ) // Select description if present.
+				.addBack()
+				.toggle( checked );
+			checked && $( '#woocommerce_ppec_paypal_mini_cart_settings_toggle' ).change();
+			showHideDefaultButtonSettings();
+		} ).change();
+
+		$( '#woocommerce_ppec_paypal_mini_cart_settings_toggle' ).change( function( event ) {
+			// Only show settings specific to mini-cart if configured to override global settings.
+			var checked = $( event.target ).is( ':checked' );
+			$( '.woocommerce_ppec_paypal_mini_cart' ).closest( 'tr' ).toggle( checked );
+			checked && $( '#woocommerce_ppec_paypal_mini_cart_button_layout' ).change();
+			showHideDefaultButtonSettings();
+		} ).change();
+
+		$( '#woocommerce_ppec_paypal_checkout_on_single_product_enabled, #woocommerce_ppec_paypal_single_product_settings_toggle' ).change( function( event ) {
+			if ( ! $( '#woocommerce_ppec_paypal_use_spb' ).is( ':checked' ) ) {
+				return;
+			}
+
+			if ( ! $( '#woocommerce_ppec_paypal_checkout_on_single_product_enabled' ).is( ':checked' ) ) {
+				// If product page button is disabled, hide remaining settings in section.
+				$( '#woocommerce_ppec_paypal_single_product_settings_toggle, .woocommerce_ppec_paypal_single_product' ).closest( 'tr' ).hide();
+			} else if ( ! $( '#woocommerce_ppec_paypal_single_product_settings_toggle' ).is( ':checked' ) ) {
+				// If product page button is enabled but not configured to override global settings, hide remaining settings in section.
+				$( '#woocommerce_ppec_paypal_single_product_settings_toggle' ).closest( 'tr' ).show();
+				$( '.woocommerce_ppec_paypal_single_product' ).closest( 'tr' ).hide();
+			} else {
+				// Show all settings in section.
+				$( '#woocommerce_ppec_paypal_single_product_settings_toggle, .woocommerce_ppec_paypal_single_product' ).closest( 'tr' ).show();
+				$( '#woocommerce_ppec_paypal_single_product_button_layout' ).change();
+			}
+			showHideDefaultButtonSettings();
+		} ).change();
+
+		$( '#woocommerce_ppec_paypal_mark_enabled, #woocommerce_ppec_paypal_mark_settings_toggle' ).change( function() {
+			if ( ! $( '#woocommerce_ppec_paypal_use_spb' ).is( ':checked' ) ) {
+				return;
+			}
+
+			if ( ! $( '#woocommerce_ppec_paypal_mark_enabled' ).is( ':checked' ) ) {
+				// If checkout page button is disabled, hide remaining settings in section.
+				$( '#woocommerce_ppec_paypal_mark_settings_toggle, .woocommerce_ppec_paypal_mark' ).closest( 'tr' ).hide();
+			} else if ( ! $( '#woocommerce_ppec_paypal_mark_settings_toggle' ).is( ':checked' ) ) {
+				// If checkout page button is enabled but not configured to override global settings, hide remaining settings in section.
+				$( '#woocommerce_ppec_paypal_mark_settings_toggle' ).closest( 'tr' ).show();
+				$( '.woocommerce_ppec_paypal_mark' ).closest( 'tr' ).hide();
+			} else {
+				// Show all settings in section.
+				$( '#woocommerce_ppec_paypal_mark_settings_toggle, .woocommerce_ppec_paypal_mark' ).closest( 'tr' ).show();
+				$( '#woocommerce_ppec_paypal_mark_button_layout' ).change();
+			}
+			showHideDefaultButtonSettings();
+		} ).change();
+
+		// Make sure handlers are only attached once if script is loaded multiple times.
+		$( '#woocommerce_ppec_paypal_use_spb' ).off( 'change' );
+
+		$( '#woocommerce_ppec_paypal_use_spb' ).change( function( event ) {
+			var checked = $( event.target ).is( ':checked' );
+
+			// Show settings specific to Smart Payment Buttons only if enabled.
+			$( '.woocommerce_ppec_paypal_spb' ).not( 'h3 ').closest( 'tr' ).toggle( checked );
+			$( '.woocommerce_ppec_paypal_spb' ).filter( 'h3' ).next( 'p' ).addBack().toggle( checked );
+
+			if ( checked ) {
+				// Trigger all logic that controls visibility of other settings.
+				$( '.woocommerce_ppec_paypal_visibility_toggle' ).change();
+			} else {
+				// If non-SPB mode is enabled, show all settings that may have been hidden.
+				$( '#woocommerce_ppec_paypal_button_size, #woocommerce_ppec_paypal_credit_enabled' ).closest( 'tr' ).show();
+			}
+
+			// Hide 'Responsive' button size option in SPB mode, and make sure to show 'Small' option.
+			var button_size = $( '#woocommerce_ppec_paypal_button_size' ).removeClass( 'enhanced' );
+			button_size.find( 'option[value="responsive"]' ).prop( 'disabled', ! checked );
+			! checked && button_size.find( 'option[value="small"]' ).prop( 'disabled', false );
+			$( document.body ).trigger( 'wc-enhanced-select-init' );
+		} ).change();
+
+		// Reset button size values to default when switching modes.
+		$( '#woocommerce_ppec_paypal_use_spb' ).change( function( event ) {
+			if ( $( event.target ).is( ':checked' ) ) {
+				// In SPB mode, set to recommended 'Responsive' value so it is not missed.
+				$( '#woocommerce_ppec_paypal_button_size' ).val( 'responsive' ).change();
+			} else if ( ! $( '#woocommerce_ppec_paypal_button_size' ).val() ) {
+				// Set back to original default for non-SPB mode.
+				$( '#woocommerce_ppec_paypal_button_size' ).val( 'large' ).change();
+			}
+		} );
+
+	});
+
+
+
+			$( '.add_to_cart_button:not(.product_type_variable, .product_type_grouped)' ).click( function() {
+				_gaq.push(['_trackEvent', 'Products', 'Add to Cart', ($(this).data('product_sku')) ? ($(this).data('product_sku')) : ('#' + $(this).data('product_id'))]);
+			});
+		
+ });
+</script>
+    <style>
+        
+        #order_review .shop_table.woocommerce-checkout-review-order-table{
+            margin: 12px 0px 0px 29px !important;
+            width:77% !important;
+        }
+        
+        #order_review .shop_table.woocommerce-checkout-review-order-table .product-name img{
+          display: none;
+        }
+
+        #payment .place-order {
+            display: none;
+        }
+        .woo_login_checkout .woocommerce-info{
+            text-transform: none;
+            font-size: 16px;
+            color: black;
+        }
+        .woo_login_checkout .woocommerce-info i{
+            color: grey;
+        }
+        .woo_login_checkout .woocommerce-info a{
+            font-size: 16px;
+            border-bottom: none;
+            font-style: italic;
+        }
+    </style>
+    <script>
+    // jQuery(document).ready(function(){
+    //     jQuery('[data-toggle="tooltip"]').tooltip();
+    // });
+    jQuery(document).ready(function() {
+    	jQuery('input[name=billing_email]').attr('autocomplete','off');
+        jQuery('input[name=billing_email]').on('change keyup keydown',function() {
+
+            var input_value = jQuery(this).val();
+            var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+            if(!emailReg.test( input_value )){
+                jQuery('.logomakr_validate_email_input').html('Not a valid Email Address');
+            }else{
+                jQuery.post( "https://my.logomakr.com/wp-admin/admin-ajax.php", { action:'logomakr_validate_email_input', billing_email:input_value }, function(data) {
+                    jQuery('.logomakr_validate_email_input').html('');
+                    jQuery('.logomakr_validate_email_input').html(data);
+                    jQuery("#custom-login-form").on('click',function(){
+						jQuery(".showloginForm").click();
+						return false;
+					});
+                });
+            }
+        });
+    
+        jQuery("label[for='stripe-exp-element']").html("Expiration Date");
+    });
+    
+
+    
+    
+    </script>
+    
+
+
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="><div class="lb-nav"><a class="lb-prev" href="https://my.logomakr.com/checkout/?ts=1549415607"></a><a class="lb-next" href="https://my.logomakr.com/checkout/?ts=1549415607"></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div><iframe frameborder="0" allowtransparency="true" scrolling="no" name="__privateStripeController1" allowpaymentrequest="true" src="./triallogo_files/controller-805df5abe146c60ce7a64347e8c2bcf5.html" aria-hidden="true" tabindex="-1" style="border: none !important; margin: 0px !important; padding: 0px !important; width: 1px !important; min-width: 100% !important; overflow: hidden !important; display: block !important; visibility: hidden !important; position: fixed !important; height: 1px !important; pointer-events: none !important;"></iframe><div id="sidr" class="sidr left" style="transition: left 0.3s ease 0s;"><div class="sidr-inner">undefined</div><div class="sidr-inner">undefined</div><div class="sidr-inner">undefined</div></div><iframe frameborder="0" allowtransparency="true" scrolling="no" name="__privateStripeMetricsController0" allowpaymentrequest="true" src="./triallogo_files/outer.html" aria-hidden="true" tabindex="-1" style="border: none !important; margin: 0px !important; padding: 0px !important; width: 1px !important; min-width: 100% !important; overflow: hidden !important; display: block !important; visibility: hidden !important; position: fixed !important; height: 1px !important; pointer-events: none !important;"></iframe><div style="position: absolute; z-index: -10000; top: 0px; left: 0px; right: 0px; height: 2339px;"></div><div style="clear: both;"></div></body></html>

@@ -12,6 +12,98 @@ header {
         margin-top: 20px;
     }
 
+    @media @desktop {
+        .logo-img{
+            position: static;
+            width: 50%;
+            margin: 50px 25% 140px 25%;
+        }
+        
+    }
+
+    /*NAVBAR*/
+    nav {
+        display: flex;
+        flex-flow: column nowrap;
+        text-align: center;
+
+        a {
+            width: 70%;
+            color: white;
+            text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+            text-decoration: none;
+            font-size: 1.6rem;
+            font-weight: bold;
+            padding: 4rem 0;
+            margin: 0 15%;
+            border-bottom: 1px solid white;
+        }
+
+        a:first-child {
+            margin-top: 160px;
+        }
+        
+        a:last-child {
+            border-bottom: none;
+        }
+    }
+    
+    @media @tablet {
+        nav {
+            flex-flow: row wrap;
+            justify-content: space-around;
+            padding: 250px 12% 50px 12%;
+                
+            a, a:first-child {
+                width: 50%;
+                color: white;
+                text-decoration: none;
+                border: none;
+                margin: 0;
+            }
+
+            a:nth-child(1), a:nth-child(2) {
+                border-bottom: 1px solid white;
+            }
+        }
+    }
+
+    @media @desktop {
+        nav {
+        flex-flow: row nowrap;
+        justify-content: space-around;
+        padding: 0;
+            
+            a {
+                color: white;
+                text-decoration: none;
+                border: none;
+            }
+
+            a:first-child {
+                margin-top: 0;
+                border: none;
+            }
+
+            a:nth-child(1), a:nth-child(2) {
+                border-bottom: none;
+            }
+
+            #button {
+                display: block;
+                width: 17%;
+                height: 35px;
+                margin: 3rem 5%;
+                padding: 10px;
+                border-radius: 5px;
+                border: 1px solid white;
+                font-weight: bold;
+            }
+        }
+    
+    }
+
+    /*SEARCH BAR*/
     .search-bar {
         display: flex;
 
@@ -35,20 +127,15 @@ header {
     
             #search-bar {
                 width: 40%;
-                margin: 0 30% 20px 30%;
+                margin: 0 30% 100px 30%;
             }
         }
     }
 
     @media @desktop {
-        .logo-img{
-            position: static;
-            width: 40%;
-            margin: 10px 30% 30px 30%;
-        }
 
         .search-bar {
-            padding: 40px 0 140px 0;
+            padding: 0 0 220px 0;
 
             #search-bar {
                 display: block;
@@ -65,88 +152,5 @@ header {
             }
         }
         
-    }
-
-    nav {
-        display: flex;
-        flex-flow: column nowrap;
-        text-align: center;
-
-        a {
-            width: 70%;
-            color: white;
-            text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
-            text-decoration: none;
-            font-size: 1.9rem;
-            padding: 4rem 0;
-            margin: 0 15%;
-            border-bottom: 1px solid white;
-        }
-
-        a:first-child {
-            margin-top: 160px;
-        }
-        
-        a:last-child {
-            border-bottom: none;
-        }
-    }
-    
-    @media @tablet {
-        nav {
-            flex-flow: row wrap;
-            justify-content: space-around;
-            padding: 250px 12% 20px 12%;
-                
-            a, a:first-child {
-                width: 50%;
-                color: white;
-                text-decoration: none;
-                font-size: 1.6rem;
-                border: none;
-                margin: 0;
-            }
-
-            a:nth-child(1), a:nth-child(2) {
-                border-bottom: 1px solid white;
-            }
-        }
-    }
-
-    @media @desktop {
-        nav {
-        flex-flow: row nowrap;
-        justify-content: space-around;
-        padding: 0;
-            
-            a {
-                color: white;
-                text-decoration: none;
-                font-size: 1.3rem;
-                font-weight: bold;
-                border: none;
-            }
-
-            a:first-child {
-                margin-top: 0;
-                border: none;
-            }
-
-            a:nth-child(1), a:nth-child(2) {
-                border-bottom: none;
-            }
-
-            #button {
-                display: block;
-                width: 15%;
-                height: 35px;
-                margin: 3rem 5%;
-                padding: 10px;
-                border-radius: 5px;
-                border: 1px solid white;
-                font-weight: bold;
-            }
-        }
-    
     }
 }

@@ -1,0 +1,135 @@
+
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900'); /*font-family: 'Raleway', sans-serif;*/
+
+body{ }
+
+.custom-form-checkout{ font-family: 'Raleway', sans-serif; }
+.woocommerce-checkout h1.fl-post-title { margin-bottom:50px;}
+
+.woocommerce-billing-fields{  }
+#woocommerce-validated{ display:none; }
+.woocommerce-additional-fields__field-wrapper{ display:none!important;}
+
+#customer_details{ width:49%; float:left; }
+#customer_details .col-1, #customer_details .col-2{ width:100%!important; }
+
+#order_review{ width:48%; float:right;}
+.woocommerce #order_review, .woocommerce-page #order_review{  border-left:solid 1px #ededed; padding-left:30px; box-sizing:border-box; border-radius:4px;}
+
+.feature-listing { padding:0!important; margin:0 0 25px 0!important; list-style-type:none!important; }
+.feature-listing li{ background:url(../img/right.png) no-repeat 16px 8px; padding-left:50px; padding-top:8px; padding-bottom:8px; font-size:16px; color:#212225; }
+
+.woocommerce table.shop_table, .woocommerce-page table.shop_table{ background:none!important; border:none!important; }
+.woocommerce table.shop_table{  border:none!important;  }
+
+
+.woocommerce-billing-fields__field-wrapper input[type=text]{ background:none!important; border:solid 1px #d5d5d5!important;}
+
+.woocommerce-billing-fields h3, .left-side-checkout h3, .woocommerce-checkout-review-order h2{ font-weight: 600; line-height: normal; color:#302d2b; font-size:20px!important; font-family: 'Raleway', sans-serif;}
+.woocommerce-checkout-review-order h2{ margin-top:10px; padding-left:17px;}
+
+.logomakr-form .custom-ref-img { width:100%; margin-bottom:10px; }
+.logomakr-form .custom-ref-img ul{ padding:0!important; margin:0!important; list-style-type:none!important; text-align:center!important; }
+.logomakr-form .custom-ref-img ul li{ display:inline-block!important; width:37%!important; margin-left:4%!important; margin-right:4%!important; }
+.logomakr-form .custom-ref-img ul li p{ width:100%; font-size:20px; margin-top:25px; }
+.logomakr-form .custom-ref-img ul li img{max-width:100%;max-height:250px !important;}
+
+
+.about_paypal{ text-decoration:none; color:#31a0d7; margin-left:124px;}
+.payment_box payment_method_paypal{ display:none!important; }
+
+.wc-terms-and-conditions{ float:left; font-size:12px; }
+#place_order{ float:right; background:#4fbae4; border:solid 1px #4fbae4; }
+#place_order:hover{ background:#1379c5; border:solid 1px #1379c5;}
+
+.product-name{ color:#434343;}
+.order-total th, .order-total td{ border-bottom:solid 1px #e6e6e6;}
+
+.fl-post-title{ text-align:center; font-weight:normal; font-size:30px; color:#434343; margin-bottom:68px; font-family: 'Raleway', sans-serif; }
+
+/*/////////////////20-07/18//////////////////*/
+
+p.noamit{
+	padding:0 0 0 22px;
+	margin:0;
+}
+
+p.noamit a{
+	text-decoration:underline;
+}
+
+.logomakr-woo-info{ position: relative; color: green; padding-left: 22px; }
+.logomakr-woo-info .fa{ position: absolute; left: 0; top: 0; }
+.logomakr-woo-info span{ color: #302d2b; }
+.woocommerce-checkout form.checkout{ margin-top: 6px !important; }
+
+/*/////////////////20-07/18//////////////////*/
+
+
+/* ============= */
+
+@media only screen 
+and (max-width : 800px){
+.about_paypal{ margin-left:20px; }	
+
+}
+
+
+@media only screen 
+and (max-width : 767px){
+#customer_details{ width:100%; }	
+#order_review{ width:100%; padding:0; margin:0; }
+.woocommerce #order_review, .woocommerce-page #order_review{ /*padding:0; border-left:0;*/ margin-top:15px; }
+.logomakr-form .custom-ref-img{ margin-bottom:20px; }
+.logomakr-form .custom-ref-img ul li p{ width:100%; font-size:12px; margin-top:15px; }
+div.woocommerce .video-checks h3{
+	padding:20px 0 18px 0;
+}
+.logomakr-form .custom-ref-img ul li{
+	vertical-align:top;
+}
+.woocommerce-page .fl-content{
+	margin:50px 0 40px !important;
+}
+woocommerce-checkout.woocommerce-page .fl-content{
+	margin:50px 0 40px !important
+}
+.woocommerce-checkout h1.fl-post-title{
+	margin-bottom:0;
+}
+.logomakr-form .custom-ref-img{
+	margin-bottom:20px!important;
+}
+
+}
+
+
+@media only screen 
+and (max-width : 500px){
+	
+.fl-post-title{ margin-bottom:25px; }	
+#place_order{ float:left; margin-top:30px; }
+.logomakr-form .custom-ref-img ul li p{
+	font-size:20px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

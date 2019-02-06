@@ -4,6 +4,11 @@
 		<title>oerBookr</title>
         <link rel="stylesheet" href="./CSS/index.css">
         <link href="https://fonts.googleapis.com/css?family=Courgette%7CNoto+Sans+TC:300,400" rel="stylesheet">
+        <!-- Link to GSAP -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenMax.min.js"></script>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="./JS/header.js" async></script>
 	</head>
 	<body>
 		<div class="container main-pg">
@@ -11,7 +16,7 @@
                 <nav>
                     <a href="#">Write a Review</a>
                     <a href="#">Teacher Meetups</a>
-                    <a href="#">Log In</a>
+                    <a href="#" id="bounce">Log In</a>
                     <a href="#" id="button">Sign Up</a>
                 </nav>
 
@@ -189,6 +194,12 @@
             </section>
 
             <footer>
+                <div class="social-media">
+                    <img class="social" src="./images/facebook-icon.svg">
+                    <img class="social" src="./images/instagram-icon.svg">
+                    <img class="social" src="./images/twitter-icon.svg">
+                    <img class="social" src="./images/snapchat-icon.svg">
+                </div>
                 <p>Copyright OER BOOKR 2019</p>
             </footer>
 
