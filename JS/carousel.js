@@ -53,5 +53,4 @@ let topBooksCarousel = document.querySelector(".top-oer-books .carousel");
 topBooksCarousel = new Carousel(topBooksCarousel);
 
 let newBooksCarousel = document.querySelector(".new-oer-books .carousel");
-console.log(newBooksCarousel);
 newBooksCarousel = new Carousel(newBooksCarousel);

@@ -17,6 +17,12 @@ $(".category").hover(function() {
 
 //  });
 
+let title = document.querySelector("h1");
+TweenLite.from(title, 4, {opacity:0, left:"300px"});
+title.get
+// tl.add("skew") // adds a new label
+//   .add(getSkewAnimation()) 
+
 
 function doBounce(element, times, distance, speed) {
     for(i = 0; i < times; i++) {
