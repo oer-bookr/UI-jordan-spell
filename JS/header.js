@@ -13,7 +13,9 @@ class HeaderImg {
         });
 
 
-        this.currentImgIndex = 0;
+        this.currentImgIndex = Math.floor(Math.random()* Math.floor(3));
+        // this.currentImgIndex = 0;
+        console.log(this.currentImgIndex);
         this.header = document.querySelector("header");
         
         this.header.style.backgroundImage = `url(${this.images[this.currentImgIndex]})`;
@@ -61,7 +63,7 @@ TweenLite.from(title, 4, {opacity:0, left:"300px"});
 
 
 // //customizing the sign up button
-// let signUpButton = document.getElementById("button");
+// let signUpButton = document.getElementById("#sign-up");
 
 // signUpButton.addEventListener("click", e => {
 //     alert("lets sign up");
