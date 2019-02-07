@@ -1,25 +1,39 @@
 
-images = {
-    bookcaseLadder: "../images/media/alexandre-godreau-445969-unsplash.jpg",
-    multiStoryBookcase: "../images/media/caitlin-lin-434888-unsplash.jpg",
-    windowAndBooks: "../images/media/john-mark-smith-266553-unsplash.jpg"
+let images = {
+    bookcaseLadder: "./images/media/alexandre-godreau-445969-unsplash.jpg",
+    multiStoryBookcase: "./images/media/caitlin-lin-434888-unsplash.jpg",
+    windowAndBooks: "./images/media/john-mark-smith-266553-unsplash.jpg"
 }
 
 
-class headerImg {
+class HeaderImg {
     constructor(images){
-        this.images = images;
+        this.images = Object.values(images).map(image => {
+            return image;
+        });
+
+        console.log(this.images[0]);
 
         this.currentImgIndex = 0;
-
+        this.header = document.querySelector("header");
+        console.log(this.header);
+        this.header.style.backgroundImage = `url(${this.images[this.currentImgIndex]})`;
+        
+        this.window = window;
+        this.window.addEventListener("load", () => this.rotateImg());
     }
 
     rotateImg(){
-        window.addEventListener("load", () => {
-            document.header.style.backgroundImage = "url()";
-        });
+        // this.header.style.backgroundImage = `url(${this.images[this.currentImgIndex]})`;
+        if(this.currentImgIndex === 2){
+            this.currentImgIndex = 0;
+        } else {
+            this.currentImgIndex++;
+        }
     }
 }
+
+let headerImg = new HeaderImg(images);
 
 
 
