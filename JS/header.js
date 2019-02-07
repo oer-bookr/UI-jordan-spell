@@ -12,24 +12,24 @@ class HeaderImg {
             return image;
         });
 
-        console.log(this.images[0]);
 
         this.currentImgIndex = 0;
         this.header = document.querySelector("header");
-        console.log(this.header);
+        
         this.header.style.backgroundImage = `url(${this.images[this.currentImgIndex]})`;
         
-        this.window = window;
-        this.window.addEventListener("load", () => this.rotateImg());
+        document.addEventListener("load", () => this.rotateImg());
     }
 
     rotateImg(){
-        // this.header.style.backgroundImage = `url(${this.images[this.currentImgIndex]})`;
+        
         if(this.currentImgIndex === 2){
             this.currentImgIndex = 0;
         } else {
             this.currentImgIndex++;
         }
+
+        this.header.style.backgroundImage = `url(${this.images[this.currentImgIndex]})`;
     }
 }
 
