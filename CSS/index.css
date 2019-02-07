@@ -267,6 +267,7 @@ header .search-bar #search-bar {
   height: 35px;
   font-size: 1.7rem;
   font-weight: bold;
+  cursor: pointer;
   color: white;
   background-color: #557777;
   margin: 0 25% 200px 25%;
@@ -419,6 +420,7 @@ header .search-bar #search-bar {
     color: white;
     background-color: black;
     border-radius: 50%;
+    cursor: pointer;
   }
   .main-content .left-button {
     top: 280px;
@@ -464,6 +466,7 @@ header .search-bar #search-bar {
   border-radius: 10px;
   border: 2px solid white;
   background-color: lightgray;
+  cursor: pointer;
 }
 .main-content .browse-categories .book-categories .category h3 {
   width: 100%;
@@ -529,4 +532,5 @@ footer .social-media {
 }
 footer .social-media .social {
   width: 25%;
+  cursor: pointer;
 }
