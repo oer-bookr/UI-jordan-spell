@@ -232,19 +232,31 @@ header nav .container-fluid .navbar-header .logo-img {
 header h1 {
   padding: 10%;
   margin: 120px 0;
-  font-size: 3.5rem;
+  font-size: 4rem;
+  line-height: 5.5rem;
   text-align: center;
   color: white;
   text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
 }
+header h1 .word {
+  font-size: 4.5rem;
+}
 @media (min-width: 500px) {
   header h1 {
     font-size: 5rem;
+    line-height: 6.5rem;
+  }
+  header h1 .word {
+    font-size: 6rem;
   }
 }
 @media (min-width: 800px) {
   header h1 {
     font-size: 6rem;
+    line-height: 7.5rem;
+  }
+  header h1 .word {
+    font-size: 6.5rem;
   }
 }
 header .search-bar {
@@ -411,12 +423,12 @@ header .search-bar #search-bar {
   }
   .main-content .left-button {
     top: 280px;
-    left: 25px;
+    left: 10%;
     transform: translate(0, -50%);
   }
   .main-content .right-button {
     top: 280px;
-    right: 25px;
+    right: 10%;
     transform: translate(0, -50%);
   }
   .main-content .left-button:hover,

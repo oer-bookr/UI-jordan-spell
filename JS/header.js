@@ -1,8 +1,31 @@
-// $( document ).click(function() {
-//     $( ".social" ).effect("bounce", "slow");
-//   });
+
+images = {
+    bookcaseLadder: "../images/media/alexandre-godreau-445969-unsplash.jpg",
+    multiStoryBookcase: "../images/media/caitlin-lin-434888-unsplash.jpg",
+    windowAndBooks: "../images/media/john-mark-smith-266553-unsplash.jpg"
+}
 
 
+class headerImg {
+    constructor(images){
+        this.images = images;
+
+        this.currentImgIndex = 0;
+
+    }
+
+    rotateImg(){
+        window.addEventListener("load", () => {
+            document.header.style.backgroundImage = "url()";
+        });
+    }
+}
+
+
+
+
+
+//adds a shake effect to the social media icons with jquery
 $(document).ready(function(){
     $(".social").mouseover(function(){
         // $(this).hide();
@@ -11,38 +34,16 @@ $(document).ready(function(){
 });
 
 
-
-$(".category").hover(function() {
-    doBounce($(this), 1, '10px', 300);
+//adds a bounce effect to the various book categories with jquery
+$(document).ready(function(){
+    $(".category").mouseover(function(){
+        $(this).effect("bounce", {times:1}, {distance:"10px"}, 500);
+    });
 });
-
-// $(document).ready(function() {
-
-//     $("#search-bar").click(function(){
-//        $(".category").hover( "bounce", {times:3}, 300 );
-//     });
-
-//  });
 
 let title = document.querySelector("h1");
 TweenLite.from(title, 4, {opacity:0, left:"300px"});
-title.get
-// tl.add("skew") // adds a new label
-//   .add(getSkewAnimation()) 
 
-
-function doBounce(element, times, distance, speed) {
-    for(i = 0; i < times; i++) {
-        element.animate({marginTop: '-='+distance},speed)
-            .animate({marginTop: '+='+distance},speed);
-    }        
-}
-
-
-// let reviews = document.querySelectorAll(".main-content .book-categories .category");
-// reviews.forEach(e => {
-//     e.addEventListener("mouseover", $(".category").hover( "bounce", {times:3}, 300 ));
-// })
 
 
 // //customizing the sign up button
@@ -52,9 +53,9 @@ function doBounce(element, times, distance, speed) {
 //     alert("lets sign up");
 // })
 
-// //custimizing the search button
-// let searchButton = document.getElementById("search-bar");
+//custimizing the search button
+let searchButton = document.getElementById("search-bar");
 
-// searchButton.addEventListener("click", e => {
-//     alert("search something");
-// })
+searchButton.addEventListener("click", e => {
+    alert("search something");
+})
