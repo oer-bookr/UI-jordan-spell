@@ -60,18 +60,3 @@ $(document).ready(function(){
 let title = document.querySelector("h1");
 TweenLite.from(title, 4, {opacity:0, left:"300px"});
 
-
-
-// //customizing the sign up button
-// let signUpButton = document.getElementById("#sign-up");
-
-// signUpButton.addEventListener("click", e => {
-//     alert("lets sign up");
-// })
-
-//custimizing the search button
-let searchButton = document.getElementById("search-bar");
-
-searchButton.addEventListener("click", e => {
-    alert("search something");
-})
