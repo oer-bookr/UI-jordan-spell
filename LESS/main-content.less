@@ -126,7 +126,6 @@
 
                 .review {
                     width: 30%;
-                    margin: 0;
                     padding: 0;
                     border: 2px solid black;
                     border-radius: 10px;
@@ -149,6 +148,7 @@
 
         .left-button, .right-button {
             display: block;
+            position: absolute;
             width: 4%;
             height: 40px;
             font-size: 3rem;
@@ -156,6 +156,18 @@
             background-color: black;
             border-radius: 50%;
         }
+
+        .left-button {
+            top: 280px; 
+            left: 25px;
+            transform: translate(0, -50%);
+          }
+
+          .right-button {
+            top: 280px; 
+            right: 25px;
+            transform: translate(0, -50%);
+          }
 
         .left-button:hover, .right-button:hover {
             font-weight: bold;

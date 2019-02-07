@@ -3,6 +3,13 @@
 //   });
 
 
+$(document).ready(function(){
+    $(".social").mouseover(function(){
+        // $(this).hide();
+        $(this).effect("shake", {distance: 10}, {times:3}, 1000);
+    });
+});
+
 
 
 $(".category").hover(function() {
