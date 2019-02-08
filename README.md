@@ -1,6 +1,8 @@
 # UI-jordan-spell
 Landing page for oer bookr website. It is fully responsive in mobile, tablet and desktop modes.
 
+Note that LESS was used for styling and to use the project you will need npm and the less-watch-compiler on your computer.
+
 The user is redirected to the react site that the front end architect created by clicking the sign up, log in or search here buttons.
 
 Bootstrap was implemented to create a sticky navbar that allowed for a dropdown menu in mobile and tablet mode.
